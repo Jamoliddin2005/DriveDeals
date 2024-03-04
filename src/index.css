@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+:root {
+  --grey: #323232;
+  --white: #fff;
+  --black: #000;
+  --grey2: #b9bec4;
+  --grey3: #4c4c4c;
+  --montserrat: "Montserrat", sans-serif;
+  --roboto: "Roboto", sans-serif;
+}
+
+.container {
+  width: 1400px;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.df_aic_jus_between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.slick-dots {
+  bottom: 20px;
+}
+
+@media (max-width: 1450px) {
+  .container {
+    width: 95%;
+  }
+}
+
+@media (max-width: 360px) {
+  .slick-list {
+    height: 320px;
+  }
+}

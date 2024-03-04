@@ -1,0 +1,276 @@
+.more {
+  font-family: var(--montserrat);
+  width: 100%;
+  padding: 50px 0;
+}
+
+.title {
+  font-size: 60px;
+  margin-bottom: 100px;
+  font-weight: 500;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.main {
+  justify-content: space-between;
+}
+.main .left {
+  width: 60%;
+}
+
+.main .right {
+  width: 38%;
+}
+.main .left .slider {
+  align-items: center;
+  outline: none;
+  max-width: 100%;
+}
+
+.main .left .slider .img_div {
+  width: 100%;
+  height: 100%;
+  outline: none;
+}
+
+.main .left .slider .img_div img {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+}
+
+.main .right h2 {
+  font-weight: 600;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.main .right .selector {
+  margin-bottom: 10px;
+}
+
+.main .right h2,
+.main .right .selector label,
+.main .right .kuzof h3,
+.main .right .calon h3 {
+  color: var(--grey3);
+}
+.main .right .selector label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.main .right .selector select {
+  border: 1px solid var(--grey);
+  padding: 10px;
+  font-family: var(--montserrat);
+  font-weight: 500;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+}
+
+.main .right .kuzof {
+  margin-bottom: 14px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.main .right .kuzof h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.main .right .colors {
+  gap: 2px;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.main .right .colors .item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main .right .colors .item .span {
+  border-radius: 50px;
+  border: 2px solid transparent;
+  padding: 1px;
+}
+
+.main .right .colors .item .span span {
+  display: block;
+  border: 1px solid;
+  border-color: rgb(203 213 225);
+  width: 30px;
+  height: 30px;
+  outline: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.main .right .colors .item .span span:hover {
+  border: 2px solid transparent;
+}
+.main .right .colors .item .span.active {
+  border-color: rgb(121, 121, 255);
+}
+
+.main .right .colors .item .nameCar {
+  position: absolute;
+  top: 35px;
+  left: 50%;
+  color: rgb(113 113 122);
+  font-family: var(--roboto);
+  font-size: 15px;
+  font-weight: 400;
+  transform: translateX(-50%);
+}
+
+.main .right .calon {
+  margin-bottom: 14px;
+  margin-top: 50px;
+}
+
+.main .right .calon h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.main .right .circle {
+  margin-bottom: 14px;
+  margin-top: 50px;
+}
+
+.docs {
+  margin-top: 150px;
+}
+
+.docs img {
+  width: 65%;
+  margin: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 1010px) {
+  .title {
+    font-size: 55px;
+    margin-bottom: 80px;
+  }
+
+  .main .right h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 850px) {
+  .main .right h2 {
+    font-size: 23px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 750px) {
+  .main .right h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  .main {
+    flex-direction: column;
+  }
+
+  .main .left,
+  .main .right {
+    width: 100%;
+  }
+  .title {
+    font-size: 45px;
+    margin-bottom: 0px;
+  }
+
+  .main .right .selector select {
+    padding: 10px 30px;
+  }
+}
+@media (max-width: 550px) {
+  .main {
+    flex-direction: column;
+  }
+
+  .main .right .colors .item .span span {
+    width: 30px;
+    height: 30px;
+  }
+
+  .main .right .colors .item .nameCar {
+    top: 50px;
+  }
+
+  .main .left,
+  .main .right {
+    width: 100%;
+  }
+  .title {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+
+  .main .left .slider .img_div img {
+    height: 400px;
+  }
+
+  .main .right .calon {
+    margin-top: 44px;
+  }
+  .main .right .circle {
+    margin-top: 44px;
+  }
+
+  .docs {
+    margin-top: 70px;
+  }
+
+  .docs img {
+    width: 100%;
+  }
+
+  .main {
+    overflow: hidden;
+  }
+}
+@media (max-width: 450px) {
+  .title {
+    font-size: 27px;
+    margin-bottom: 20px;
+  }
+
+  .main .left .slider .img_div img {
+    height: 350px;
+  }
+  .main .right h2 {
+    font-size: 25px;
+  }
+
+  .docs img {
+    margin-bottom: 2 0px;
+  }
+}
+
+@media (max-width: 360px) {
+  .main .left .slider .img_div img {
+    height: 300px;
+  }
+}
