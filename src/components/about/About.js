@@ -9,7 +9,7 @@ function About({ GetUrl }) {
 
   return (
     <>
-      <div className={`${classes.about} `} id="about" >
+      <div className={`${classes.about} `} id="about">
         <div className="container">
           <div className={`${classes.row} row`}>
             <div className={classes.left}>
@@ -37,6 +37,7 @@ function About({ GetUrl }) {
             </div>
             <div className={classes.right}>
               <img src="/assets/img/about.png" alt="" />
+              <img src="/assets/img/about_logo.png" alt="" />
             </div>
           </div>
         </div>

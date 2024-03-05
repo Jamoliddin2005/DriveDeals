@@ -77,7 +77,7 @@ function Home({ GetUrl }) {
           </a>
         </li>
       </ul>
-      {width <= 750 && <Bars white={"white"} />}
+      {width <= 750 && <Bars color={"white"} />}
     </div>
   );
 }

@@ -6,10 +6,11 @@ function Service({ GetUrl }) {
     GetUrl();
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   }, []);
+
   return (
     <div className={classes.service}>
       <div className={classes.map}>
-        <img src="/assets/img/map.jpg" alt="" />
+        {/* <img src="/assets/img/map.jpg" alt="" /> */}
       </div>
 
       <div className="container">

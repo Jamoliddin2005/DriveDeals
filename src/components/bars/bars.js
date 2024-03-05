@@ -1,16 +1,16 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import classes from "./bars.module.css";
 import { Link } from "react-router-dom";
 
-function Bars({ white }) {
+function Bars({ color, GetUrl }) {
   const [bars, setBars] = useState(false);
 
   return (
     <div className={classes.nav}>
       <div className={classes.bars} onClick={() => setBars(true)}>
-        <div className={classes.line} style={{ background: white }}></div>
-        <div className={classes.line} style={{ background: white }}></div>
-        <div className={classes.line} style={{ background: white }}></div>
+        <div className={classes.line} style={{ background: color }}></div>
+        <div className={classes.line} style={{ background: color }}></div>
+        <div className={classes.line} style={{ background: color }}></div>
       </div>
 
       <div className={`${classes.navbarBars} ${bars && classes.active}`}>

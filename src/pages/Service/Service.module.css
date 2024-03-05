@@ -5,6 +5,7 @@
 
 .map img {
   width: 100%;
+  /* display: none; */
 }
 
 .service {
@@ -15,6 +16,7 @@
   justify-content: space-around;
   padding: 100px 0;
 }
+
 .service_type {
   max-width: 30%;
   text-align: center;

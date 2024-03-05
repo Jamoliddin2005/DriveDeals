@@ -14,9 +14,15 @@ import Bars from "./components/bars/bars";
 
 function App() {
   const [url, setUrl] = useState("");
+  const [white, setWhite] = useState("");
 
   const GetUrl = () => {
     setUrl(window.location.pathname);
+    if (window.location.pathname === "/about") {
+      setWhite("white");
+    } else {
+      setWhite("black");
+    }
   };
 
   useEffect(() => {
@@ -26,7 +32,11 @@ function App() {
   return (
     <div className="App">
       {/* <Navbar /> */}
-      {url !== "/" ? <Bars /> : ""}
+      {url !== "/" && url !== "/contact" ? (
+        <Bars color={white} GetUrl={GetUrl} />
+      ) : (
+        ""
+      )}
 
       <Routes>
         <Route path="/" element={<Home GetUrl={GetUrl} />} />
