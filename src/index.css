@@ -38,8 +38,13 @@
 .slick-dots {
   bottom: 20px;
 }
-.AsyncImage-root {
+
+.more .lazy-load-image-background{
+  display: block !important;
+}
+.lazy-load-image-background {
   height: 100%;
+  display: contents !important;
 }
 .loading_div {
   display: flex;

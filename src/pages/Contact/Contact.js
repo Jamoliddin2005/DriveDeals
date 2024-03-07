@@ -11,7 +11,7 @@ function Contact({ GetUrl }) {
 
   return (
     <>
-      <Bars white={"white"} />
+      <Bars color={"white"} GetUrl={GetUrl} />
 
       <div className={`${classes.Foot_contact} ${classes.contact}`}>
         <div className={classes.item}></div>

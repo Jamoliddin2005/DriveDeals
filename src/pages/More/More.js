@@ -3,6 +3,8 @@ import Cars from "../../data.json";
 import Slider from "react-slick";
 import classes from "./more.module.css";
 import { useNavigate } from "react-router-dom";
+import Loading from "../../components/loading/Loading";
+import Image from "../../components/lazyLoad/Image";
 
 const sliderSettings = {
   dots: true,
@@ -125,11 +127,12 @@ function More({ GetUrl }) {
                 {currentImgs.length ? (
                   currentImgs?.map?.((img, idx) => (
                     <div key={idx} className={classes.img_div}>
+                      {/* <Image ={img}/> */}
                       <img src={img} alt="car-img" />
                     </div>
                   ))
                 ) : (
-                  <h1>"Loading..."</h1>
+                  <Loading />
                 )}
               </Slider>
             </div>

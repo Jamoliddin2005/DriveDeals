@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import classes from "./about.module.css";
-import { LazyLoadImage } from "react-lazy-load-image-component";
-import "react-lazy-load-image-component/src/effects/blur.css";
+import Image from "../lazyLoad/Image";
 
 function About({ GetUrl }) {
   useEffect(() => {
@@ -38,24 +37,12 @@ function About({ GetUrl }) {
               </p>
             </div>
             <div className={classes.right}>
-              {
-                <LazyLoadImage
-                  src={"/assets/img/about.png"}
-                  effect="blur"
-                  alt="png"
-                  className={classes.about_pc_image}
-                />
-              }
-              {
-                <LazyLoadImage
-                  src={"/assets/img/about_logo.png"}
-                  effect="blur"
-                  alt="png"
-                  className={classes.about_mobile_image}
-                />
-              }
-              {/* <img src="/assets/img/about.png" alt="" />
-              <img src="/assets/img/about_logo.png" alt="" /> */}
+              <div className={classes.about_pc_image}>
+                <Image image={"/assets/img/about.png"} />
+              </div>
+              <div className={classes.about_mobile_image}>
+                <Image image={"/assets/img/about_logo.png"} />
+              </div>
             </div>
           </div>
         </div>
@@ -173,8 +160,8 @@ function About({ GetUrl }) {
               </div>
             </div>
             <div className={classes.right}>
-              <img src="/assets/img/5.png" alt="" />
-              <img src="/assets/img/6.png" alt="" />
+              <Image image={"/assets/img/5.png"} />
+              <Image image={"/assets/img/6.png"} />
             </div>
           </div>
         </div>

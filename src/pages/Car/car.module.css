@@ -48,12 +48,13 @@
   transform: scale(1.1);
 }
 
-.categories .category img:nth-child(2) {
+.categories .category .hover {
   /* display: none; */
   opacity: 0;
+  transition: 0.5s;
 }
 
-.categories .category:hover img:nth-child(2) {
+.categories .category:hover .hover {
   opacity: 1;
 }
 
