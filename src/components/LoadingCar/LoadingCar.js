@@ -6,32 +6,24 @@ function LoadingCar({ src }) {
 
   console.log(isImageLoaded);
 
-  const LoadingImage = async () => {
+  useEffect(() => {
+    setIsImageLoaded(false);
     const image = new Image();
+
+    image.onload = () => {
+      setIsImageLoaded(true);
+      // Your custom logic after the image has loaded
+    };
 
     image.src = src;
 
-    return await (image.onload = () => {
-      setIsImageLoaded(true);
-    });
-  };
+    // Cleanup the image.onload handler on component unmount
+    return () => {
+      image.onload = null;
+    };
+  }, [src]);
 
-  LoadingImage()
-  //   useEffect(() => {
-  //     const image = new Image();
-
-  //     image.onload = () => {
-  //       setIsImageLoaded(true);
-  //       // Your custom logic after the image has loaded
-  //     };
-
-  //     image.src = src;
-
-  //     // Cleanup the image.onload handler on component unmount
-  //     return () => {
-  //       image.onload = null;
-  //     };
-  //   }, [src]);
+  
 
   return (
     <div>{isImageLoaded ? <img src={src} alt={"jpg"} /> : <Loading />}</div>
