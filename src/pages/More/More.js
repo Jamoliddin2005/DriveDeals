@@ -5,8 +5,8 @@ import React, {
   useRef,
   useState,
 } from "react";
-import Cars from "../../data.json";
 import Slider from "react-slick";
+import Cars from "../../data.json";
 import classes from "./more.module.css";
 import { useNavigate } from "react-router-dom";
 import Loading from "../../components/loading/Loading";
