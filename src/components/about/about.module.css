@@ -36,7 +36,7 @@ h1 {
   width: 100%;
 }
 
-.about .right img:last-child {
+.about .right .about_mobile_image {
   display: none;
 }
 .row {
@@ -274,10 +274,11 @@ h1 {
     transform: none;
   }
 
-  .about .right img:first-child {
+  .about .right .about_pc_image {
     display: none;
   }
-  .about .right img:last-child {
+
+  .about .right .about_mobile_image {
     display: block;
     margin-top: 30px;
   }
@@ -362,8 +363,8 @@ h1 {
     text-align: center;
     margin-bottom: 30px;
   }
-  .about{
-    padding-top: 40px;  
+  .about {
+    padding-top: 40px;
   }
   .about2 .left svg {
     width: 45px;

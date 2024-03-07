@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import classes from "./about.module.css";
 import { LazyLoadImage } from "react-lazy-load-image-component";
+import "react-lazy-load-image-component/src/effects/blur.css";
 
 function About({ GetUrl }) {
   useEffect(() => {
@@ -37,11 +38,24 @@ function About({ GetUrl }) {
               </p>
             </div>
             <div className={classes.right}>
-              {<LazyLoadImage src={"/assets/img/about.png"} alt="Image Alt" />}
+              {
+                <LazyLoadImage
+                  src={"/assets/img/about.png"}
+                  width={600}
+                  effect="blur"
+                  height={400}
+                  alt="Image Alt"
+                  className={classes.about_pc_image}
+                />
+              }
               {
                 <LazyLoadImage
                   src={"/assets/img/about_logo.png"}
+                  effect="blur"
+                  width={600}
+                  height={400}
                   alt="Image Alt"
+                  className={classes.about_mobile_image}
                 />
               }
               {/* <img src="/assets/img/about.png" alt="" />

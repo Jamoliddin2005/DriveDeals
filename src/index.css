@@ -38,7 +38,9 @@
 .slick-dots {
   bottom: 20px;
 }
-
+.AsyncImage-root {
+  height: 100%;
+}
 .loading_div {
   display: flex;
   margin: auto;
