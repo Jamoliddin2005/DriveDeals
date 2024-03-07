@@ -1,10 +1,17 @@
-import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
+import React, {
+  Suspense,
+  useEffect,
+  useLayoutEffect,
+  useRef,
+  useState,
+} from "react";
 import Cars from "../../data.json";
 import Slider from "react-slick";
 import classes from "./more.module.css";
 import { useNavigate } from "react-router-dom";
 import Loading from "../../components/loading/Loading";
 import Image from "../../components/lazyLoad/Image";
+import LoadingCar from "../../components/LoadingCar/LoadingCar";
 
 const sliderSettings = {
   dots: true,
@@ -114,134 +121,141 @@ function More({ GetUrl }) {
   };
 
   return (
-    <div className={`more ${classes.more}`}>
-      {car === "error" ? (
-        <h1>Error</h1>
-      ) : (
-        <div className={classes.container}>
-          <h2 className={classes.title}>Каталог автомобилей</h2>
+    <Suspense fallback={<Loading />}>
+      <div className={`more ${classes.more}`}>
+        {car === "error" ? (
+          <h1>Error</h1>
+        ) : (
+          <div className={classes.container}>
+            <h2 className={classes.title}>Каталог автомобилей</h2>
 
-          <main className={`row ${classes.main}`}>
-            <div className={classes.left} ref={sliderContainer}>
-              <Slider className={`${classes.slider}`} {...sliderSettings}>
-                {currentImgs.length ? (
-                  currentImgs?.map?.((img, idx) => (
-                    <div key={idx} className={classes.img_div}>
-                      {/* <Image ={img}/> */}
-                      <img src={img} alt="car-img" />
-                    </div>
-                  ))
-                ) : (
-                  <Loading />
-                )}
-              </Slider>
+            <main className={`row ${classes.main}`}>
+              <div className={classes.left} ref={sliderContainer}>
+                <Slider className={`${classes.slider}`} {...sliderSettings}>
+                  {currentImgs.length ? (
+                    currentImgs?.map?.((img, idx) => (
+                      <div key={idx} className={classes.img_div}>
+                        <LoadingCar src={img} />
+                      </div>
+                    ))
+                  ) : (
+                    <Loading />
+                  )}
+                </Slider>
+              </div>
+              <div className={classes.right}>
+                <h2>Доступные варианты</h2>
+                <div className={classes.selector}>
+                  <label htmlFor="car-select">Комплектации</label>
+                  <select
+                    name=""
+                    id="car-select"
+                    onChange={(val) => Selector(val)}
+                  >
+                    {select?.map((item, index) => (
+                      <option value={item.id} key={index}>
+                        {item.name}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+                <div className={classes.kuzof}>
+                  <h3>Цвет кузова</h3>
+                  <div className={classes.colors}>
+                    {car?.colors?.length
+                      ? car.colors.map((clr, index) => (
+                          <div
+                            onClick={() => onChangeColor(clr)}
+                            key={index}
+                            className={classes.item}
+                          >
+                            <span
+                              className={` ${classes.span} ${
+                                clr.name === color.name
+                                  ? `${classes.active}`
+                                  : ""
+                              }`}
+                            >
+                              <span style={{ background: clr.color }} />
+                            </span>
+                            {color.name === clr.name ? (
+                              <p className={classes.nameCar}>{clr.name}</p>
+                            ) : null}
+                          </div>
+                        ))
+                      : "Loading..."}
+                  </div>
+                </div>
+                <div className={classes.calon}>
+                  <h3>Цвет салона</h3>
+                  <div className={classes.colors}>
+                    {color
+                      ? color.cabins.map((cbn, index) => (
+                          <div
+                            onClick={() => onChangeCabin(cbn)}
+                            key={index}
+                            className={classes.item}
+                          >
+                            <span
+                              className={`${classes.span} ${
+                                cbn.name === cabin.name
+                                  ? `${classes.active}`
+                                  : ""
+                              }`}
+                            >
+                              <span style={{ background: cbn.color }} />
+                            </span>
+                            {cbn.name === cabin.name ? (
+                              <p className={classes.nameCar}>{cbn.name}</p>
+                            ) : null}
+                          </div>
+                        ))
+                      : "Loading..."}
+                  </div>
+                </div>
+                <div className={classes.circle}>
+                  <h3>Колеса</h3>
+                  <div className={classes.colors}>
+                    {color
+                      ? color.wheels.map((whl, index) => (
+                          <div
+                            onClick={() => onChangeWheel(whl)}
+                            key={index}
+                            className={classes.item}
+                          >
+                            <span
+                              className={`${classes.span}  ${
+                                whl.name === wheel.name
+                                  ? `${classes.active}`
+                                  : ""
+                              }`}
+                            >
+                              <span className="block border border-slate-300 bg-slate-500 w-8 h-8 rounded-full outline-none cursor-pointer shadow-md hover:border-2 hover:shadow-xl transition-all" />
+                            </span>
+                            {whl.name === wheel.name ? (
+                              <p className={classes.nameCar}>{whl.name}</p>
+                            ) : null}
+                          </div>
+                        ))
+                      : "Loading..."}
+                  </div>
+                </div>
+              </div>
+            </main>
+
+            <div className={classes.docs}>
+              <h2 className={classes.title}>Краткая характеристика</h2>
+
+              {car?.docs?.map((item, index) => (
+                <div className={classes.doc} key={index}>
+                  <img src={item} alt="" />
+                </div>
+              ))}
             </div>
-            <div className={classes.right}>
-              <h2>Доступные варианты</h2>
-              <div className={classes.selector}>
-                <label htmlFor="car-select">Комплектации</label>
-                <select
-                  name=""
-                  id="car-select"
-                  onChange={(val) => Selector(val)}
-                >
-                  {select?.map((item, index) => (
-                    <option value={item.id} key={index}>
-                      {item.name}
-                    </option>
-                  ))}
-                </select>
-              </div>
-              <div className={classes.kuzof}>
-                <h3>Цвет кузова</h3>
-                <div className={classes.colors}>
-                  {car?.colors?.length
-                    ? car.colors.map((clr, index) => (
-                        <div
-                          onClick={() => onChangeColor(clr)}
-                          key={index}
-                          className={classes.item}
-                        >
-                          <span
-                            className={` ${classes.span} ${
-                              clr.name === color.name ? `${classes.active}` : ""
-                            }`}
-                          >
-                            <span style={{ background: clr.color }} />
-                          </span>
-                          {color.name === clr.name ? (
-                            <p className={classes.nameCar}>{clr.name}</p>
-                          ) : null}
-                        </div>
-                      ))
-                    : "Loading..."}
-                </div>
-              </div>
-              <div className={classes.calon}>
-                <h3>Цвет салона</h3>
-                <div className={classes.colors}>
-                  {color
-                    ? color.cabins.map((cbn, index) => (
-                        <div
-                          onClick={() => onChangeCabin(cbn)}
-                          key={index}
-                          className={classes.item}
-                        >
-                          <span
-                            className={`${classes.span} ${
-                              cbn.name === cabin.name ? `${classes.active}` : ""
-                            }`}
-                          >
-                            <span style={{ background: cbn.color }} />
-                          </span>
-                          {cbn.name === cabin.name ? (
-                            <p className={classes.nameCar}>{cbn.name}</p>
-                          ) : null}
-                        </div>
-                      ))
-                    : "Loading..."}
-                </div>
-              </div>
-              <div className={classes.circle}>
-                <h3>Колеса</h3>
-                <div className={classes.colors}>
-                  {color
-                    ? color.wheels.map((whl, index) => (
-                        <div
-                          onClick={() => onChangeWheel(whl)}
-                          key={index}
-                          className={classes.item}
-                        >
-                          <span
-                            className={`${classes.span}  ${
-                              whl.name === wheel.name ? `${classes.active}` : ""
-                            }`}
-                          >
-                            <span className="block border border-slate-300 bg-slate-500 w-8 h-8 rounded-full outline-none cursor-pointer shadow-md hover:border-2 hover:shadow-xl transition-all" />
-                          </span>
-                          {whl.name === wheel.name ? (
-                            <p className={classes.nameCar}>{whl.name}</p>
-                          ) : null}
-                        </div>
-                      ))
-                    : "Loading..."}
-                </div>
-              </div>
-            </div>
-          </main>
-
-          <div className={classes.docs}>
-            <h2 className={classes.title}>Краткая характеристика</h2>
-
-            {car?.docs?.map((item, index) => (
-              <div className={classes.doc} key={index}>
-                <img src={item} alt="" />
-              </div>
-            ))}
           </div>
-        </div>
-      )}
-    </div>
+        )}
+      </div>
+    </Suspense>
   );
 }
 
