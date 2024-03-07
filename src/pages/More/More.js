@@ -3,7 +3,6 @@ import Cars from "../../data.json";
 import Slider from "react-slick";
 import classes from "./more.module.css";
 import { useNavigate } from "react-router-dom";
-import { Navigate } from "react-router-dom";
 
 const sliderSettings = {
   dots: true,

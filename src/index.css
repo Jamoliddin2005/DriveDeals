@@ -39,6 +39,11 @@
   bottom: 20px;
 }
 
+.loading_div {
+  display: flex;
+  margin: auto;
+  margin-bottom: 50px;
+}
 @media (max-width: 1450px) {
   .container {
     width: 95%;

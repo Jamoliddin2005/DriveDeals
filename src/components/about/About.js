@@ -1,11 +1,12 @@
 import React, { useEffect } from "react";
 import classes from "./about.module.css";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 function About({ GetUrl }) {
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
     GetUrl();
-  }, []);
+  }, [GetUrl]);
 
   return (
     <>
@@ -36,8 +37,15 @@ function About({ GetUrl }) {
               </p>
             </div>
             <div className={classes.right}>
-              <img src="/assets/img/about.png" alt="" />
-              <img src="/assets/img/about_logo.png" alt="" />
+              {<LazyLoadImage src={"/assets/img/about.png"} alt="Image Alt" />}
+              {
+                <LazyLoadImage
+                  src={"/assets/img/about_logo.png"}
+                  alt="Image Alt"
+                />
+              }
+              {/* <img src="/assets/img/about.png" alt="" />
+              <img src="/assets/img/about_logo.png" alt="" /> */}
             </div>
           </div>
         </div>

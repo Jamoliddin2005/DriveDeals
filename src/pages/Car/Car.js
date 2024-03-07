@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from "react";
 import classes from "./car.module.css";
-import Cars from "../../data.json";
 import { Link } from "react-router-dom";
 
-function Car({ GetUrl }) {
+function Car({ GetUrl, catalogs }) {
   const location = window.location.pathname.split("/")[2];
 
   const [car, setCar] = useState(false);
@@ -11,13 +10,14 @@ function Car({ GetUrl }) {
   useEffect(() => {
     GetUrl();
 
-    Cars?.catalog.forEach((item) => {
+    catalogs.forEach((item) => {
       if (item.name === location) {
         setCar(item);
         return;
       }
     });
   });
+
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   }, []);
@@ -29,7 +29,10 @@ function Car({ GetUrl }) {
           <div className="container">
             <div className={`${classes.navbar}`}>
               <Link to={`/cars/${location}`}>
-                <img src={car?.logo} alt="" />
+                <img
+                  src={`https://drive-deals-server.vercel.app/${car?.logo}`}
+                  alt=""
+                />
               </Link>
             </div>
 
@@ -38,8 +41,14 @@ function Car({ GetUrl }) {
                 if (element.id < 500) {
                   return (
                     <div className={classes.category} key={element.id}>
-                      <img src={element.img} alt="" />
-                      <img src={element.hover} alt="" />
+                      <img
+                        src={`https://drive-deals-server.vercel.app/${element.img}`}
+                        alt=""
+                      />
+                      <img
+                        src={`https://drive-deals-server.vercel.app/${element.hover}`}
+                        alt=""
+                      />
                       <Link
                         to={`${
                           element.mega
