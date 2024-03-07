@@ -41,10 +41,8 @@ function About({ GetUrl }) {
               {
                 <LazyLoadImage
                   src={"/assets/img/about.png"}
-                  width={600}
                   effect="blur"
-                  height={400}
-                  alt="Image Alt"
+                  alt="png"
                   className={classes.about_pc_image}
                 />
               }
@@ -52,9 +50,7 @@ function About({ GetUrl }) {
                 <LazyLoadImage
                   src={"/assets/img/about_logo.png"}
                   effect="blur"
-                  width={600}
-                  height={400}
-                  alt="Image Alt"
+                  alt="png"
                   className={classes.about_mobile_image}
                 />
               }
