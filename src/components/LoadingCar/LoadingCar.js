@@ -4,8 +4,6 @@ import Loading from "../loading/Loading";
 function LoadingCar({ src }) {
   const [isImageLoaded, setIsImageLoaded] = useState(false);
 
-  console.log(isImageLoaded);
-
   useEffect(() => {
     setIsImageLoaded(false);
     const image = new Image();
@@ -22,8 +20,6 @@ function LoadingCar({ src }) {
       image.onload = null;
     };
   }, [src]);
-
-  
 
   return (
     <div>{isImageLoaded ? <img src={src} alt={"jpg"} /> : <Loading />}</div>

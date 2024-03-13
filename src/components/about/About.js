@@ -160,8 +160,8 @@ function About({ GetUrl }) {
               </div>
             </div>
             <div className={classes.right}>
-              <Image image={"/assets/img/5.png"} />
-              <Image image={"/assets/img/6.png"} />
+              <img src="/assets/img/5.png" alt="" />
+              <img src="/assets/img/6.png" alt="" />
             </div>
           </div>
         </div>
