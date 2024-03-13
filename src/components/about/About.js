@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import classes from "./about.module.css";
 import Image from "../lazyLoad/Image";
+import AOS from "aos";
 
 function About({ GetUrl }) {
   useEffect(() => {
@@ -8,15 +9,21 @@ function About({ GetUrl }) {
     GetUrl();
   }, [GetUrl]);
 
+  useEffect(() => {
+    AOS.init();
+  }, []);
+
   return (
     <>
       <div className={`${classes.about} `} id="about">
         <div className="container">
           <div className={`${classes.row} row`}>
             <div className={classes.left}>
-              <h1>О компании</h1>
+              <h1 data-aos="fade-down" data-aos-duration="600">
+                О компании
+              </h1>
 
-              <p>
+              <p data-aos="fade-right" data-aos-duration="500">
                 Drive Deals экспортная компания, которая отличается своим
                 стремлением к качеству и профессионализму. Основанная в 2022
                 году в столице Поднебесной - городе Пекин, она специализируется
@@ -24,13 +31,13 @@ function About({ GetUrl }) {
                 миру.
               </p>
 
-              <p>
+              <p data-aos="fade-right">
                 Несмотря на свой молодой возраст, компания уже достигла
                 впечатляющих результатов благодаря своему уникальному подходу к
                 работе и стремлению к удовлетворению потребностей клиентов.
               </p>
 
-              <p>
+              <p data-aos="fade-right" data-aos-duration="600">
                 Drive Deals - это не просто компания, это команда
                 профессионалов, готовых предложить лучшие автомобили и
                 обеспечить высочайший уровень обслуживания.
@@ -46,12 +53,23 @@ function About({ GetUrl }) {
             </div>
           </div>
         </div>
+        <div className={classes.line}></div>
       </div>
       <div className={classes.about_center}>
         <div className="container">
-          <h1 className={classes.title}>Наши сильные стороны:</h1>
+          <h1
+            className={classes.title}
+            data-aos="fade-down"
+            data-aos-duration="600"
+          >
+            Наши сильные стороны:
+          </h1>
           <div className={`${classes.row} row`}>
-            <div className={classes.box}>
+            <div
+              className={classes.box}
+              data-aos="fade-right"
+              data-aos-duration="600"
+            >
               <div className={classes.head}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -71,7 +89,11 @@ function About({ GetUrl }) {
               </p>
               <h4> N° 1</h4>
             </div>
-            <div className={classes.box}>
+            <div
+              className={classes.box}
+              data-aos="zoom-in"
+              data-aos-duration="600"
+            >
               <div className={classes.head}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -90,7 +112,11 @@ function About({ GetUrl }) {
               </p>
               <h4> N° 2</h4>
             </div>
-            <div className={classes.box}>
+            <div
+              className={classes.box}
+              data-aos="fade-left"
+              data-aos-duration="600"
+            >
               <div className={classes.head}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +141,11 @@ function About({ GetUrl }) {
       <div className={classes.about2}>
         <div className="container">
           <div className={`${classes.row_big} row`}>
-            <div className={classes.left}>
+            <div
+              className={classes.left}
+              data-aos="fade-right"
+              data-aos-duration="600"
+            >
               <h1>О компании</h1>
               <div className={`${classes.row} row`}>
                 <div className={classes.item}>
@@ -159,7 +189,11 @@ function About({ GetUrl }) {
                 </div>
               </div>
             </div>
-            <div className={classes.right}>
+            <div
+              className={classes.right}
+              data-aos="fade-left"
+              data-aos-duration="600"
+            >
               <img src="/assets/img/5.png" alt="" />
               <img src="/assets/img/6.png" alt="" />
             </div>

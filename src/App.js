@@ -11,6 +11,7 @@ import Contact from "./pages/Contact/Contact";
 import { useEffect, useState } from "react";
 import Mega from "./pages/LiMega/Mega";
 import Bars from "./components/bars/bars";
+import "aos/dist/aos.css";
 
 function App() {
   const [url, setUrl] = useState("");

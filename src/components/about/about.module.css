@@ -1,7 +1,13 @@
 .about {
-  background: var(--grey);
+  background: var(--black);
   padding: 100px 0;
   color: var(--white);
+  padding-bottom: 50px;
+}
+
+.about .line {
+  border-bottom: 1px solid var(--white);
+  margin-top: 50px;
 }
 
 h1 {
@@ -17,6 +23,7 @@ h1 {
 .about_center {
   background: var(--white);
   padding: 100px 0;
+  overflow-x: hidden;
 }
 
 .about_center h1 {
@@ -70,6 +77,9 @@ h1 {
 .box h3 {
   font-size: 23px;
   margin-bottom: 20px;
+  min-height: 56px;
+  display: grid;
+  align-items: center;
   text-align: center;
 }
 
@@ -109,6 +119,7 @@ h1 {
 
 .about2 {
   background: var(--grey);
+  overflow-x: hidden;
   padding: 100px;
 }
 
@@ -251,6 +262,12 @@ h1 {
 }
 
 @media (max-width: 850px) {
+  .about {
+    padding: 20px 0;
+  }
+  .about .line {
+    margin-top: 20px;
+  }
   .about_center .row {
     flex-direction: column;
   }
