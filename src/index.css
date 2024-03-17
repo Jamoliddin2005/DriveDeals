@@ -16,6 +16,8 @@
   --grey3: #4c4c4c;
   --montserrat: "Montserrat", sans-serif;
   --roboto: "Roboto", sans-serif;
+  --dark: #141613;
+  --green: rgb(165, 255, 112);
 }
 
 .container {

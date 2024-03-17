@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import classes from "./Home.module.css";
 import Header from "../../components/homeHeader/Header";
-import Navbar from "../../components/navbar/navbar";
 import Bars from "../../components/bars/bars";
 import About from "../../components/about/About";
 import Service from "../Service/Service";
@@ -12,21 +11,8 @@ function Home({ GetUrl }) {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   }, []);
 
-  const [width, setWindowWidth] = useState(0);
-  useEffect(() => {
-    updateDimensions();
-
-    window.addEventListener("resize", updateDimensions);
-    return () => window.removeEventListener("resize", updateDimensions);
-  }, []);
-  const updateDimensions = () => {
-    const width = window.innerWidth;
-    setWindowWidth(width);
-  };
-
   return (
     <div className={classes.Home}>
-      <Navbar />
       <Header />
       <About GetUrl={GetUrl} />
       <Service GetUrl={GetUrl} />
@@ -81,7 +67,6 @@ function Home({ GetUrl }) {
           </a>
         </li>
       </ul>
-      {width <= 750 && <Bars color={"white"} />}
     </div>
   );
 }

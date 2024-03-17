@@ -12,6 +12,7 @@ import { useEffect, useState } from "react";
 import Mega from "./pages/LiMega/Mega";
 import Bars from "./components/bars/bars";
 import "aos/dist/aos.css";
+import Navbar from "./components/navbar/navbar";
 
 function App() {
   const [url, setUrl] = useState("");
@@ -32,11 +33,8 @@ function App() {
   return (
     <div className="App">
       {/* <Navbar /> */}
-      {url !== "/" && url !== "/contact" ? (
-        <Bars color={white} GetUrl={GetUrl} />
-      ) : (
-        ""
-      )}
+
+      <Navbar />
 
       <Routes>
         <Route path="/" element={<Home GetUrl={GetUrl} />} />

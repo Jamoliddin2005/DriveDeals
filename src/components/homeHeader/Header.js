@@ -43,13 +43,16 @@ function Header() {
           </Slider>
         </div>
       ) : (
-        <video
-          className={video || classes.videoActive}
-          src="/assets/video/header-bg.mp4"
-          autoPlay
-          muted
-          onEnded={videoEnded}
-        ></video>
+        <div className={classes.video}>
+          <div className={classes.background}></div>
+          <video
+            className={video || classes.videoActive}
+            src="/assets/video/header-bg.mp4"
+            autoPlay
+            muted
+            onEnded={videoEnded}
+          ></video>
+        </div>
       )}
     </div>
   );

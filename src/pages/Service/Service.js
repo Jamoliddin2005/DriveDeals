@@ -10,7 +10,7 @@ function Service({ GetUrl }) {
   return (
     <div className={classes.service}>
       <div className={classes.map}>
-        {/* <img src="/assets/img/map.jpg" alt="" /> */}
+        <iframe src="./map.html" width="100%"></iframe>
       </div>
 
       <div className="container">
@@ -25,7 +25,6 @@ function Service({ GetUrl }) {
                 автомобиля, логистику и другие расходы.
               </p>
             </div>
-
             <div className={classes.service_type_images}>
               <img
                 src="https://www.svgrepo.com/show/54378/dollar-symbol.svg"

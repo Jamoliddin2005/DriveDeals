@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import classes from "../../components/footer/footer.module.css";
-import { Link } from "react-router-dom";
-import Bars from "../../components/bars/bars";
+import { Link } from "react-router-dom";  
 
 function Contact({ GetUrl }) {
   useEffect(() => {
@@ -11,8 +10,6 @@ function Contact({ GetUrl }) {
 
   return (
     <>
-      <Bars color={"white"} GetUrl={GetUrl} />
-
       <div className={`${classes.Foot_contact} ${classes.contact}`}>
         <div className={classes.item}></div>
 

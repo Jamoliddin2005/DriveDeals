@@ -1,13 +1,19 @@
 .navbar {
-  background: var(--grey);
+  background: var(--dark);
   padding: 10px 0;
-  position: fixed;
-  top: 20px;
-  width: 101%;
+  position: relative;
+  top: 0px;
+  width: 100%;
   left: -1px;
   z-index: 4;
+  border-bottom: 1px solid white;
 }
 
+.homeNav {
+  width: 101%;
+  top: 20px;
+  position: fixed;
+}
 .navbar .left img {
   width: 80px;
 }

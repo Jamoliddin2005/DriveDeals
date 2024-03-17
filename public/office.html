@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Davlatlar xaritasi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Elsie:wght@400;900&family=Rufina:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            border: none !important;
+        }
+
+        body {
+            position: relative;
+            height: 400px;
+            overflow: hidden;
+            font-family: "Rufina", serif;
+            background: #141613;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            z-index: 2;
+            top: 0;
+            left: 0;
+        }
+
+        .location {
+            position: absolute;
+            background: rgb(165, 255, 112);
+            top: 100px;
+            right: 10%;
+            z-index: 5;
+            padding: 50px 30px;
+            width: 30%;
+            border-radius: 10px;
+        }
+
+        .location h3 {
+            font-size: calc(32px* var(--head-fontSize, 1));
+            line-height: calc(40px* var(--head-fontHeight, 1));
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="location">
+        <div class="item">
+            <h3>Location</h3>
+            <p>Beijing, Пекин, Китай </p>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+    <script>
+        const map = L.map('map', {
+            center: [39.9118, 116.3661],
+            zoom: 16,
+            zoomControl: true,
+            zoomSnap: 1,
+            doubleClickZoom: false,
+            scrollWheelZoom: false,
+            dragging: false,
+            inertia: false,
+            zoomAnimation: true,
+            keyboard: false,
+            touchZoom: true,
+            attributionControl: false
+        });
+
+        L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.{ext}', {
+            attribution: 'Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>. Map imagery &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+            subdomains: 'abcd',
+            maxZoom: 20,
+            ext: 'png'
+        }).addTo(map);
+        L.marker([39.9118, 116.3661]).addTo(map)
+    </script>
+</body>
+
+</html>
