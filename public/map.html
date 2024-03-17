@@ -57,10 +57,12 @@
             attributionControl: false
         });
 
-        L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.{ext}', {
+        L.tileLayer('https://tile.jawg.io/jawg-dark/{z}/{x}/{y}{r}.png?access-token=XYjBMt6qiGzpSKoVF95lohLZMYKkSzf4404aRnlylsDUfPJOML73tFWzL2Y4EFiU', {
             maxZoom: 5,
             minZoom: 3,
-            ext: 'png'
+            ext: 'png',
+            accessToken: 'XYjBMt6qiGzpSKoVF95lohLZMYKkSzf4404aRnlylsDUfPJOML73tFWzL2Y4EFiU'
+
         }).addTo(map);
         L.marker([59.8558, 80.6176]).addTo(map)
             .bindPopup("<b>Россия</b>")
