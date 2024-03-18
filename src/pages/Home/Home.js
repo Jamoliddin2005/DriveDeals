@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import classes from "./Home.module.css";
 import Header from "../../components/homeHeader/Header";
-import Bars from "../../components/bars/bars";
 import About from "../../components/about/About";
 import Service from "../Service/Service";
+import BlocksHeader from "../../components/HeaderBlocks/BlocksHeader";
 
 function Home({ GetUrl }) {
   useEffect(() => {
@@ -14,6 +14,7 @@ function Home({ GetUrl }) {
   return (
     <div className={classes.Home}>
       <Header />
+      <BlocksHeader />
       <About GetUrl={GetUrl} />
       <Service GetUrl={GetUrl} />
 

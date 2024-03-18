@@ -31,30 +31,33 @@ function Header() {
   ];
 
   return (
-    <div className={classes.Header}>
-      {video ? (
-        <div className={classes.car_photos}>
-          <Slider {...settings}>
-            {images?.map((item, index) => (
-              <div key={index}>
-                <img src={item} alt="" />
-              </div>
-            ))}
-          </Slider>
-        </div>
-      ) : (
-        <div className={classes.video}>
-          <div className={classes.background}></div>
-          <video
-            className={video || classes.videoActive}
-            src="/assets/video/header-bg.mp4"
-            autoPlay
-            muted
-            onEnded={videoEnded}
-          ></video>
-        </div>
-      )}
-    </div>
+    <>
+      <div className={classes.Header}>
+        <div className={classes.background}></div>
+        <h1>Lorem ipsum dolor sit amet.</h1>
+        {video ? (
+          <div className={classes.car_photos}>
+            <Slider {...settings}>
+              {images?.map((item, index) => (
+                <div key={index}>
+                  <img src={item} alt="" />
+                </div>
+              ))}
+            </Slider>
+          </div>
+        ) : (
+          <div className={classes.video}>
+            <video
+              className={video || classes.videoActive}
+              src="/assets/video/header-bg.mp4"
+              autoPlay
+              muted
+              onEnded={videoEnded}
+            ></video>
+          </div>
+        )}
+      </div>
+    </>
   );
 }
 

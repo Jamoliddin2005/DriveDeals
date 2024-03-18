@@ -11,13 +11,13 @@ function Form() {
     <div className={classes.Form}>
       <div className="container">
         <div className={`${classes.row} row`}>
-          <div className={classes.left} data-aos="fade-right" data-aos-duration="600">
+          <div className={classes.left} data-aos="fade-right" data-aos-duration="1000">
             <h2>Свяжитесь с нами</h2>
             <p>
               Отправьте нам сообщение, и мы свяжемся с вами, как только сможем.
             </p>
           </div>
-          <div className={classes.right}  data-aos="fade-left" data-aos-duration="600">
+          <div className={classes.right}  data-aos="fade-left" data-aos-duration="1000">
             <form action="POST">
               <div className={classes.top}>
                 <div className={classes.inputItem}>

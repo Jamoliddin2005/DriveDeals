@@ -298,6 +298,10 @@ h1 {
 }
 
 @media (max-width: 850px) {
+  .office {
+    height: 600px;
+  }
+
   .about2 .mb {
     display: flex;
     margin-top: 20px;
@@ -385,6 +389,10 @@ h1 {
 }
 
 @media (max-width: 500px) {
+  .office {
+    height: 500px;
+  }
+
   .about2 .left .item {
     width: 100%;
   }

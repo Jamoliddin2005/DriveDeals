@@ -20,11 +20,11 @@ function About({ GetUrl }) {
         <div className="container">
           <div className={`${classes.row} row`}>
             <div className={classes.left}>
-              <h1 data-aos="fade-down" data-aos-duration="600">
+              <h1 data-aos="fade-down" data-aos-duration="800">
                 О компании
               </h1>
 
-              <p data-aos="fade-right" data-aos-duration="500">
+              <p data-aos="fade-right" data-aos-duration="700">
                 Drive Deals экспортная компания, которая отличается своим
                 стремлением к качеству и профессионализму. Основанная в 2022
                 году в столице Поднебесной - городе Пекин, она специализируется
@@ -32,13 +32,13 @@ function About({ GetUrl }) {
                 миру.
               </p>
 
-              <p data-aos="fade-right">
+              <p data-aos="fade-right" data-aos-duration="600">
                 Несмотря на свой молодой возраст, компания уже достигла
                 впечатляющих результатов благодаря своему уникальному подходу к
                 работе и стремлению к удовлетворению потребностей клиентов.
               </p>
 
-              <p data-aos="fade-right" data-aos-duration="600">
+              <p data-aos="fade-right" data-aos-duration="800">
                 Drive Deals - это не просто компания, это команда
                 профессионалов, готовых предложить лучшие автомобили и
                 обеспечить высочайший уровень обслуживания.
@@ -59,7 +59,7 @@ function About({ GetUrl }) {
           <h1
             className={classes.title}
             data-aos="fade-down"
-            data-aos-duration="600"
+            data-aos-duration="700"
           >
             Наши сильные стороны:
           </h1>
@@ -67,7 +67,7 @@ function About({ GetUrl }) {
             <div
               className={classes.box}
               data-aos="fade-right"
-              data-aos-duration="600"
+              data-aos-duration="700"
             >
               <div className={classes.head}>
                 <img src="/assets/icons/human.png" alt="" />
@@ -84,7 +84,7 @@ function About({ GetUrl }) {
             <div
               className={classes.box}
               data-aos="zoom-in"
-              data-aos-duration="600"
+              data-aos-duration="700"
             >
               <div className={classes.head}>
                 <img src="/assets/icons/clock.png" alt="" />
@@ -100,7 +100,7 @@ function About({ GetUrl }) {
             <div
               className={classes.box}
               data-aos="fade-left"
-              data-aos-duration="600"
+              data-aos-duration="700"
             >
               <div className={classes.head}>
                 <img src="/assets/icons/voice.png" alt="" />
@@ -121,14 +121,14 @@ function About({ GetUrl }) {
         <div className="container">
           <div className={`${classes.row_big} row`}>
             <div className={classes.left}>
-              <h1 data-aos="fade-down" data-aos-duration="600">
+              <h1 data-aos="fade-down" data-aos-duration="800">
                 О компании
               </h1>
               <div className={`${classes.row} row`}>
                 <div
                   className={classes.item}
                   data-aos="fade-right"
-                  data-aos-duration="600"
+                  data-aos-duration="700"
                 >
                   <div className={classes.top}>
                     <img src="/assets/icons/time.png" alt="" />
@@ -144,7 +144,7 @@ function About({ GetUrl }) {
                 <div
                   className={classes.item}
                   data-aos="fade-left"
-                  data-aos-duration="600"
+                  data-aos-duration="700"
                 >
                   <div className={classes.top}>
                     <img src="/assets/icons/puzle.png" alt="" />
@@ -163,7 +163,7 @@ function About({ GetUrl }) {
             <div
               className={classes.right}
               data-aos="fade-left"
-              data-aos-duration="600"
+              data-aos-duration="800"
             >
               <div className={classes.pc}>
                 <img

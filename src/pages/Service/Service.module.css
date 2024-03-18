@@ -21,6 +21,9 @@ iframe {
 .service_type {
   max-width: 30%;
   text-align: center;
+  border: 1px solid var(--grey);
+  padding: 60px 30px;
+  border-radius: 8px;
 }
 
 .service_type_top,
@@ -36,29 +39,31 @@ iframe {
 .service_type_top .service_type_title,
 .service_type_bottom .service_type_title {
   font-family: var(--montserrat);
-  font-size: 38px;
-  font-weight: 500;
-  line-height: 30px;
+  font-size: 26px;
+  line-height: 25px;
   margin: auto;
   margin-bottom: 15px;
-  width: min-content;
-  height: 130px;
-  line-height: 35px;
+}
+
+.service_type_top .service_type_title {
+  min-height: 50px;
 }
 
 .service_type_top .service_type_text,
 .service_type_bottom .service_type_text {
-  font-size: 17px;
+  font-size: 15px;
   font-family: var(--montserrat);
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
 .service_type .service_type_images {
   display: flex;
+  justify-content: center;
+  padding: 30px 0;
 }
 .service_type .service_type_images img {
-  width: 50%;
+  width: 65%;
 }
 
 @media (max-width: 1025px) {
@@ -70,6 +75,18 @@ iframe {
     gap: 20px;
   }
 }
+
+@media (max-width: 850px) {
+  .map {
+    width: 100%;
+    height: 500px;
+  }
+
+  .row {
+    padding: 50px 0;
+  }
+}
+
 @media (max-width: 801px) {
   .service_type {
     max-width: 100%;
@@ -80,12 +97,19 @@ iframe {
   }
 }
 
-@media (min-width: 600px) {
-  /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
-}
-@media (min-width: 480px) {
-  /* smartphones, Android phones, landscape iPhone */
-}
-@media (min-width: 320px) {
-  /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+@media (max-width: 500px) {
+  .service_type {
+    padding: 30px 20px;
+  }
+
+  .service_type_top .service_type_title,
+  .service_type_bottom .service_type_title {
+    font-size: 20px;
+    line-height: normal;
+    margin-bottom: 15px;
+    min-height: auto;
+  }
+  .row{
+    gap: 15px;
+  }
 }
