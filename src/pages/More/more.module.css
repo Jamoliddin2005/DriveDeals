@@ -150,9 +150,35 @@
   font-weight: 500;
 }
 
+.main .right .step h3 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.main .right .step input[type="checkbox"] {
+  background-color: var(--dark);
+  color: var(--dark);
+  width: 30px;
+}
+
 .main .right .circle {
   margin-bottom: 14px;
   margin-top: 50px;
+}
+
+.main .right .circle .span {
+  position: relative;
+  cursor: pointer;
+}
+
+.main .right .circle .span img {
+  width: 95%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 }
 
 .docs {

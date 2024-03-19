@@ -10,7 +10,6 @@ import Cars from "../../data.json";
 import classes from "./more.module.css";
 import { useNavigate } from "react-router-dom";
 import Loading from "../../components/loading/Loading";
-import Image from "../../components/lazyLoad/Image";
 import LoadingCar from "../../components/LoadingCar/LoadingCar";
 
 const sliderSettings = {
@@ -37,6 +36,7 @@ function More({ GetUrl }) {
   const [color, setColor] = useState(0);
   const [cabin, setCabin] = useState(0);
   const [wheel, setWheel] = useState(0);
+  const [step, setStep] = useState(false);
 
   const [imgContainerWidth, setImgContainerWidth] = useState(0);
   const [currentImgs, setCurrentImgs] = useState("");
@@ -111,6 +111,11 @@ function More({ GetUrl }) {
   const onChangeWheel = (newWheel) => {
     setWheel({ ...newWheel });
     setCurrentImgs([...newWheel.images]);
+  };
+
+  const onChangeStep = () => {
+    setStep(!step);
+    setCurrentImgs([...car?.step]);
   };
 
   const navigate = useNavigate();
@@ -230,6 +235,7 @@ function More({ GetUrl }) {
                                   : ""
                               }`}
                             >
+                              <img src={whl.img} alt="" />
                               <span className="block border border-slate-300 bg-slate-500 w-8 h-8 rounded-full outline-none cursor-pointer shadow-md hover:border-2 hover:shadow-xl transition-all" />
                             </span>
                             {whl.name === wheel.name ? (
@@ -240,6 +246,23 @@ function More({ GetUrl }) {
                       : "Loading..."}
                   </div>
                 </div>
+                {car?.step && (
+                  <div className={classes.step}>
+                    <h3>Дополнительные опции</h3>
+                    <div className={classes.check}>
+                      <input
+                        type="checkbox"
+                        name="checkbox"
+                        id="checkbox"
+                        checked={step}
+                        onChange={onChangeStep}
+                      />
+                      <label htmlFor="checkbox">
+                        Подножка с электроприиводом
+                      </label>
+                    </div>
+                  </div>
+                )}
               </div>
             </main>
 

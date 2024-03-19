@@ -11,18 +11,27 @@
           "name": "AVATR 11 Модернизированная версия  90 RWD",
           "img": "/assets/img/cars/avatr/photo1.jpg",
           "hover": "/assets/img/cars/avatr/hover.jpg",
+          "step": [
+            "/assets/img/cars/lixiang/step.png",
+            "/assets/img/cars/lixiang/step.png"
+          ],
+          "docs": [
+            "/assets/img/cars/avatr/car1/car_ver_1/doc1.jpg",
+            "/assets/img/cars/avatr/car1/car_ver_1/doc2.jpg",
+            "/assets/img/cars/avatr/car1/car_ver_1/doc3.jpg"
+          ],
           "collection": [
             {
-              "id": 1,
-              "name": "Lixiang L8 MAX"
+              "id": 0,
+              "name": "Lixiang L7 AIR"
             },
             {
               "id": 500,
-              "name": "Lixiang L7 PRO"
+              "name": "Lixiang L8 MAX"
             },
             {
               "id": 501,
-              "name": "Lixiang L7 MAX"
+              "name": "Lixiang L9 MAX"
             }
           ],
           "colors": [
@@ -30,64 +39,139 @@
               "name": "Белый",
               "color": "#fff",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm1.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm2.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm3.png"
+                "/assets/img/cars/avatr/car1/carcase/Rasm1.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm2.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm3.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm4.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm5.jpg"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm5.jpg"
                   ]
                 },
                 {
                   "name": "Черный",
                   "color": "#000",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm37.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm38.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm39.png"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png"
                   ]
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png"
                   ]
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-3.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png"
                   ]
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-4.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png"
+                  ]
+                }
+              ]
+            },
+
+            {
+              "name": "Серый",
+              "color": "#444",
+              "images": [
+                "/assets/img/cars/avatr/car1/carcase/Rasm7.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm8.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm9.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/cabin/Rasm10.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm10.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "Оранжевая терракота",
+                  "color": "brown",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/cabin/Rasm37.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm38.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm39.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "wheel 1",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png"
+                  ]
+                },
+                {
+                  "name": "wheel 2",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png"
+                  ]
+                },
+                {
+                  "name": "wheel 3",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-3.png",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png"
+                  ]
+                },
+                {
+                  "name": "wheel 4",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-4.png",
+                  "images": [
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png"
                   ]
                 }
               ]
@@ -96,262 +180,68 @@
               "name": "Черный",
               "color": "#000",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm7.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm8.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm9.png"
+                "/assets/img/cars/avatr/car1/carcase/Rasm11.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm12.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm13.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm10.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm10.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm14.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm14.png"
                   ]
                 },
                 {
                   "name": "Черный",
                   "color": "#000",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm37.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm38.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm39.png"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png"
                   ]
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png"
                   ]
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-3.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png"
                   ]
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-4.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серый",
-              "color": "#444",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm11.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm12.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm13.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm14.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm14.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серебрый",
-              "color": "#ccc",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm20.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm21.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm22.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm23.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm24.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Красный",
-              "color": "red",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm25.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm26.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm27.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm28.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm28.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png"
                   ]
                 }
               ]
@@ -360,139 +250,72 @@
               "name": "Зеленый",
               "color": "#436850",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm29.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm30.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm31.png"
+                "/assets/img/cars/avatr/car1/carcase/Rasm29.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm30.png",
+                "/assets/img/cars/avatr/car1/carcase/Rasm31.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm32.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm32.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm32.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm32.png"
                   ]
                 },
                 {
                   "name": "Черный",
                   "color": "#000",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/avatr/car1/cabin/Rasm37.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm38.png",
+                    "/assets/img/cars/avatr/car1/cabin/Rasm39.png"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm15.png"
                   ]
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm16.png"
                   ]
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-3.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm17.png"
                   ]
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/avatr/car1/wheel/icon-4.png",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Голубой",
-              "color": "#40A2D8",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm33.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm34.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm35.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm36.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm36.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/avatr/car1/wheel/Rasm18.png"
                   ]
                 }
               ]
             }
-          ],
-          "docs": [
-            "/assets/img/cars/lixiang/doc1.jpg",
-            "/assets/img/cars/lixiang/doc2.jpg",
-            "/assets/img/cars/lixiang/doc3.jpg"
           ]
         },
         {
@@ -595,6 +418,10 @@
           "name": "Lixiang L7",
           "img": "/assets/img/cars/lixiang/photo.jpg",
           "hover": "/assets/img/cars/lixiang/hover.webp",
+          "step": [
+            "/assets/img/cars/lixiang/step.png",
+            "/assets/img/cars/lixiang/step.png"
+          ],
           "docs": [
             "/assets/img/cars/lixiang/car1/car_ver_1/doc1.jpg",
             "/assets/img/cars/lixiang/car1/car_ver_1/doc2.jpg",
@@ -653,6 +480,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -660,6 +488,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -667,6 +496,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -674,6 +504,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -719,6 +550,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -726,6 +558,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -733,6 +566,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -740,6 +574,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -785,6 +620,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -792,6 +628,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -799,6 +636,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -806,6 +644,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -851,6 +690,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -858,6 +698,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -865,6 +706,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -872,6 +714,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -917,6 +760,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -924,6 +768,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -931,6 +776,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -938,6 +784,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -983,6 +830,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -990,6 +838,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -997,6 +846,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1004,6 +854,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1046,9 +897,11 @@
                   ]
                 }
               ],
+
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1056,6 +909,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1063,6 +917,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1070,6 +925,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1081,62 +937,67 @@
         },
         {
           "id": 1,
-          "name": "Lixiang L8",
           "img": "/assets/img/cars/lixiang/photo2.jpg",
-          "hover": "/assets/img/cars/lixiang/hover2.webp",
+          "name": "Lixiang L8 Max",
+          "hover": "/assets/img/cars/lixiang/hover.webp",
+          "docs": [
+            "/assets/img/cars/lixiang/car1/car_ver_1/doc1.jpg",
+            "/assets/img/cars/lixiang/car1/car_ver_1/doc2.jpg",
+            "/assets/img/cars/lixiang/car1/car_ver_1/doc3.jpg"
+          ],
           "collection": [
             {
-              "id": 1,
+              "id": 500,
               "name": "Lixiang L8 MAX"
             },
             {
-              "id": 500,
-              "name": "Lixiang L7 PRO"
+              "id": 0,
+              "name": "Lixiang L7 AIR"
             },
             {
               "id": 501,
-              "name": "Lixiang L7 MAX"
+              "name": "Lixiang L9 MAX"
             }
           ],
           "colors": [
             {
-              "name": "Белый",
-              "color": "#fff",
+              "name": "Золотой металлик",
+              "color": "#b8af9f",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm1.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm2.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm3.png"
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm1.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm3.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm4.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm5.jpg"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
                   ]
                 },
                 {
-                  "name": "Черный",
-                  "color": "#000",
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1144,6 +1005,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1151,6 +1013,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1158,6 +1021,145 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый металлик",
+              "color": "rgb(81 84 91)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm5.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm6.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm7.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm8.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
+                  ]
+                },
+                {
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевая терракота",
+                  "color": "brown",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
+                  ]
+                },
+                {
+                  "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
+                  ]
+                },
+                {
+                  "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
+                  ]
+                },
+                {
+                  "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебристый металлик",
+              "color": "rgb(157 157 157)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm9.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm10.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm11.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm12.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
+                  ]
+                },
+                {
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевая терракота",
+                  "color": "brown",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
+                  ]
+                },
+                {
+                  "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
+                  ]
+                },
+                {
+                  "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
+                  ]
+                },
+                {
+                  "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1169,40 +1171,40 @@
               "name": "Черный",
               "color": "#000",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm7.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm8.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm9.png"
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm13.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm14.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm15.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm10.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm10.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm16.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
                   ]
                 },
                 {
-                  "name": "Черный",
-                  "color": "#000",
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1210,6 +1212,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1217,6 +1220,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1224,204 +1228,7 @@
                 },
                 {
                   "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серый",
-              "color": "#444",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm11.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm12.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm13.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm14.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm14.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серебрый",
-              "color": "#ccc",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm20.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm21.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm22.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm23.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm24.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Красный",
-              "color": "red",
-              "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm25.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm26.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm27.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm28.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm28.png"
-                  ]
-                },
-                {
-                  "name": "Черный",
-                  "color": "#000",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Оранжевая терракота",
-                  "color": "brown",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
-                  ]
-                }
-              ],
-              "wheels": [
-                {
-                  "name": "wheel 1",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
-                  ]
-                },
-                {
-                  "name": "wheel 2",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
-                  ]
-                },
-                {
-                  "name": "wheel 3",
-                  "images": [
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
-                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
-                  ]
-                },
-                {
-                  "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1433,40 +1240,40 @@
               "name": "Зеленый",
               "color": "#436850",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm29.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm30.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm31.png"
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm17.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm18.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm19.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm32.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm32.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm20.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
                   ]
                 },
                 {
-                  "name": "Черный",
-                  "color": "#000",
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1474,6 +1281,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1481,6 +1289,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1488,6 +1297,76 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Фиолетовый",
+              "color": "#5e00bc",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm21.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm22.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm23.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
+                  ]
+                },
+                {
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевая терракота",
+                  "color": "brown",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
+                  ]
+                },
+                {
+                  "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
+                  ]
+                },
+                {
+                  "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
+                    "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
+                  ]
+                },
+                {
+                  "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1499,40 +1378,40 @@
               "name": "Голубой",
               "color": "#40A2D8",
               "images": [
-                "/assets/img/cars/lixiang/car1/carcase/Rasm33.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm34.png",
-                "/assets/img/cars/lixiang/car1/carcase/Rasm35.png"
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm25.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm26.png",
+                "/assets/img/cars/lixiang/car1/car_ver_1/carcase/Rasm27.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm36.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm36.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm28.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm29.jpg"
                   ]
                 },
                 {
-                  "name": "Черный",
-                  "color": "#000",
+                  "name": "Мокко",
+                  "color": "rgb(45 43 42)",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm6.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm30.jpg"
                   ]
                 },
                 {
                   "name": "Оранжевая терракота",
                   "color": "brown",
                   "images": [
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm37.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm38.png",
-                    "/assets/img/cars/lixiang/car1/cabin/Rasm39.png"
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_1/cabin/Rasm31.jpg"
                   ]
                 }
               ],
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1540,6 +1419,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1547,6 +1427,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1554,6 +1435,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1621,6 +1503,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1628,6 +1511,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1635,6 +1519,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1642,6 +1527,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1687,6 +1573,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1694,6 +1581,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1701,6 +1589,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1708,6 +1597,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1753,6 +1643,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1760,6 +1651,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1767,6 +1659,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1774,6 +1667,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1819,6 +1713,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1826,6 +1721,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1833,6 +1729,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1840,6 +1737,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1885,6 +1783,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1892,6 +1791,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1899,6 +1799,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1906,6 +1807,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -1951,6 +1853,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -1958,6 +1861,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -1965,6 +1869,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -1972,6 +1877,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2017,6 +1923,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2024,6 +1931,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2031,6 +1939,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2038,6 +1947,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2116,6 +2026,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2123,6 +2034,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2130,6 +2042,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2137,6 +2050,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2181,6 +2095,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2188,6 +2103,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2195,6 +2111,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2202,6 +2119,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2246,6 +2164,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2253,6 +2172,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2260,6 +2180,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2267,6 +2188,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2311,6 +2233,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2318,6 +2241,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2325,6 +2249,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2332,6 +2257,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2376,6 +2302,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2383,6 +2310,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2390,6 +2318,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2397,6 +2326,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2441,6 +2371,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2448,6 +2379,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2455,6 +2387,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2462,6 +2395,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2506,6 +2440,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2513,6 +2448,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2520,6 +2456,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2527,6 +2464,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2598,6 +2536,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2605,6 +2544,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2612,6 +2552,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2619,6 +2560,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2663,6 +2605,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2670,6 +2613,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2677,6 +2621,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2684,6 +2629,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2728,6 +2674,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2735,6 +2682,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2742,6 +2690,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2749,6 +2698,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2793,6 +2743,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2800,6 +2751,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2807,6 +2759,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2814,6 +2767,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2858,6 +2812,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2865,6 +2820,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2872,6 +2828,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2879,6 +2836,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2923,6 +2881,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2930,6 +2889,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -2937,6 +2897,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -2944,6 +2905,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
@@ -2988,6 +2950,7 @@
               "wheels": [
                 {
                   "name": "wheel 1",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-1.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm15.png"
@@ -2995,6 +2958,7 @@
                 },
                 {
                   "name": "wheel 2",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-2.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm16.png"
@@ -3002,6 +2966,7 @@
                 },
                 {
                   "name": "wheel 3",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-3.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm17.png"
@@ -3009,6 +2974,7 @@
                 },
                 {
                   "name": "wheel 4",
+                  "img": "/assets/img/cars/lixiang/car1/wheel/icon-4.png",
                   "images": [
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png",
                     "/assets/img/cars/lixiang/car1/wheel/Rasm18.png"
