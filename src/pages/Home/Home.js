@@ -16,7 +16,6 @@ function Home({ GetUrl }) {
       <Header />
       <BlocksHeader />
       <About GetUrl={GetUrl} />
-      <Service GetUrl={GetUrl} />
 
       <ul className={classes.links}>
         <li>

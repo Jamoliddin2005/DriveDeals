@@ -22,7 +22,11 @@ function Footer() {
                   <span>Tel:</span> <a href="#">+13910671550</a>
                 </li>
                 <li>
-                  <span>Add:</span> <a href="#">Uzbekistan/Tashkent/Almalik</a>
+                  <span>Add:</span>{" "}
+                  <a href="#">
+                    Beijing City, Fangshan District, Fusheng East Street,
+                    WuKuang Premium, Building A
+                  </a>
                 </li>
                 <li>
                   <span>Email:</span>{" "}
@@ -36,7 +40,7 @@ function Footer() {
             <div className={classes.right}>
               <ul>
                 <li>
-                  <a href="#">About Drive Deals</a>
+                  <Link to="/about">About Drive Deals</Link>
                 </li>
                 <li>
                   <a href="#">Company Profile</a>
@@ -56,7 +60,7 @@ function Footer() {
                   <a href="#">Marketing Network</a>
                 </li>
                 <li>
-                  <a href="#">Service Introduction</a>
+                  <Link to="/service">Service Introduction</Link>
                 </li>
 
                 <li className={classes.right_contact}>

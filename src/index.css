@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Roboto:wght@100;300;400;500;700;900&family=Rufina:wght@400;700&display=swap");
 
 * {
   padding: 0;
@@ -15,6 +15,7 @@
   --grey2: #b9bec4;
   --grey3: #4c4c4c;
   --montserrat: "Montserrat", sans-serif;
+  --rufina: "Rufina", serif;
   --roboto: "Roboto", sans-serif;
   --dark: #141613;
   --green: rgb(165, 255, 112);

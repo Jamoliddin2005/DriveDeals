@@ -10,20 +10,48 @@
   width: 100%;
   height: 100%;
   z-index: 3;
-  background: rgb(39, 39, 39);
-  opacity: 0.7;
+  background: rgba(0, 0, 0, 0.7);
 }
 
-.Header h1 {
+.Header .item {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: var(--white);
   z-index: 3;
   text-align: center;
-  text-transform: uppercase;
-  text-shadow: 0px 0px 5px  white;
+  width: 670px;
+}
+
+.Header .item h1 {
+  color: var(--white);
+  margin-bottom: 40px;
+  font-size: 72px;
+  font-family: var(--rufina);
+  line-height: 75px;
+}
+
+.Header .item .buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.Header .item .buttons a {
+  background-color: var(--green);
+  font-family: var(--rufina);
+  color: rgb(17, 24, 39);
+  padding: 0.75rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  border-radius: 8px;
+  transition: 0.1s;
+  border: 1px solid var(--green);
+}
+
+.Header .item .buttons a:hover {
+  opacity: 0.9;
 }
 
 .video {
@@ -48,4 +76,54 @@
   height: 100vh;
   width: 100%;
   object-fit: cover;
+}
+
+@media (max-width: 850px) {
+  .Header .item {
+    width: 100%;
+  }
+
+  .Header .item h1 {
+    font-size: 55px;
+    line-height: 60px;
+    margin-bottom: 20px;
+  }
+
+  .Header .item .buttons a {
+    font-size: 1.2rem;
+    line-height: 1.15rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .Header .item h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .Header .item .buttons a {
+    font-size: 1.2rem;
+    line-height: 1.25rem;
+    padding: 0.6rem 0.8rem;
+  }
+
+  .Header .item .buttons {
+    gap: 8px;
+  }
+}
+@media (max-width: 400px) {
+  .Header .item h1 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  .Header .item .buttons a {
+    font-size: 15px;
+    line-height: normal;
+    padding: 0.5rem 0.7rem;
+  }
+
+  .Header .item .buttons {
+    gap: 8px;
+  }
 }

@@ -40,7 +40,7 @@ function Service({ GetUrl }) {
 
             <div className={classes.service_type_bottom}>
               <h2 className={classes.service_type_title}>
-                Подтверждение модели, цвета, места доставки
+                Подтверждение модели, цвета и т.д
               </h2>
               <p className={classes.service_type_text}>
                 Выберите желаемую модель, цвет и место доставки. Наш менеджер
@@ -55,7 +55,7 @@ function Service({ GetUrl }) {
           >
             <div className={classes.service_type_top}>
               <h2 className={classes.service_type_title}>
-                Организация экспортных процедур
+                Организация экспортных процедур{" "}
               </h2>
               <p className={classes.service_type_text}>
                 Наша команда профессионалов возьмет на себя все экспортные
@@ -69,7 +69,7 @@ function Service({ GetUrl }) {
 
             <div className={classes.service_type_bottom}>
               <h2 className={classes.service_type_title}>
-                Подписание контракта и внесение оплаты
+                Подписание контракта и оплата{" "}
               </h2>
               <p className={classes.service_type_text}>
                 После вашего согласия мы подготовим контракт, который вы сможете
@@ -84,7 +84,7 @@ function Service({ GetUrl }) {
           >
             <div className={classes.service_type_top}>
               <h2 className={classes.service_type_title}>
-                Получение и проверка автомобиля
+                Получение и проверка{" "}
               </h2>
               <p className={classes.service_type_text}>
                 По прибытии автомобиля вы сможете его получить и осуществить

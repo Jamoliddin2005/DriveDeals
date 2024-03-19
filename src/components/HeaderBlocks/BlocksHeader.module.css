@@ -12,7 +12,6 @@
 
 .BlocksHeader .row {
   justify-content: space-between;
-
   gap: 20px;
 }
 
@@ -26,4 +25,40 @@
 
 .BlocksHeader .block img:hover {
   filter: brightness(1);
+}
+
+@media (max-width: 1052px) {
+  .BlocksHeader .block {
+    width: 32%;
+    margin-bottom: 20px;
+  }
+
+  .BlocksHeader .row {
+    gap: unset;
+  }
+}
+
+@media (max-width: 850px) {
+  .BlocksHeader .block {
+    width: 32%;
+    height: 350px;
+  }
+  .BlocksHeader {
+    padding-top: 30px;
+  }
+}
+
+@media (max-width: 550px) {
+  .BlocksHeader .block {
+    width: 32%;
+    height: 250px;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 400px) {
+  .BlocksHeader .block {
+    width: 32%;
+    height: 150px;
+    margin-bottom: 10px;
+  }
 }

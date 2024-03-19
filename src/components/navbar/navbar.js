@@ -4,7 +4,7 @@ import { Link, useLocation } from "react-router-dom";
 import Bars from "../bars/bars";
 
 function Navbar() {
-  const location = useLocation(); // once ready it returns the 'window.location' object
+  const location = useLocation();
   const [url, setUrl] = useState(null);
   useEffect(() => {
     setUrl(location.pathname);

@@ -1,12 +1,16 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import classes from "./header.module.css";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import { Link } from "react-router-dom";
+import AOS from "aos";
 
 function Header() {
   const [video, setVideo] = useState(false);
-
+  useEffect(() => {
+    AOS.init();
+  }, []);
   const videoEnded = () => {
     setVideo(true);
   };
@@ -34,7 +38,20 @@ function Header() {
     <>
       <div className={classes.Header}>
         <div className={classes.background}></div>
-        <h1>Lorem ipsum dolor sit amet.</h1>
+        <div className={classes.item}>
+          <h1 data-aos="fade-up" data-aos-duration="900">
+            Drive Your Dreams <br /> Today
+          </h1>
+          <div
+            className={classes.buttons}
+            data-aos="fade-up"
+            data-aos-offset="-100"
+            data-aos-duration="1000"
+          >
+            <Link to={"/catalog"}>Смотреть каталог</Link>
+            <Link to={"/contact"}>Связаться с нами</Link>
+          </div>
+        </div>
         {video ? (
           <div className={classes.car_photos}>
             <Slider {...settings}>

@@ -5,10 +5,10 @@ import AOS from "aos";
 import Form from "../form/form";
 
 function About({ GetUrl }) {
-  useEffect(() => {
-    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
-    GetUrl();
-  }, [GetUrl]);
+  // useEffect(() => {
+  //   window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+  //   GetUrl();
+  // }, [GetUrl]);
 
   useEffect(() => {
     AOS.init();
@@ -121,9 +121,6 @@ function About({ GetUrl }) {
         <div className="container">
           <div className={`${classes.row_big} row`}>
             <div className={classes.left}>
-              <h1 data-aos="fade-down" data-aos-duration="800">
-                О компании
-              </h1>
               <div className={`${classes.row} row`}>
                 <div
                   className={classes.item}
@@ -158,33 +155,6 @@ function About({ GetUrl }) {
                     услуг.
                   </p>
                 </div>
-              </div>
-            </div>
-            <div
-              className={classes.right}
-              data-aos="fade-left"
-              data-aos-duration="800"
-            >
-              <div className={classes.pc}>
-                <img
-                  src="/assets/img/shadow.png"
-                  alt=""
-                  className={classes.shadow}
-                />
-                <img
-                  src="/assets/img/shadow2.png"
-                  alt=""
-                  className={`${classes.shadow} ${classes.shadow2}`}
-                />
-                <img
-                  src="/assets/img/about2-right.png"
-                  alt=""
-                  className={classes.rightImg}
-                />
-              </div>
-              <div className={classes.mb}>
-                <img src="/assets/img/5.png" alt="" />
-                <img src="/assets/img/6.png" alt="" />
               </div>
             </div>
           </div>

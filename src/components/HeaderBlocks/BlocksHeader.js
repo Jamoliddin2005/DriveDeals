@@ -8,12 +8,12 @@ function BlocksHeader() {
   }, []);
 
   const [blockImages] = useState([
-    "/assets/img/block-1.jfif",
-    "/assets/img/block-5.jpeg",
+    "/assets/img/about-block-6.jpg",
+    "/assets/img/about1.jpg",
+    "/assets/img/about-block-4.jpg",
+    "/assets/img/about-block-5.jpg",
     "/assets/img/block-2.jfif",
-    "/assets/img/block-3.jfif",
-    "/assets/img/block-6.jfif",
-    "/assets/img/block-4.jfif",
+    "/assets/img/about-block-3.jpg",
   ]);
 
   return (
