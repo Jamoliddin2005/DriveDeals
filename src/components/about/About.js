@@ -5,10 +5,10 @@ import AOS from "aos";
 import Form from "../form/form";
 
 function About({ GetUrl }) {
-  // useEffect(() => {
-  //   window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
-  //   GetUrl();
-  // }, [GetUrl]);
+  useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+    GetUrl();
+  }, [GetUrl]);
 
   useEffect(() => {
     AOS.init();
