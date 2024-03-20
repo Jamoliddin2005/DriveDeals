@@ -149,7 +149,6 @@ h1 {
 .about2 .left .item {
   color: var(--white);
   width: 46%;
-  border: 1px solid var(--white);
   border-radius: 8px;
   padding:50px 30px 30px;
 }
