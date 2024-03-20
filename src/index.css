@@ -49,11 +49,16 @@
   height: 100%;
   display: contents !important;
 }
+
 .loading_div {
   display: flex;
   margin: auto;
   margin-bottom: 50px;
 }
+.more .loading_div{
+  justify-content: center;
+}
+
 @media (max-width: 1450px) {
   .container {
     width: 95%;

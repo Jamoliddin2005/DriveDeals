@@ -10,19 +10,19 @@ function LoadingCar({ src }) {
 
     image.onload = () => {
       setIsImageLoaded(true);
-      // Your custom logic after the image has loaded
     };
 
     image.src = src;
 
-    // Cleanup the image.onload handler on component unmount
     return () => {
       image.onload = null;
     };
   }, [src]);
 
   return (
-    <div>{isImageLoaded ? <img src={src} alt={"jpg"} /> : <Loading />}</div>
+    <div className="loading_div">
+      {isImageLoaded ? <img src={src} alt={"jpg"} /> : <Loading />}
+    </div>
   );
 }
 
