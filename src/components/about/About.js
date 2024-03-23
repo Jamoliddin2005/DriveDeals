@@ -162,9 +162,8 @@ function About({ GetUrl }) {
       </div>
 
       <div className={classes.office}>
-        <iframe src="/office.html" width={"100%"}></iframe>
+        <iframe src="/assets/map/office.html" width={"100%"}></iframe>
       </div>
-
       <Form />
     </>
   );

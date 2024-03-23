@@ -1,5 +1,4 @@
 import { Route, Routes } from "react-router-dom";
-// import Navbar from "./components/navbar/navbar";
 import Home from "./pages/Home/Home";
 import About from "./components/about/About";
 import Car from "./pages/Car/Car";
@@ -10,9 +9,9 @@ import Service from "./pages/Service/Service";
 import Contact from "./pages/Contact/Contact";
 import { useEffect, useState } from "react";
 import Mega from "./pages/LiMega/Mega";
-import Bars from "./components/bars/bars";
 import "aos/dist/aos.css";
 import Navbar from "./components/navbar/navbar";
+import Error from "./pages/Error/Error";
 
 function App() {
   const [url, setUrl] = useState("");
@@ -32,8 +31,6 @@ function App() {
   });
   return (
     <div className="App">
-      {/* <Navbar /> */}
-
       <Navbar />
 
       <Routes>
@@ -45,6 +42,7 @@ function App() {
         <Route path="/service" element={<Service GetUrl={GetUrl} />} />
         <Route path="/cars/li-auto/mega" element={<Mega GetUrl={GetUrl} />} />
         <Route path="/contact" element={<Contact GetUrl={GetUrl} />} />
+        <Route path="/*" element={<Error GetUrl={GetUrl} />} />
       </Routes>
 
       {url !== "/contact" ? <Footer /> : ""}
