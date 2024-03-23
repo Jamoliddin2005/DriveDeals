@@ -91,13 +91,13 @@ function More({ GetUrl }) {
         setColor(initColor);
         setCurrentImgs(initColor.images);
 
-        if (initColor.cabins.length) {
+        if (initColor?.cabins?.length) {
           const initCabin = initColor.cabins[0];
 
           setCabin(initCabin);
         }
 
-        if (initColor.wheels.length) {
+        if (initColor?.wheels?.length) {
           const initWheel = initColor.wheels[0];
           setWheel(initWheel);
         }
@@ -168,10 +168,7 @@ function More({ GetUrl }) {
 
   const navigate = useNavigate();
 
-  const Selector = (value) => {
-    GetSelect();
-    navigate(`/cars/${location}/${value.target.value}`, { replace: true });
-  };
+  const Selector = (value) => {};
 
   return (
     <Suspense fallback={<Loading />}>
@@ -216,7 +213,7 @@ function More({ GetUrl }) {
                   <h3>Цвет кузова</h3>
                   <div className={classes.colors}>
                     {car?.colors?.length
-                      ? car.colors.map((clr, index) => (
+                      ? car?.colors?.map((clr, index) => (
                           <div
                             onClick={() => onChangeColor(clr)}
                             key={index}
@@ -243,7 +240,7 @@ function More({ GetUrl }) {
                   <h3>Цвет салона</h3>
                   <div className={classes.colors}>
                     {color
-                      ? color.cabins.map((cbn, index) => (
+                      ? color?.cabins?.map((cbn, index) => (
                           <div
                             onClick={() => onChangeCabin(cbn)}
                             key={index}
@@ -297,10 +294,10 @@ function More({ GetUrl }) {
                   </div>
                 )}
                 <div className={classes.circle}>
-                  <h3>Колеса</h3>
                   <div className={classes.colors}>
+                    {color?.wheels && <h3>Колеса</h3>}
                     {color
-                      ? color.wheels.map((whl, index) => (
+                      ? color?.wheels?.map((whl, index) => (
                           <div
                             onClick={() => onChangeWheel(whl)}
                             key={index}
