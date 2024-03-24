@@ -21,7 +21,7 @@ function Car({ GetUrl }) {
         setCar(item);
         
       } else {
-        console.log("asd");
+        // console.log("asd");
         // navigate("/login");
       }
     });

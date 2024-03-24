@@ -2384,17 +2384,335 @@
             }
           ]
         },
+
         {
           "id": 11,
           "name": "DM-i",
           "img": "/assets/img/cars/byd/dmi.jpg",
-          "hover": "/assets/img/cars/byd/dmi2.jpg"
+          "hover": "/assets/img/cars/byd/dmi2.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "DM-i 1.5 L 121 km Elite"
+            },
+            {
+              "id": 1,
+              "name": "DM-i 1.5 L 121 km Deluxe"
+            },
+            {
+              "id": 2,
+              "name": "DM-i 1.5 L 121 km Prestige"
+            },
+            {
+              "id": 3,
+              "name": "DM-i 1.5 T 121 km Honor"
+            },
+            {
+              "id": 4,
+              "name": "DM-i 1.5 T 121 km Flagship"
+            },
+            {
+              "id": 4,
+              "name": "DM-i 1.5 T 200 km Flagship"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Молочный",
+              "color": "rgb(209 198 168)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm11.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm11.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(76 89 119)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm12.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm12.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "rgb(26 35 42)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm13.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm13.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm14.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm14.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(121 149 173)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm15.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm15.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(110 69 75)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm16.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm16.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
         },
+
         {
           "id": 12,
           "name": "Champion edition",
           "img": "/assets/img/cars/byd/champ.jpg",
-          "hover": "/assets/img/cars/byd/champ2.jpg"
+          "hover": "/assets/img/cars/byd/champ2.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Champion Edition 550 km Elite"
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition 550 km Prestige"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition 700 km Prestige"
+            },
+            {
+              "id": 3,
+              "name": "Champion Edition 700 km Performance"
+            },
+            {
+              "id": 4,
+              "name": "Champion Edition 650 km Performance 4WD"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Серый (за доп.плату)",
+              "color": "rgb(162 169 165)",
+              "images": [
+                "/assets/img/cars/byd/car12/carcase/Rasm1.jpg",
+                "/assets/img/cars/byd/car12/carcase/Rasm1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(104 123 143)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                  ]
+                },
+                {
+                  "name": "Голубой",
+                  "color": "rgb(44 56 66)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(135 156 173)",
+              "images": [
+                "/assets/img/cars/byd/car12/carcase/Rasm2.jpg",
+                "/assets/img/cars/byd/car12/carcase/Rasm2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(104 123 143)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                  ]
+                },
+                {
+                  "name": "Голубой",
+                  "color": "rgb(44 56 66)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car12/carcase/Rasm3.jpg",
+                "/assets/img/cars/byd/car12/carcase/Rasm3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(104 123 143)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                  ]
+                },
+                {
+                  "name": "Голубой",
+                  "color": "rgb(44 56 66)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car12/carcase/Rasm4.jpg",
+                "/assets/img/cars/byd/car12/carcase/Rasm4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(104 123 143)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                  ]
+                },
+                {
+                  "name": "Голубой",
+                  "color": "rgb(44 56 66)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(156 173 191)",
+              "images": [
+                "/assets/img/cars/byd/car12/carcase/Rasm5.jpg",
+                "/assets/img/cars/byd/car12/carcase/Rasm5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(104 123 143)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                  ]
+                },
+                {
+                  "name": "Голубой",
+                  "color": "rgb(44 56 66)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро (за доп.плату)",
+              "color": "rgb(209 211 213)",
+              "images": [
+                "/assets/img/cars/byd/car12/carcase/Rasm6.jpg",
+                "/assets/img/cars/byd/car12/carcase/Rasm6.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(104 123 143)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                  ]
+                },
+                {
+                  "name": "Голубой",
+                  "color": "rgb(44 56 66)",
+                  "images": [
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -2408,13 +2726,735 @@
           "id": 0,
           "name": "M5",
           "img": "/assets/img/cars/aito/m5.jpg",
-          "hover": "/assets/img/cars/aito/m51.jpg"
+          "hover": "/assets/img/cars/aito/m51.jpg",
+          "oneTech": [
+            {
+              "name": "HUD, аудиодинамики в подголовнике, хрустальный рычаг передач, подогрев второго ряда",
+              "img": [
+                "/assets/img/cars/aito/car1/hud.jpg",
+                "/assets/img/cars/aito/car1/hud.jpg"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "AITO M5 PHEV Standard RWD"
+            },
+            {
+              "id": 1,
+              "name": "AITO M5 PHEV Standard 4WD"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/aito/car1/carcase/Rasm1.png",
+                "/assets/img/cars/aito/car1/carcase/Rasm1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg"
+                  ]
+                },
+                {
+                  "name": "Бордо",
+                  "color": "rgb(176 96 95)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые алюминиевые диски с пятью спицами 255/50 R19 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/carcase/Rasm1.png",
+                    "/assets/img/cars/aito/car1/carcase/Rasm1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые сдвоенные спортивные колеса с пятью спицами 255/45 R20 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/wheel/Rasm7.png",
+                    "/assets/img/cars/aito/car1/wheel/Rasm7.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(150 153 157)",
+              "images": [
+                "/assets/img/cars/aito/car1/carcase/Rasm2.png",
+                "/assets/img/cars/aito/car1/carcase/Rasm2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg"
+                  ]
+                },
+                {
+                  "name": "Бордо",
+                  "color": "rgb(176 96 95)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые алюминиевые диски с пятью спицами 255/50 R19 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/carcase/Rasm2.png",
+                    "/assets/img/cars/aito/car1/carcase/Rasm2.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые сдвоенные спортивные колеса с пятью спицами 255/45 R20 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/wheel/Rasm8.png",
+                    "/assets/img/cars/aito/car1/wheel/Rasm8.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/aito/car1/carcase/Rasm3.png",
+                "/assets/img/cars/aito/car1/carcase/Rasm3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg"
+                  ]
+                },
+                {
+                  "name": "Бордо",
+                  "color": "rgb(176 96 95)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые алюминиевые диски с пятью спицами 255/50 R19 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/carcase/Rasm3.png",
+                    "/assets/img/cars/aito/car1/carcase/Rasm3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые сдвоенные спортивные колеса с пятью спицами 255/45 R20 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/wheel/Rasm9.png",
+                    "/assets/img/cars/aito/car1/wheel/Rasm9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(128 162 139)",
+              "images": [
+                "/assets/img/cars/aito/car1/carcase/Rasm4.png",
+                "/assets/img/cars/aito/car1/carcase/Rasm4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg"
+                  ]
+                },
+                {
+                  "name": "Бордо",
+                  "color": "rgb(176 96 95)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые алюминиевые диски с пятью спицами 255/50 R19 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/carcase/Rasm4.png",
+                    "/assets/img/cars/aito/car1/carcase/Rasm4.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые сдвоенные спортивные колеса с пятью спицами 255/45 R20 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/wheel/Rasm10.png",
+                    "/assets/img/cars/aito/car1/wheel/Rasm10.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(151 198 229)",
+              "images": [
+                "/assets/img/cars/aito/car1/carcase/Rasm5.png",
+                "/assets/img/cars/aito/car1/carcase/Rasm5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg"
+                  ]
+                },
+                {
+                  "name": "Бордо",
+                  "color": "rgb(176 96 95)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые алюминиевые диски с пятью спицами 255/50 R19 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/carcase/Rasm5.png",
+                    "/assets/img/cars/aito/car1/carcase/Rasm5.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые сдвоенные спортивные колеса с пятью спицами 255/45 R20 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/wheel/Rasm11.png",
+                    "/assets/img/cars/aito/car1/wheel/Rasm11.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Бежевый",
+              "color": "rgb(236 215 200)",
+              "images": [
+                "/assets/img/cars/aito/car1/carcase/Rasm6.png",
+                "/assets/img/cars/aito/car1/carcase/Rasm6.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm13.jpg"
+                  ]
+                },
+                {
+                  "name": "Бордо",
+                  "color": "rgb(176 96 95)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm14.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm15.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg",
+                    "/assets/img/cars/aito/car1/cabin/Rasm16.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые алюминиевые диски с пятью спицами 255/50 R19 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/carcase/Rasm6.png",
+                    "/assets/img/cars/aito/car1/carcase/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые сдвоенные спортивные колеса с пятью спицами 255/45 R20 с шинами Pirelli",
+                  "img": "/assets/img/cars/aito/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car1/wheel/Rasm12.png",
+                    "/assets/img/cars/aito/car1/wheel/Rasm12.png"
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "id": 1,
           "name": "M7",
           "img": "/assets/img/cars/aito/m7.jpg",
-          "hover": "/assets/img/cars/aito/m71.jpg"
+          "hover": "/assets/img/cars/aito/m71.jpg",
+          "oneTech": [
+            {
+              "name": "HUD, аудиодинамики в подголовнике, хрустальный рычаг передач, доводчики",
+              "img": [
+                "/assets/img/cars/aito/car2/hud.jpg",
+                "/assets/img/cars/aito/car2/hud.jpg"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "AITO M7 RWD Plus 5"
+            },
+            {
+              "id": 1,
+              "name": "AITO M7 RWD Plus 6"
+            },
+            {
+              "id": 2,
+              "name": "AITO M7 4WD Plus 5"
+            },
+            {
+              "id": 3,
+              "name": "AITO M7 Intelligent Drive RWD Max 5"
+            },
+            {
+              "id": 4,
+              "name": "AITO M7 Intelligent Drive RWD Max 6"
+            },
+            {
+              "id": 5,
+              "name": "AITO M7 Intelligent Drive 4WD Max 5"
+            },
+            {
+              "id": 6,
+              "name": "AITO M7 Intelligent Drive 4WD Max 6"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/aito/car2/carcase/Rasm18.png",
+                "/assets/img/cars/aito/car2/carcase/Rasm18.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "255/50 R20 десятиспицевые",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/carcase/Rasm18.png",
+                    "/assets/img/cars/aito/car2/carcase/Rasm18.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 аэродинамические (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm26.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm26.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 спортивные (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm27.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm27.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(150 153 157)",
+              "images": [
+                "/assets/img/cars/aito/car2/carcase/Rasm19.png",
+                "/assets/img/cars/aito/car2/carcase/Rasm19.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "255/50 R20 десятиспицевые",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/carcase/Rasm19.png",
+                    "/assets/img/cars/aito/car2/carcase/Rasm19.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 аэродинамические (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm28.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm28.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 спортивные (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm29.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm29.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/aito/car2/carcase/Rasm20.png",
+                "/assets/img/cars/aito/car2/carcase/Rasm20.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "255/50 R20 десятиспицевые",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/carcase/Rasm20.png",
+                    "/assets/img/cars/aito/car2/carcase/Rasm20.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 аэродинамические (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm30.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm30.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 спортивные (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm31.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm31.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(128 162 139)",
+              "images": [
+                "/assets/img/cars/aito/car2/carcase/Rasm21.png",
+                "/assets/img/cars/aito/car2/carcase/Rasm21.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "255/50 R20 десятиспицевые",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/carcase/Rasm21.png",
+                    "/assets/img/cars/aito/car2/carcase/Rasm21.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 аэродинамические (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm32.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm32.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 спортивные (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm33.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(151 198 229)",
+              "images": [
+                "/assets/img/cars/aito/car2/carcase/Rasm22.png",
+                "/assets/img/cars/aito/car2/carcase/Rasm22.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm36.jpg"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(173 156 138)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm37.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(148 130 106)",
+                  "images": [
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aito/car2/cabin/Rasm38.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "255/50 R20 десятиспицевые",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/carcase/Rasm22.png",
+                    "/assets/img/cars/aito/car2/carcase/Rasm22.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 аэродинамические (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm34.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm34.png"
+                  ]
+                },
+                {
+                  "name": "265/45 R21 спортивные (за доп.плату)",
+                  "img": "/assets/img/cars/aito/car2/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/aito/car2/wheel/Rasm35.png",
+                    "/assets/img/cars/aito/car2/wheel/Rasm35.png"
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "id": 2,

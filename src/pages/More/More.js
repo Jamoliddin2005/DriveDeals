@@ -8,7 +8,6 @@ import React, {
 import Slider from "react-slick";
 import Cars from "../../data.json";
 import classes from "./more.module.css";
-import { useNavigate } from "react-router-dom";
 import Loading from "../../components/loading/Loading";
 import LoadingCar from "../../components/LoadingCar/LoadingCar";
 
@@ -46,6 +45,7 @@ function More({ GetUrl }) {
   const [electroDoors, setElectroDoors] = useState(false);
   const [screen, setScreen] = useState(false);
   const [aromatization, setAromatization] = useState(false);
+  const [oneTech, setOneTech] = useState(false);
 
   const [imgContainerWidth, setImgContainerWidth] = useState(0);
   const [currentImgs, setCurrentImgs] = useState("");
@@ -165,8 +165,10 @@ function More({ GetUrl }) {
     setAromatization(!aromatization);
     setCurrentImgs([...car?.aromatization]);
   };
-
-  const navigate = useNavigate();
+  const onChangeOneTech = () => {
+    setOneTech(!oneTech);
+    setCurrentImgs([...car?.oneTech[0]?.img]);
+  };
 
   const Selector = (value) => {};
 
@@ -293,9 +295,9 @@ function More({ GetUrl }) {
                     </div>
                   </div>
                 )}
-                <div className={classes.circle}>
+                <div className={`${classes.circle} ${classes.pos_circle}`}>
+                  {color?.wheels && <h3>Колеса</h3>}
                   <div className={classes.colors}>
-                    {color?.wheels && <h3>Колеса</h3>}
                     {color
                       ? color?.wheels?.map((whl, index) => (
                           <div
@@ -465,6 +467,24 @@ function More({ GetUrl }) {
                       <label htmlFor="checkbox4">
                         {" "}
                         Интеллектуальная система ароматизации
+                      </label>
+                    </div>
+                  </div>
+                )}
+                {car?.oneTech && (
+                  <div className={`${classes.step} ${classes.oneTech}`}>
+                    <div className={classes.check}>
+                      <input
+                        type="checkbox"
+                        name="checkbox5"
+                        id="checkbox5"
+                        checked={oneTech}
+                        onChange={onChangeOneTech}
+                      />
+                      <label htmlFor="checkbox5">
+                        {car?.oneTech.map((item, index) => (
+                          <p key={index}>{item.name}</p>
+                        ))}
                       </label>
                     </div>
                   </div>
