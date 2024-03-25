@@ -1,0 +1,2752 @@
+[
+  {
+    "id": 0,
+    "name": "avatr",
+    "img": "/assets/img/avatr.png",
+    "logo": "/assets/img/cars/avatr/logo.png",
+    "cars": [
+      {
+        "id": 0,
+        "name": "AVATR 11 Модернизированная версия  90 RWD",
+        "img": "/assets/img/cars/avatr/photo1.jpg",
+        "hover": "/assets/img/cars/avatr/hover.jpg",
+        "options": [
+          {
+            "name": "Комплект спортивного вида",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car1/sport.png",
+              "/assets/img/cars/avatr/car1/sport.png"
+            ]
+          },
+          {
+            "name": "Электрические двери",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car1/electroDoors.png",
+              "/assets/img/cars/avatr/car1/electroDoors.png"
+            ]
+          },
+          {
+            "name": "Экран Halo, приветственная подсветка входной двери",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car1/screen.png",
+              "/assets/img/cars/avatr/car1/screen.png"
+            ]
+          },
+          {
+            "name": "Интеллектуальная система ароматизации",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car1/aromatization.png",
+              "/assets/img/cars/avatr/car1/aromatization.png"
+            ]
+          }
+        ],
+        "docs": [
+          "/assets/img/cars/avatr/car1/doc-1.jpg",
+          "/assets/img/cars/avatr/car1/doc-2.jpg",
+          "/assets/img/cars/avatr/car1/doc-3.jpg",
+          "/assets/img/cars/avatr/car1/doc-4.jpg"
+        ],
+        "collection": [
+          {
+            "id": 0,
+            "name": "AVATR 11 Модернизированная версия  90 RWD "
+          },
+          {
+            "id": 0,
+            "name": "Модернизированная версия  116 RWD"
+          },
+          {
+            "id": 0,
+            "name": "Модернизированная версия  90 Luxury Edition"
+          },
+          {
+            "id": 0,
+            "name": "90 RWD Business Edition"
+          },
+          {
+            "id": 0,
+            "name": "Модернизированная версия 116 Luxury Edition"
+          },
+          {
+            "id": 0,
+            "name": "90 RWD"
+          },
+          {
+            "id": 0,
+            "name": "90 4WD"
+          },
+          {
+            "id": 0,
+            "name": "90 4WD"
+          },
+          {
+            "id": 0,
+            "name": "116 4WD"
+          },
+          {
+            "id": 0,
+            "name": "90 Luxury Edition"
+          },
+          {
+            "id": 0,
+            "name": "116 Luxury Edition"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/avatr/car1/carcase/Rasm1.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm2.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm3.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "calon": [
+              {
+                "name": "5 местный",
+                "img": "/assets/img/cars/avatr/car1/calon/five-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/five.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "4 местный VIP",
+                "img": "/assets/img/cars/avatr/car1/calon/vip-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg",
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/carcase/Rasm3.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm1.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/wheel/Rasm13.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm12.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm11.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "#444",
+            "images": [
+              "/assets/img/cars/avatr/car1/carcase/Rasm7.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm9.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm8.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "calon": [
+              {
+                "name": "5 местный",
+                "img": "/assets/img/cars/avatr/car1/calon/five-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/five.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "4 местный VIP",
+                "img": "/assets/img/cars/avatr/car1/calon/vip-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg",
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/carcase/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm9.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm7.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/wheel/Rasm17.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm16.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm15.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/avatr/car1/carcase/Rasm11.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm12.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm13.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "calon": [
+              {
+                "name": "5 местный",
+                "img": "/assets/img/cars/avatr/car1/calon/five-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/five.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "4 местный VIP",
+                "img": "/assets/img/cars/avatr/car1/calon/vip-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg",
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/carcase/Rasm13.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm12.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm11.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/wheel/Rasm20.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm19.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm18.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Зеленый",
+            "color": "#436850",
+            "images": [
+              "/assets/img/cars/avatr/car1/carcase/Rasm29.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm30.png",
+              "/assets/img/cars/avatr/car1/carcase/Rasm31.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "calon": [
+              {
+                "name": "5 местный",
+                "img": "/assets/img/cars/avatr/car1/calon/five-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/five.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "4 местный VIP",
+                "img": "/assets/img/cars/avatr/car1/calon/vip-logo.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg",
+                  "/assets/img/cars/avatr/car1/calon/vip.jpg"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/carcase/Rasm31.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm30.png",
+                  "/assets/img/cars/avatr/car1/carcase/Rasm29.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car1/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car1/wheel/Rasm23.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm22.png",
+                  "/assets/img/cars/avatr/car1/wheel/Rasm21.png"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "AVATR 12 RWD 700 Luxury",
+        "img": "/assets/img/cars/avatr/photo2.jpg",
+        "hover": "/assets/img/cars/avatr/hover2.jpg",
+        "options": [
+          {
+            "name": "Комплект спортивного вида",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car2/sport.png",
+              "/assets/img/cars/avatr/car2/sport.png"
+            ]
+          },
+          {
+            "name": "Передние кресла с функцией невесомости с помощью одной кнопки и электрической регулировкой оттоманки для ног",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car2/kreslo.png",
+              "/assets/img/cars/avatr/car2/kreslo.png"
+            ]
+          },
+          {
+            "name": "Боковые мультимедийные зеркала заднего вида",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car2/view.png",
+              "/assets/img/cars/avatr/car2/view.png"
+            ]
+          },
+          {
+            "name": "Электрические двери, экран Halo, приветственная подсветка входной двери",
+            "click": false,
+            "images": [
+              "/assets/img/cars/avatr/car2/doorHello.png",
+              "/assets/img/cars/avatr/car2/doorHello.png"
+            ]
+          }
+        ],
+        "docs": [
+          "/assets/img/cars/avatr/car1/doc-1.jpg",
+          "/assets/img/cars/avatr/car1/doc-2.jpg",
+          "/assets/img/cars/avatr/car1/doc-3.jpg",
+          "/assets/img/cars/avatr/car1/doc-4.jpg"
+        ],
+        "collection": [
+          {
+            "id": 1,
+            "name": "AVATR 12 RWD 700 Luxury"
+          },
+          {
+            "id": 1,
+            "name": "RWD 700 Luxury"
+          },
+          {
+            "id": 1,
+            "name": "AWD 650 Performance"
+          },
+          {
+            "id": 1,
+            "name": "AWD 650 Performance"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm27.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm28.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm29.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car2/cabin/Rasm126.png",
+                  "/assets/img/cars/avatr/car2/cabin/Rasm127.png",
+                  "/assets/img/cars/avatr/car2/cabin/Rasm128.png"
+                ]
+              },
+              {
+                "name": "Молочный+Фиолетовый",
+                "color": "#5e505d",
+                "images": [
+                  "/assets/img/cars/avatr/car2/cabin/Rasm129.png",
+                  "/assets/img/cars/avatr/car2/cabin/Rasm130.png",
+                  "/assets/img/cars/avatr/car2/cabin/Rasm131.png"
+                ]
+              },
+              {
+                "name": "Синий салон",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car2/cabin/Rasm132.png",
+                  "/assets/img/cars/avatr/car2/cabin/Rasm133.png",
+                  "/assets/img/cars/avatr/car2/cabin/Rasm134.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm29.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm28.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm27.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm34.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm33.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm32.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm37.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm36.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm35.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm40.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm39.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm38.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "#444",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm41.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm42.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm43.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm43.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm42.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm41.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm46.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm45.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm44.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm49.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm48.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm47.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm52.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm51.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm50.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm53.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm54.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm55.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm55.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm54.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm53.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm58.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm57.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm56.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm61.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm60.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm59.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm64.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm63.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm62.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий (за доп.плату)",
+            "color": "rgb(124 167 195)",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm65.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm66.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm67.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm67.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm66.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm65.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm70.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm69.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm68.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm73.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm72.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm71.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm76.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm75.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm74.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Зеленый (за доп.плату)",
+            "color": "rgb(144 208 148)",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm77.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm78.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm79.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm79.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm78.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm77.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm82.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm81.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm80.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm85.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm84.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm83.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm88.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm87.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm86.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Фиолетовый (за доп.плату)",
+            "color": "rgb(101 82 82)",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm89.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm90.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm91.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm91.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm90.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm89.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm94.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm93.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm92.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm97.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm96.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm95.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm100.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm99.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm98.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Матовый фиолетовый (за доп.плату)",
+            "color": "rgb(63 62 62)",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm101.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm102.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm103.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm1.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm2.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm3.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm103.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm102.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm101.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm106.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm105.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm104.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm109.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm108.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm107.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm112.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm111.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm110.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Матовый серый (за доп.плату)",
+            "color": "rgb(112 112 112)",
+            "images": [
+              "/assets/img/cars/avatr/car2/carcase/Rasm113.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm114.png",
+              "/assets/img/cars/avatr/car2/carcase/Rasm115.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm115.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm114.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm113.png"
+                ]
+              },
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm4.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm5.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm6.png"
+                ]
+              },
+              {
+                "name": "Коричневый",
+                "color": "#251002",
+                "images": [
+                  "/assets/img/cars/avatr/car1/cabin/Rasm7.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm8.png",
+                  "/assets/img/cars/avatr/car1/cabin/Rasm9.png"
+                ]
+              }
+            ],
+            "wheels": [
+              {
+                "name": "wheel 1",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-1.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/carcase/Rasm115.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm114.png",
+                  "/assets/img/cars/avatr/car2/carcase/Rasm113.png"
+                ]
+              },
+              {
+                "name": "wheel 2",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-2.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm118.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm117.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm116.png"
+                ]
+              },
+              {
+                "name": "wheel 3",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-3.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm121.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm120.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm119.png"
+                ]
+              },
+              {
+                "name": "wheel 4",
+                "img": "/assets/img/cars/avatr/car2/wheel/icon-4.png",
+                "images": [
+                  "/assets/img/cars/avatr/car2/wheel/Rasm124.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm123.png",
+                  "/assets/img/cars/avatr/car2/wheel/Rasm122.png"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "byd",
+    "img": "/assets/img/byd.png",
+    "logo": "/assets/img/byd.png",
+    "cars": [
+      {
+        "id": 0,
+        "name": "Frigate 07",
+        "img": "/assets/img/cars/byd/frigate07.jpg",
+        "hover": "/assets/img/cars/byd/frigate07-hover.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "DM-i 110 km Deluxe"
+          },
+          {
+            "id": 1,
+            "name": "DM-i 110 km Premium"
+          },
+          {
+            "id": 2,
+            "name": "DM-i 110 km Flagship"
+          },
+          {
+            "id": 3,
+            "name": "DM-i 205 km Premium"
+          },
+          {
+            "id": 4,
+            "name": "DM-i 205 km Flagship"
+          },
+          {
+            "id": 5,
+            "name": "DM-i 205 km Flagship"
+          },
+          {
+            "id": 6,
+            "name": "DM-i 175 km Flying 4WD"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car1/carcase/Rasm1.jpg",
+              "/assets/img/cars/byd/car1/carcase/Rasm1.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg",
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car1/carcase/Rasm2.jpg",
+              "/assets/img/cars/byd/car1/carcase/Rasm2.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg",
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Мокрый асфальт",
+            "color": "#505050",
+            "images": [
+              "/assets/img/cars/byd/car1/carcase/Rasm3.jpg",
+              "/assets/img/cars/byd/car1/carcase/Rasm3.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg",
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car1/carcase/Rasm4.jpg",
+              "/assets/img/cars/byd/car1/carcase/Rasm4.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg",
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "#00BFFF",
+            "images": [
+              "/assets/img/cars/byd/car1/carcase/Rasm5.jpg",
+              "/assets/img/cars/byd/car1/carcase/Rasm5.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "grey",
+                "images": [
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg",
+                  "/assets/img/cars/byd/car1/cabin/Rasm6.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Song PRO",
+        "img": "/assets/img/cars/byd/songpro.jpg",
+        "hover": "/assets/img/cars/byd/songpro-hover.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition DM-i 71 km Flying"
+          },
+          {
+            "id": 1,
+            "name": "Champion Edition DM-i 71 km Leading type"
+          },
+          {
+            "id": 2,
+            "name": "Champion Edition DM-i 71 km Leading type"
+          },
+          {
+            "id": 3,
+            "name": "Champion Edition DM-i 110 km Transcendental"
+          },
+          {
+            "id": 4,
+            "name": "Champion Edition DM-i 110 km Transcendental"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car2/carcase/Rasm9.jpg",
+              "/assets/img/cars/byd/car2/carcase/Rasm9.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg",
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car2/carcase/Rasm8.jpg",
+              "/assets/img/cars/byd/car2/carcase/Rasm8.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg",
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Красный",
+            "color": "red",
+            "images": [
+              "/assets/img/cars/byd/car2/carcase/Rasm10.jpg",
+              "/assets/img/cars/byd/car2/carcase/Rasm10.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg",
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "#00BFFF",
+            "images": [
+              "/assets/img/cars/byd/car2/carcase/Rasm11.jpg",
+              "/assets/img/cars/byd/car2/carcase/Rasm11.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg",
+                  "/assets/img/cars/byd/car2/cabin/Rasm12.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Song Plus",
+        "img": "/assets/img/cars/byd/songplus.jpeg",
+        "hover": "/assets/img/cars/byd/songplus-hover.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition DM-i 110 km Flagship"
+          },
+          {
+            "id": 1,
+            "name": "DM-i 110 km Flagship"
+          },
+          {
+            "id": 2,
+            "name": "DM-i 110 km Flagship Plus"
+          },
+          {
+            "id": 3,
+            "name": "DM-i 150 km Flagship Plus"
+          },
+          {
+            "id": 4,
+            "name": "DM-i 150 km Flagship Plus 5G"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car3/carcase/Rasm14.jpg",
+              "/assets/img/cars/byd/car3/carcase/Rasm14.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car3/carcase/Rasm15.jpg",
+              "/assets/img/cars/byd/car3/carcase/Rasm15.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car3/carcase/Rasm16.jpg",
+              "/assets/img/cars/byd/car3/carcase/Rasm16.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серебро",
+            "color": "#c0c0c0",
+            "images": [
+              "/assets/img/cars/byd/car3/carcase/Rasm17.jpg",
+              "/assets/img/cars/byd/car3/carcase/Rasm17.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Красный",
+            "color": "red",
+            "images": [
+              "/assets/img/cars/byd/car3/carcase/Rasm18.jpg",
+              "/assets/img/cars/byd/car3/carcase/Rasm18.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "#00BFFF",
+            "images": [
+              "/assets/img/cars/byd/car3/carcase/Rasm19.png",
+              "/assets/img/cars/byd/car3/carcase/Rasm20.png"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "#f5f5dc",
+                "images": [
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                  "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Song plus EV",
+        "img": "/assets/img/cars/byd/songplusev.jpg",
+        "hover": "/assets/img/cars/byd/songplusev-hover.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition EV 520 km Deluxe"
+          },
+          {
+            "id": 1,
+            "name": "Champion Edition EV 520 km Premium"
+          },
+          {
+            "id": 2,
+            "name": "Champion Edition EV 520 km Flagship"
+          },
+          {
+            "id": 3,
+            "name": "Champion Edition EV 605 km Flagship Plus"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car4/carcase/Rasm21.jpg",
+              "/assets/img/cars/byd/car4/carcase/Rasm21.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(169, 169, 169)",
+                "images": [
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car4/carcase/Rasm22.jpg",
+              "/assets/img/cars/byd/car4/carcase/Rasm22.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(169, 169, 169)",
+                "images": [
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car4/carcase/Rasm23.jpg",
+              "/assets/img/cars/byd/car4/carcase/Rasm23.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(169, 169, 169)",
+                "images": [
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серебро",
+            "color": "#c0c0c0",
+            "images": [
+              "/assets/img/cars/byd/car4/carcase/Rasm24.jpg",
+              "/assets/img/cars/byd/car4/carcase/Rasm24.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(169, 169, 169)",
+                "images": [
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Красный",
+            "color": "red",
+            "images": [
+              "/assets/img/cars/byd/car4/carcase/Rasm25.jpg",
+              "/assets/img/cars/byd/car4/carcase/Rasm25.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(169, 169, 169)",
+                "images": [
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "#00BFFF",
+            "images": [
+              "/assets/img/cars/byd/car4/carcase/Rasm27.png",
+              "/assets/img/cars/byd/car4/carcase/Rasm28.png",
+              "/assets/img/cars/byd/car4/carcase/Rasm29.png",
+              "/assets/img/cars/byd/car4/carcase/Rasm30.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(169, 169, 169)",
+                "images": [
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                  "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Han",
+        "img": "/assets/img/cars/byd/han.jpg",
+        "hover": "/assets/img/cars/byd/han-hover.webp",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition DM-i  121 km Elite"
+          },
+          {
+            "id": 1,
+            "name": "Champion Edition DM-i  121 km Prestige"
+          },
+          {
+            "id": 2,
+            "name": "Champion Edition DM-i  121 km Honor"
+          },
+          {
+            "id": 3,
+            "name": "Champion Edition DM-i  121 km Premium"
+          },
+          {
+            "id": 4,
+            "name": "Champion Edition DM-i 200 km Premium"
+          },
+          {
+            "id": 5,
+            "name": "Champion Edition DM-i 200 km Flagman"
+          },
+          {
+            "id": 6,
+            "name": "DM-p  God of War Edition"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car5/carcase/Rasm31.jpg",
+              "/assets/img/cars/byd/car5/carcase/Rasm31.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "rgb(114 65 65)",
+                "images": [
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серебро",
+            "color": "#c0c0c0",
+            "images": [
+              "/assets/img/cars/byd/car5/carcase/Rasm32.jpg",
+              "/assets/img/cars/byd/car5/carcase/Rasm32.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "rgb(114 65 65)",
+                "images": [
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car5/carcase/Rasm33.jpg",
+              "/assets/img/cars/byd/car5/carcase/Rasm33.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "rgb(114 65 65)",
+                "images": [
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "#00BFFF",
+            "images": [
+              "/assets/img/cars/byd/car5/carcase/Rasm34.jpg",
+              "/assets/img/cars/byd/car5/carcase/Rasm34.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "rgb(114 65 65)",
+                "images": [
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Красный",
+            "color": "red",
+            "images": [
+              "/assets/img/cars/byd/car5/carcase/Rasm35.jpg",
+              "/assets/img/cars/byd/car5/carcase/Rasm35.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "rgb(114 65 65)",
+                "images": [
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий",
+            "color": "blue",
+            "images": [
+              "/assets/img/cars/byd/car5/carcase/Rasm36.jpg",
+              "/assets/img/cars/byd/car5/carcase/Rasm36.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Бежевый",
+                "color": "rgb(114 65 65)",
+                "images": [
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
+                  "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Qin plus",
+        "img": "/assets/img/cars/byd/qin-hover.jpg",
+        "hover": "/assets/img/cars/byd/qin.png",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition DM-i  55 km Leading type"
+          },
+          {
+            "id": 1,
+            "name": "Champion Edition DM-i  55 km Transcendental"
+          },
+          {
+            "id": 2,
+            "name": "Champion Edition DM-i  120 km Leading type"
+          },
+          {
+            "id": 3,
+            "name": "Champion Edition DM-i  120 km Transcendental"
+          },
+          {
+            "id": 4,
+            "name": "Champion Edition DM-i  120 km Excellent"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car6/carcase/Rasm38.jpg",
+              "/assets/img/cars/byd/car6/carcase/Rasm38.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(143 132 127)",
+                "images": [
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий",
+            "color": "#4b6798",
+            "images": [
+              "/assets/img/cars/byd/car6/carcase/Rasm39.jpg",
+              "/assets/img/cars/byd/car6/carcase/Rasm39.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(143 132 127)",
+                "images": [
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car6/carcase/Rasm40.jpg",
+              "/assets/img/cars/byd/car6/carcase/Rasm40.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(143 132 127)",
+                "images": [
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car6/carcase/Rasm41.jpg",
+              "/assets/img/cars/byd/car6/carcase/Rasm41.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(143 132 127)",
+                "images": [
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Красный",
+            "color": "rgb(191 17 44)",
+            "images": [
+              "/assets/img/cars/byd/car6/carcase/Rasm42.jpg",
+              "/assets/img/cars/byd/car6/carcase/Rasm42.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(143 132 127)",
+                "images": [
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
+                  "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Song L",
+        "img": "/assets/img/cars/byd/songl.jpg",
+        "hover": "/assets/img/cars/byd/songl-hover.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "550 km Transcendental"
+          },
+          {
+            "id": 1,
+            "name": "550 km Excellent"
+          },
+          {
+            "id": 2,
+            "name": "662 km Transcendental"
+          },
+          {
+            "id": 3,
+            "name": "662 km Excellent"
+          },
+          {
+            "id": 4,
+            "name": "602 km Excellent 4WD"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Серый",
+            "color": "#A9A9A9",
+            "images": [
+              "/assets/img/cars/byd/car7/carcase/Rasm44.jpg",
+              "/assets/img/cars/byd/car7/carcase/Rasm44.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(200 195 189)",
+                "images": [
+                  "/assets/img/cars/byd/car7/cabin/Rasm49.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm50.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm51.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "#8ea7bb",
+            "images": [
+              "/assets/img/cars/byd/car7/carcase/Rasm45.jpg",
+              "/assets/img/cars/byd/car7/carcase/Rasm45.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(200 195 189)",
+                "images": [
+                  "/assets/img/cars/byd/car7/cabin/Rasm49.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm50.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm51.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Розовый",
+            "color": "#b48982",
+            "images": [
+              "/assets/img/cars/byd/car7/carcase/Rasm46.jpg",
+              "/assets/img/cars/byd/car7/carcase/Rasm46.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(200 195 189)",
+                "images": [
+                  "/assets/img/cars/byd/car7/cabin/Rasm49.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm50.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm51.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car7/carcase/Rasm47.jpg",
+              "/assets/img/cars/byd/car7/carcase/Rasm47.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(200 195 189)",
+                "images": [
+                  "/assets/img/cars/byd/car7/cabin/Rasm49.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm50.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm51.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car7/carcase/Rasm48.jpg",
+              "/assets/img/cars/byd/car7/carcase/Rasm48.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Беж+молочный",
+                "color": "rgb(200 195 189)",
+                "images": [
+                  "/assets/img/cars/byd/car7/cabin/Rasm49.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm50.jpg",
+                  "/assets/img/cars/byd/car7/cabin/Rasm51.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Vitality",
+        "img": "/assets/img/cars/byd/photo.webp",
+        "hover": "/assets/img/cars/byd/hover.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Vitality"
+          },
+          {
+            "id": 1,
+            "name": "Freedom"
+          },
+          {
+            "id": 2,
+            "name": "Flying"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Зеленый",
+            "color": "rgb(213 218 98)",
+            "images": [
+              "/assets/img/cars/byd/car8/carcase/Rasm1.jpg",
+              "/assets/img/cars/byd/car8/carcase/Rasm1.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Синий",
+                "color": "rgb(125 146 163)",
+                "images": [
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg",
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "rgb(227 225 214)",
+            "images": [
+              "/assets/img/cars/byd/car8/carcase/Rasm2.jpg",
+              "/assets/img/cars/byd/car8/carcase/Rasm2.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Синий",
+                "color": "rgb(125 146 163)",
+                "images": [
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg",
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Розовый",
+            "color": "rgb(218 202 193)",
+            "images": [
+              "/assets/img/cars/byd/car8/carcase/Rasm3.jpg",
+              "/assets/img/cars/byd/car8/carcase/Rasm3.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Синий",
+                "color": "rgb(125 146 163)",
+                "images": [
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg",
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "rgb(62 68 75)",
+            "images": [
+              "/assets/img/cars/byd/car8/carcase/Rasm4.jpg",
+              "/assets/img/cars/byd/car8/carcase/Rasm4.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Синий",
+                "color": "rgb(125 146 163)",
+                "images": [
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg",
+                  "/assets/img/cars/byd/car8/cabin/Rasm5.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "E2",
+        "img": "/assets/img/cars/byd/photo2.jpg",
+        "hover": "/assets/img/cars/byd/hover2.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Comfort"
+          },
+          {
+            "id": 1,
+            "name": "Deluxe"
+          },
+          {
+            "id": 2,
+            "name": "Travel"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Молочный",
+            "color": "rgb(209 198 168)",
+            "images": [
+              "/assets/img/cars/byd/car9/carcase/Rasm6.png",
+              "/assets/img/cars/byd/car9/carcase/Rasm6.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg",
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car9/carcase/Rasm7.jpg",
+              "/assets/img/cars/byd/car9/carcase/Rasm7.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg",
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Красный",
+            "color": "red",
+            "images": [
+              "/assets/img/cars/byd/car9/carcase/Rasm8.jpg",
+              "/assets/img/cars/byd/car9/carcase/Rasm8.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg",
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серый",
+            "color": "rgb(106 116 128)",
+            "images": [
+              "/assets/img/cars/byd/car9/carcase/Rasm9.png",
+              "/assets/img/cars/byd/car9/carcase/Rasm9.png"
+            ],
+            "cabins": [
+              {
+                "name": "Черный",
+                "color": "#000",
+                "images": [
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg",
+                  "/assets/img/cars/byd/car9/cabin/Rasm10.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Seal",
+        "img": "/assets/img/cars/byd/seal.png",
+        "hover": "/assets/img/cars/byd/seal2.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "DM-i 1.5 L 121 km Elite"
+          },
+          {
+            "id": 1,
+            "name": "DM-i 1.5 L 121 km Deluxe"
+          },
+          {
+            "id": 2,
+            "name": "DM-i 1.5 L 121 km Prestige"
+          },
+          {
+            "id": 3,
+            "name": "DM-i 1.5 T 121 km Honor"
+          },
+          {
+            "id": 4,
+            "name": "DM-i 1.5 T 121 km Flagship"
+          },
+          {
+            "id": 4,
+            "name": "DM-i 1.5 T 200 km Flagship"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Молочный",
+            "color": "rgb(209 198 168)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm11.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm11.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий",
+            "color": "rgb(76 89 119)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm12.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm12.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "rgb(26 35 42)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm13.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm13.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm14.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm14.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "rgb(121 149 173)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm15.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm15.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Розовый",
+            "color": "rgb(110 69 75)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm16.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm16.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": 10,
+        "name": "Destroyer 05",
+        "img": "/assets/img/cars/byd/destroyer.jpg",
+        "hover": "/assets/img/cars/byd/destroyer2.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition DM-i 55KM Deluxe"
+          },
+          {
+            "id": 1,
+            "name": "Champion Edition DM-i 55KM Prestige"
+          },
+          {
+            "id": 2,
+            "name": "Champion Edition DM-i 120KM Deluxe"
+          },
+          {
+            "id": 3,
+            "name": "Champion Edition DM-i 120KM Prestige"
+          },
+          {
+            "id": 4,
+            "name": "Champion Edition DM-i 120KM Honor"
+          },
+          {
+            "id": 5,
+            "name": "Champion Edition DM-i 120KM Flagship"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Серый",
+            "color": "rgb(112 125 142)",
+            "images": [
+              "/assets/img/cars/byd/car11/carcase/Rasm26.jpg",
+              "/assets/img/cars/byd/car11/carcase/Rasm26.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg",
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий",
+            "color": "rgb(22 40 73)",
+            "images": [
+              "/assets/img/cars/byd/car11/carcase/Rasm27.jpg",
+              "/assets/img/cars/byd/car11/carcase/Rasm27.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg",
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car11/carcase/Rasm28.jpg",
+              "/assets/img/cars/byd/car11/carcase/Rasm28.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg",
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car11/carcase/Rasm29.jpg",
+              "/assets/img/cars/byd/car11/carcase/Rasm29.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg",
+                  "/assets/img/cars/byd/car11/cabin/Rasm30.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": 11,
+        "name": "DM-i",
+        "img": "/assets/img/cars/byd/dmi.jpg",
+        "hover": "/assets/img/cars/byd/dmi2.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "DM-i 1.5 L 121 km Elite"
+          },
+          {
+            "id": 1,
+            "name": "DM-i 1.5 L 121 km Deluxe"
+          },
+          {
+            "id": 2,
+            "name": "DM-i 1.5 L 121 km Prestige"
+          },
+          {
+            "id": 3,
+            "name": "DM-i 1.5 T 121 km Honor"
+          },
+          {
+            "id": 4,
+            "name": "DM-i 1.5 T 121 km Flagship"
+          },
+          {
+            "id": 4,
+            "name": "DM-i 1.5 T 200 km Flagship"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Молочный",
+            "color": "rgb(209 198 168)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm11.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm11.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий",
+            "color": "rgb(76 89 119)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm12.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm12.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "rgb(26 35 42)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm13.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm13.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm14.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm14.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "rgb(121 149 173)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm15.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm15.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Розовый",
+            "color": "rgb(110 69 75)",
+            "images": [
+              "/assets/img/cars/byd/car10/carcase/Rasm16.png",
+              "/assets/img/cars/byd/car10/carcase/Rasm16.png"
+            ],
+            "cabins": [
+              {
+                "name": "Серый+Голубой",
+                "color": "rgb(175 180 186)",
+                "images": [
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                  "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": 12,
+        "name": "Champion edition",
+        "img": "/assets/img/cars/byd/champ.jpg",
+        "hover": "/assets/img/cars/byd/champ2.jpg",
+        "collection": [
+          {
+            "id": 0,
+            "name": "Champion Edition 550 km Elite"
+          },
+          {
+            "id": 1,
+            "name": "Champion Edition 550 km Prestige"
+          },
+          {
+            "id": 2,
+            "name": "Champion Edition 700 km Prestige"
+          },
+          {
+            "id": 3,
+            "name": "Champion Edition 700 km Performance"
+          },
+          {
+            "id": 4,
+            "name": "Champion Edition 650 km Performance 4WD"
+          }
+        ],
+        "colors": [
+          {
+            "name": "Серый (за доп.плату)",
+            "color": "rgb(162 169 165)",
+            "images": [
+              "/assets/img/cars/byd/car12/carcase/Rasm1.jpg",
+              "/assets/img/cars/byd/car12/carcase/Rasm1.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(104 123 143)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                ]
+              },
+              {
+                "name": "Голубой",
+                "color": "rgb(44 56 66)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Синий",
+            "color": "rgb(135 156 173)",
+            "images": [
+              "/assets/img/cars/byd/car12/carcase/Rasm2.jpg",
+              "/assets/img/cars/byd/car12/carcase/Rasm2.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(104 123 143)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                ]
+              },
+              {
+                "name": "Голубой",
+                "color": "rgb(44 56 66)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Черный",
+            "color": "#000",
+            "images": [
+              "/assets/img/cars/byd/car12/carcase/Rasm3.jpg",
+              "/assets/img/cars/byd/car12/carcase/Rasm3.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(104 123 143)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                ]
+              },
+              {
+                "name": "Голубой",
+                "color": "rgb(44 56 66)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Белый",
+            "color": "#fff",
+            "images": [
+              "/assets/img/cars/byd/car12/carcase/Rasm4.jpg",
+              "/assets/img/cars/byd/car12/carcase/Rasm4.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(104 123 143)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                ]
+              },
+              {
+                "name": "Голубой",
+                "color": "rgb(44 56 66)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Голубой",
+            "color": "rgb(156 173 191)",
+            "images": [
+              "/assets/img/cars/byd/car12/carcase/Rasm5.jpg",
+              "/assets/img/cars/byd/car12/carcase/Rasm5.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(104 123 143)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                ]
+              },
+              {
+                "name": "Голубой",
+                "color": "rgb(44 56 66)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Серебро (за доп.плату)",
+            "color": "rgb(209 211 213)",
+            "images": [
+              "/assets/img/cars/byd/car12/carcase/Rasm6.jpg",
+              "/assets/img/cars/byd/car12/carcase/Rasm6.jpg"
+            ],
+            "cabins": [
+              {
+                "name": "Серый",
+                "color": "rgb(104 123 143)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
+                ]
+              },
+              {
+                "name": "Голубой",
+                "color": "rgb(44 56 66)",
+                "images": [
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
+                  "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -17,6 +17,8 @@
 
 .main {
   justify-content: space-between;
+  
+  overflow: hidden;
 }
 .main .left {
   width: 60%;
