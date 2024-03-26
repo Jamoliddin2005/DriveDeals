@@ -3777,9 +3777,308 @@
     },
     {
       "id": 3,
-      "name": "geely",
-      "img": "/assets/img/geely.jpg",
-      "logo": "/assets/img/geely.jpg"
+      "name": "aion",
+      "img": "/assets/img/aion.jpg",
+      "logo": "/assets/img/aion.jpg",
+      "cars": [
+        {
+          "id": 0,
+          "name": "AION S MAX 70 Starlight",
+          "img": "/assets/img/cars/aion/car1/aito.jpg",
+          "hover": "/assets/img/cars/aion/car1/aito-hover.jpg",
+          "options": [
+            {
+              "name": "Интеллектуальная система помощи при вождении ADiGO PILOT 2.0",
+              "click": false,
+              "images": [
+                "/assets/img/cars/aion/car1/options/Rasm1.png",
+                "/assets/img/cars/aion/car1/options/Rasm1.png"
+              ]
+            },
+            {
+              "name": "Дистанционная парковка",
+              "click": false,
+              "images": [
+                "/assets/img/cars/aion/car1/options/Rasm2.png",
+                "/assets/img/cars/aion/car1/options/Rasm2.png"
+              ]
+            },
+            {
+              "name": "Панорамный световой люк",
+              "click": false,
+              "images": [
+                "/assets/img/cars/aion/car1/options/Rasm3.png",
+                "/assets/img/cars/aion/car1/options/Rasm3.png"
+              ]
+            },
+            {
+              "name": "Панорамный 1,9-метровый светочувствительный обширный люк",
+              "click": false,
+              "images": [
+                "/assets/img/cars/aion/car1/options/Rasm4.png",
+                "/assets/img/cars/aion/car1/options/Rasm4.png"
+              ]
+            },
+            {
+              "name": "Пакет 'комфорт' (обогрев+вентиляция первого ряда сидений)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/aion/car1/options/Rasm5.png",
+                "/assets/img/cars/aion/car1/options/Rasm5.png"
+              ]
+            },
+            {
+              "name": "Система ароматизации",
+              "click": false,
+              "images": [
+                "/assets/img/cars/aion/car1/options/Rasm6.png",
+                "/assets/img/cars/aion/car1/options/Rasm6.png"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "AION S MAX 70 Starlight"
+            },
+            {
+              "id": 0,
+              "name": "AION S MAX 70 Stellar"
+            },
+            {
+              "id": 0,
+              "name": "AION S MAX 80 Starlight"
+            },
+            {
+              "id": 0,
+              "name": "AION S MAX 80 Stellar"
+            },
+            {
+              "id": 0,
+              "name": "AION S MAX 80 Galaxy"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Голубой",
+              "color": "rgb(158 191 214)",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm7.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm8.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm9.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm10.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(167 193 147)",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm11.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm12.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm13.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm14.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "rgb(255 255 244)",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm15.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm16.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm17.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm18.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm19.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm20.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm21.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm22.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(181 182 177)",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm23.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm24.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm25.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm26.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(220 177 195)",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm27.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm28.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm29.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm30.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/aion/car1/carcase/Rasm31.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm32.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm33.png",
+                "/assets/img/cars/aion/car1/carcase/Rasm34.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm35.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm36.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm37.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm38.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm39.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg",
+                    "/assets/img/cars/aion/car1/cabin/Rasm40.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 4,
@@ -3790,8 +4089,8 @@
         {
           "id": 0,
           "name": "ZEEKR 001 WE 86 kWh",
-          "img": "/assets/img/cars/zeekr/car3/carcase/Rasm1.png",
-          "hover": "/assets/img/cars/zeekr/car3/carcase/Rasm2.png",
+          "hover": "/assets/img/cars/zeekr/Zeekr_001.jpg",
+          "img": "/assets/img/cars/zeekr/Zeekr_001-hover.jpg",
           "options": [
             {
               "name": "Пневматическая подвеска",
@@ -4316,8 +4615,8 @@
         {
           "id": 1,
           "name": "ZEEKR 001 FR 140 kWh",
-          "img": "/assets/img/cars/zeekr/car2/carcase/Rasm58.png",
-          "hover": "/assets/img/cars/zeekr/car2/carcase/Rasm56.png",
+          "hover": "/assets/img/cars/zeekr/zeekr_r.jpg",
+          "img": "/assets/img/cars/zeekr/zeekr_r-hover.jpg",
           "collection": [
             {
               "id": 0,
@@ -4390,8 +4689,8 @@
         {
           "id": 2,
           "name": "ZEEKR 007 RWD 75 kWh",
-          "img": "/assets/img/cars/zeekr/car1/carcase/Rasm67.png",
-          "hover": "/assets/img/cars/zeekr/car1/carcase/Rasm66.png",
+          "hover": "/assets/img/cars/zeekr/zeekr_007.jpg",
+          "img": "/assets/img/cars/zeekr/zeekr_007-hover.jpg",
           "options": [
             {
               "name": "Интеллектуальная световая завеса ZEEKR STARGATE",
@@ -4773,6 +5072,942 @@
                   "images": [
                     "/assets/img/cars/zeekr/car1/wheel/Rasm95.png",
                     "/assets/img/cars/zeekr/car1/wheel/Rasm95.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "ZEEKR 009 ME",
+          "img": "/assets/img/cars/zeekr/zeekr_009.jpg",
+          "hover": "/assets/img/cars/zeekr/zeekr_009-hover.jpg",
+          "options": [
+            {
+              "name": "Двухслойное бесшумное и изолированное защитное стекло в третьем ряду",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car4/options/Rasm12.png",
+                "/assets/img/cars/zeekr/car4/options/Rasm12.png"
+              ]
+            },
+            {
+              "name": "Потоковое зеркало заднего вида",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car4/options/Rasm13.png",
+                "/assets/img/cars/zeekr/car4/options/Rasm13.png"
+              ]
+            },
+            {
+              "name": "Функция электрорегулировки руля.",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car4/options/Rasm14.png",
+                "/assets/img/cars/zeekr/car4/options/Rasm14.png"
+              ]
+            },
+            {
+              "name": "Пакет “Комфорт” для пассажирских кресел",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car4/options/Rasm15.png",
+                "/assets/img/cars/zeekr/car4/options/Rasm15.png"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "ZEEKR 009 ME"
+            },
+            {
+              "id": 0,
+              "name": "ZEEKR 009 WE"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/zeekr/car4/carcase/Rasm1.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm2.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm4.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm5.png"
+              ],
+              "protection": [
+                {
+                  "name": "Без хромированной решетки",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm2.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm2.png"
+                  ]
+                },
+                {
+                  "name": "С хромированной решеткой",
+                  "color": "#d8d8d8",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm3.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm3.png"
+                  ]
+                }
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "rgb(71 71 73)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm6.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Белый",
+                  "color": "rgb(35 48 57)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm8.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm9.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm10.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm11.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm16.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm16.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm17.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm17.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm18.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm18.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm19.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm19.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "rgb(170 169 163)",
+              "images": [
+                "/assets/img/cars/zeekr/car4/carcase/Rasm21.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm22.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm24.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm25.png"
+              ],
+              "protection": [
+                {
+                  "name": "Без хромированной решетки",
+                  "color": "#d8d8d8",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm22.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm22.png"
+                  ]
+                },
+                {
+                  "name": "С хромированной решеткой",
+                  "color": "rgb(243 243 243)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm23.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm23.png"
+                  ]
+                }
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "rgb(71 71 73)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm6.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Белый",
+                  "color": "rgb(35 48 57)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm8.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm9.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm10.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm11.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm26.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm26.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm27.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm27.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm28.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm28.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm29.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm29.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-синий",
+              "color": "rgb(0 27 69)",
+              "images": [
+                "/assets/img/cars/zeekr/car4/carcase/Rasm30.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm31.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm33.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm34.png"
+              ],
+              "protection": [
+                {
+                  "name": "Без хромированной решетки",
+                  "color": "rgb(0 27 69)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm31.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm31.png"
+                  ]
+                },
+                {
+                  "name": "С хромированной решеткой",
+                  "color": "rgb(243 243 243)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm32.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm32.png"
+                  ]
+                }
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "rgb(71 71 73)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm6.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Белый",
+                  "color": "rgb(35 48 57)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm8.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm9.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm10.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm11.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm35.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm35.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm36.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm36.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm37.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm37.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm38.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm38.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/zeekr/car4/carcase/Rasm39.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm40.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm42.png",
+                "/assets/img/cars/zeekr/car4/carcase/Rasm43.png"
+              ],
+              "protection": [
+                {
+                  "name": "Без хромированной решетки",
+                  "color": "rgb(17 22 30)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm40.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm40.png"
+                  ]
+                },
+                {
+                  "name": "С хромированной решеткой",
+                  "color": "rgb(243 243 243)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm41.png",
+                    "/assets/img/cars/zeekr/car4/carcase/Rasm41.png"
+                  ]
+                }
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "rgb(71 71 73)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm6.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Белый",
+                  "color": "rgb(35 48 57)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm8.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm9.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm10.png",
+                    "/assets/img/cars/zeekr/car4/cabin/Rasm11.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm44.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm44.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm45.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm45.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm46.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm46.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car4/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm47.png",
+                    "/assets/img/cars/zeekr/car4/wheel/Rasm47.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "ZEEKR X ME 5",
+          "img": "/assets/img/cars/zeekr/Zeekr-X.jpg",
+          "hover": "/assets/img/cars/zeekr/Zeekr-X-hover.jpg",
+          "options": [
+            {
+              "name": "Подогрев руля",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car5/options/Rasm48.png",
+                "/assets/img/cars/zeekr/car5/options/Rasm48.png"
+              ]
+            },
+            {
+              "name": "Холодильник",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car5/options/Rasm49.png",
+                "/assets/img/cars/zeekr/car5/options/Rasm49.png"
+              ]
+            },
+            {
+              "name": "Аудио бренд Yamaha",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car5/options/Rasm50.png",
+                "/assets/img/cars/zeekr/car5/options/Rasm50.png"
+              ]
+            },
+            {
+              "name": "Автоматическая дверь переднего ряда, автомобиль без ручек ",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car5/options/Rasm51.png",
+                "/assets/img/cars/zeekr/car5/options/Rasm51.png"
+              ]
+            },
+            {
+              "name": "Интеллектуальная система взаимодействия со стойкой (распознавание лиц, мультимедийный экран)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/zeekr/car5/options/Rasm52.png",
+                "/assets/img/cars/zeekr/car5/options/Rasm52.png"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "ZEEKR X ME 5"
+            },
+            {
+              "id": 0,
+              "name": "ZEEKR X YOU 5"
+            },
+            {
+              "id": 0,
+              "name": "ZEEKR X YOU 4"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Бежевый",
+              "color": "rgb(255 234 208)",
+              "images": [
+                "/assets/img/cars/zeekr/car5/carcase/Rasm61.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm62.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm63.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm64.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(255 234 208)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm53.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm54.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Зеленый",
+                  "color": "rgb(145 174 164)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm55.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm56.png"
+                  ]
+                },
+                {
+                  "name": "Пурпурный+Белый",
+                  "color": "#986a7c",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm57.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm58.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Черный",
+                  "color": "rgb(136 137 139)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm59.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm60.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(103 130 131)",
+              "images": [
+                "/assets/img/cars/zeekr/car5/carcase/Rasm69.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm70.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm71.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm72.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(255 234 208)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm53.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm54.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Зеленый",
+                  "color": "rgb(145 174 164)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm55.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm56.png"
+                  ]
+                },
+                {
+                  "name": "Пурпурный+Белый",
+                  "color": "#986a7c",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm57.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm58.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Черный",
+                  "color": "rgb(136 137 139)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm59.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm60.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебряный",
+              "color": "rgb(230 239 251)",
+              "images": [
+                "/assets/img/cars/zeekr/car5/carcase/Rasm73.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm74.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm75.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm76.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(255 234 208)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm53.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm54.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Зеленый",
+                  "color": "rgb(145 174 164)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm55.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm56.png"
+                  ]
+                },
+                {
+                  "name": "Пурпурный+Белый",
+                  "color": "#986a7c",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm57.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm58.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Черный",
+                  "color": "rgb(136 137 139)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm59.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm60.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/zeekr/car5/carcase/Rasm77.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm78.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm79.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm80.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(255 234 208)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm53.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm54.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Зеленый",
+                  "color": "rgb(145 174 164)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm55.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm56.png"
+                  ]
+                },
+                {
+                  "name": "Пурпурный+Белый",
+                  "color": "#986a7c",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm57.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm58.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Черный",
+                  "color": "rgb(136 137 139)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm59.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm60.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(211 171 211)",
+              "images": [
+                "/assets/img/cars/zeekr/car5/carcase/Rasm81.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm82.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm83.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm84.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(255 234 208)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm53.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm54.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Зеленый",
+                  "color": "rgb(145 174 164)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm55.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm56.png"
+                  ]
+                },
+                {
+                  "name": "Пурпурный+Белый",
+                  "color": "#986a7c",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm57.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm58.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Черный",
+                  "color": "rgb(136 137 139)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm59.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm60.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(63 168 200)",
+              "images": [
+                "/assets/img/cars/zeekr/car5/carcase/Rasm85.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm86.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm87.png",
+                "/assets/img/cars/zeekr/car5/carcase/Rasm88.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(255 234 208)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm53.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm54.png"
+                  ]
+                },
+                {
+                  "name": "Синий+Зеленый",
+                  "color": "rgb(145 174 164)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm55.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm56.png"
+                  ]
+                },
+                {
+                  "name": "Пурпурный+Белый",
+                  "color": "#986a7c",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm57.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm58.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Черный",
+                  "color": "rgb(136 137 139)",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm59.png",
+                    "/assets/img/cars/zeekr/car5/cabin/Rasm60.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm65.png"
+                  ]
+                },
+                {
+                  "name": "R19 ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm66.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату)",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm67.png"
+                  ]
+                },
+                {
+                  "name": "R20 (за доп.плату) ",
+                  "img": "/assets/img/cars/zeekr/car5/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png",
+                    "/assets/img/cars/zeekr/car5/wheel/Rasm68.png"
                   ]
                 }
               ]
@@ -7374,7 +8609,587 @@
     {
       "id": 7,
       "name": "voyah",
-      "img": "/assets/img/voyah.png"
+      "img": "/assets/img/voyah.png",
+      "logo": "/assets/img/voyah.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "VOYAH Free EVR ",
+          "img": "/assets/img/cars/voyah/car1/voyah-1.jpg",
+          "hover": "/assets/img/cars/voyah/car1/voyah-1-hover.jpg",
+          "options": [
+            {
+              "name": "Порт медленной зарядки на 11 кВт",
+              "click": false,
+              "images": [
+                "/assets/img/cars/voyah/car1/options/Rasm9.png",
+                "/assets/img/cars/voyah/car1/options/Rasm9.png"
+              ]
+            },
+            {
+              "name": "Apollo умное вождение",
+              "click": false,
+              "images": [
+                "/assets/img/cars/voyah/car1/options/Rasm10.png",
+                "/assets/img/cars/voyah/car1/options/Rasm10.png"
+              ]
+            },
+            {
+              "name": "Панорамный люк",
+              "click": false,
+              "images": [
+                "/assets/img/cars/voyah/car1/options/Rasm11.png",
+                "/assets/img/cars/voyah/car1/options/Rasm11.png"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "VOYAH Free EVR"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/voyah/car1/carcase/Rasm1.png",
+                "/assets/img/cars/voyah/car1/carcase/Rasm1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "grey",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "#dcb894",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "#d67653",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/voyah/car1/carcase/Rasm2.png",
+                "/assets/img/cars/voyah/car1/carcase/Rasm2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "grey",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "#dcb894",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "#d67653",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(139 181 224)",
+              "images": [
+                "/assets/img/cars/voyah/car1/carcase/Rasm3.png",
+                "/assets/img/cars/voyah/car1/carcase/Rasm3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "grey",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "#dcb894",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "#d67653",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(184 132 152)",
+              "images": [
+                "/assets/img/cars/voyah/car1/carcase/Rasm4.png",
+                "/assets/img/cars/voyah/car1/carcase/Rasm4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "grey",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "#dcb894",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "#d67653",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(60 154 144)",
+              "images": [
+                "/assets/img/cars/voyah/car1/carcase/Rasm5.png",
+                "/assets/img/cars/voyah/car1/carcase/Rasm5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "grey",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
+                  ]
+                },
+                {
+                  "name": "Бежевый",
+                  "color": "#dcb894",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "#d67653",
+                  "images": [
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
+                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "VOYAH Free EVR ",
+          "img": "/assets/img/cars/voyah/car2/voyah-1.jpg",
+          "hover": "/assets/img/cars/voyah/car2/voyah-1-hover.jpg",
+          "options": [
+            {
+              "name": "Панорамный люк",
+              "click": false,
+              "images": [
+                "/assets/img/cars/voyah/car2/options/Rasm55.jpg",
+                "/assets/img/cars/voyah/car2/options/Rasm55.jpg"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "VOYAH Free EVR"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/voyah/car2/carcase/Rasm12.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm14.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm15.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm16.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm17.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#697993",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm48.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm49.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm50.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (Бежевый)",
+                  "color": "#e6cfc0",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm51.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm52.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm53.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "rgb(249 147 72)",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "1",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/carcase/Rasm12.png",
+                    "/assets/img/cars/voyah/car2/carcase/Rasm12.png"
+                  ]
+                },
+                {
+                  "name": "2",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/wheel/Rasm13.png",
+                    "/assets/img/cars/voyah/car2/wheel/Rasm13.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/voyah/car2/carcase/Rasm18.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm20.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm21.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm22.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm23.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#697993",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm48.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm49.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm50.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (Бежевый)",
+                  "color": "#e6cfc0",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm51.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm52.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm53.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "rgb(249 147 72)",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "1",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/carcase/Rasm18.png",
+                    "/assets/img/cars/voyah/car2/carcase/Rasm18.png"
+                  ]
+                },
+                {
+                  "name": "2",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/wheel/Rasm19.png",
+                    "/assets/img/cars/voyah/car2/wheel/Rasm19.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(99 126 149)",
+              "images": [
+                "/assets/img/cars/voyah/car2/carcase/Rasm24.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm26.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm27.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm28.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm29.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#697993",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm48.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm49.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm50.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (Бежевый)",
+                  "color": "#e6cfc0",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm51.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm52.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm53.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "rgb(249 147 72)",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "1",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/carcase/Rasm24.png",
+                    "/assets/img/cars/voyah/car2/carcase/Rasm24.png"
+                  ]
+                },
+                {
+                  "name": "2",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/wheel/Rasm25.png",
+                    "/assets/img/cars/voyah/car2/wheel/Rasm25.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(0 50 182)",
+              "images": [
+                "/assets/img/cars/voyah/car2/carcase/Rasm30.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm32.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm33.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm34.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm35.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#697993",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm48.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm49.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm50.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (Бежевый)",
+                  "color": "#e6cfc0",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm51.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm52.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm53.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "rgb(249 147 72)",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "1",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/carcase/Rasm30.png",
+                    "/assets/img/cars/voyah/car2/carcase/Rasm30.png"
+                  ]
+                },
+                {
+                  "name": "2",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/wheel/Rasm31.png",
+                    "/assets/img/cars/voyah/car2/wheel/Rasm31.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый (за доп.плату)",
+              "color": "rgb(23 154 112)",
+              "images": [
+                "/assets/img/cars/voyah/car2/carcase/Rasm36.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm38.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm39.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm40.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm41.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#697993",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm48.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm49.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm50.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (Бежевый)",
+                  "color": "#e6cfc0",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm51.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm52.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm53.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "rgb(249 147 72)",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "1",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/carcase/Rasm36.png",
+                    "/assets/img/cars/voyah/car2/carcase/Rasm36.png"
+                  ]
+                },
+                {
+                  "name": "2",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/wheel/Rasm37.png",
+                    "/assets/img/cars/voyah/car2/wheel/Rasm37.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(127 200 233)",
+              "images": [
+                "/assets/img/cars/voyah/car2/carcase/Rasm42.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm44.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm45.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm46.png",
+                "/assets/img/cars/voyah/car2/carcase/Rasm47.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#697993",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm48.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm49.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm50.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (Бежевый)",
+                  "color": "#e6cfc0",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm51.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm52.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm53.png"
+                  ]
+                },
+                {
+                  "name": "Комбинация цветов (коричневый)",
+                  "color": "rgb(249 147 72)",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png",
+                    "/assets/img/cars/voyah/car2/cabin/Rasm54.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "1",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/carcase/Rasm42.png",
+                    "/assets/img/cars/voyah/car2/carcase/Rasm42.png"
+
+                  ]
+                },
+                {
+                  "name": "2",
+                  "img": "/assets/img/cars/voyah/car2/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/voyah/car2/wheel/Rasm43.png",
+                    "/assets/img/cars/voyah/car2/wheel/Rasm43.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

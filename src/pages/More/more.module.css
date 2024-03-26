@@ -17,7 +17,7 @@
 
 .main {
   justify-content: space-between;
-  
+
   overflow: hidden;
 }
 .main .left {
@@ -136,6 +136,7 @@
 
 .main .right .oneTech .check {
   display: flex;
+  align-items: baseline;
   gap: 10px;
 }
 
@@ -189,12 +190,6 @@
 .main .right .step h3 {
   margin-top: 50px;
   margin-bottom: 10px;
-}
-
-.main .right .step input[type="checkbox"] {
-  background-color: var(--dark);
-  color: var(--dark);
-  width: 30px;
 }
 
 .main .right .circle {

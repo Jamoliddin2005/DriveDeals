@@ -34,6 +34,7 @@ function More({ GetUrl }) {
 
   const [color, setColor] = useState(0);
   const [cabin, setCabin] = useState(0);
+  const [protection, setProtection] = useState(0);
   const [insert, setInsert] = useState(0);
   const [wheel, setWheel] = useState(0);
   const [calon, setCalon] = useState(0);
@@ -107,6 +108,10 @@ function More({ GetUrl }) {
 
   const onChangeCabin = (newCabin) => {
     setCabin({ ...newCabin });
+    setCurrentImgs([...newCabin.images]);
+  };
+  const onChangeProtection = (newCabin) => {
+    setProtection({ ...newCabin });
     setCurrentImgs([...newCabin.images]);
   };
   const onChangeInsert = (newCabin) => {
@@ -223,6 +228,35 @@ function More({ GetUrl }) {
                       : "Loading..."}
                   </div>
                 </div>
+                {color && color.protection && (
+                  <div className={classes.calon}>
+                    <h3>Хромированная решетка</h3>
+                    <div className={classes.colors}>
+                      {color
+                        ? color?.protection?.map((cbn, index) => (
+                            <div
+                              onClick={() => onChangeProtection(cbn)}
+                              key={index}
+                              className={classes.item}
+                            >
+                              <span
+                                className={`${classes.span} ${
+                                  cbn.name === protection.name
+                                    ? `${classes.active}`
+                                    : ""
+                                }`}
+                              >
+                                <span style={{ background: cbn.color }} />
+                              </span>
+                              {cbn.name === protection.name ? (
+                                <p className={classes.nameCar}>{cbn.name}</p>
+                              ) : null}
+                            </div>
+                          ))
+                        : "Loading..."}
+                    </div>
+                  </div>
+                )}
                 {color && color?.insert && (
                   <div className={classes.calon}>
                     <h3>Цвет вставок</h3>
