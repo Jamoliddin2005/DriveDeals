@@ -378,17 +378,19 @@ function More({ GetUrl }) {
               </div>
             </main>
 
-            <div className={classes.docs}>
-              <h2 className={classes.title}>Краткая характеристика</h2>
+            {car?.docs && (
+              <div className={classes.docs}>
+                <h2 className={classes.title}>Краткая характеристика</h2>
 
-              {/* {car?.docs?.map((item, index) => (
+                {/* {car?.docs?.map((item, index) => (
                 <div className={classes.doc} key={index}>
                   <img src={item} alt="" />
                 </div>
               ))} */}
 
-              <PDFViewer />
-            </div>
+                <PDFViewer doc={car?.docs} />
+              </div>
+            )}
           </div>
         )}
       </div>

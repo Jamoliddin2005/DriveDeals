@@ -45,12 +45,7 @@
               ]
             }
           ],
-          "docs": [
-            "/assets/img/cars/avatr/car1/doc-1.jpg",
-            "/assets/img/cars/avatr/car1/doc-2.jpg",
-            "/assets/img/cars/avatr/car1/doc-3.jpg",
-            "/assets/img/cars/avatr/car1/doc-4.jpg"
-          ],
+          "docs": "/assets/docs/avatr11.pdf",
           "collection": [
             {
               "id": 0,
@@ -443,12 +438,7 @@
               ]
             }
           ],
-          "docs": [
-            "/assets/img/cars/avatr/car1/doc-1.jpg",
-            "/assets/img/cars/avatr/car1/doc-2.jpg",
-            "/assets/img/cars/avatr/car1/doc-3.jpg",
-            "/assets/img/cars/avatr/car1/doc-4.jpg"
-          ],
+          "docs": "/assets/docs/avatr12.pdf",
           "collection": [
             {
               "id": 1,
@@ -1091,6 +1081,7 @@
           "name": "Frigate 07",
           "img": "/assets/img/cars/byd/frigate07.jpg",
           "hover": "/assets/img/cars/byd/frigate07-hover.jpg",
+          "docs": "/assets/docs/byd_frigate.pdf",
           "collection": [
             {
               "id": 0,
@@ -1219,6 +1210,7 @@
           "name": "Song PRO",
           "img": "/assets/img/cars/byd/songpro.jpg",
           "hover": "/assets/img/cars/byd/songpro-hover.jpg",
+          "docs": "/assets/docs/song_plus_dmi.pdf",
           "collection": [
             {
               "id": 0,
@@ -1320,6 +1312,7 @@
           "id": 2,
           "name": "Song Plus",
           "img": "/assets/img/cars/byd/songplus.jpeg",
+          "docs": "/assets/docs/song_plus_dmi.pdf",
           "hover": "/assets/img/cars/byd/songplus-hover.jpg",
           "collection": [
             {
@@ -1458,6 +1451,7 @@
           "id": 3,
           "name": "Song plus EV",
           "img": "/assets/img/cars/byd/songplusev.jpg",
+          "docs": "/assets/docs/song_plus_ev.pdf",
           "hover": "/assets/img/cars/byd/songplusev-hover.jpg",
           "collection": [
             {
@@ -1594,6 +1588,7 @@
           "id": 4,
           "name": "Han",
           "img": "/assets/img/cars/byd/han.jpg",
+          "docs": "/assets/docs/byd_han.pdf",
           "hover": "/assets/img/cars/byd/han-hover.webp",
           "collection": [
             {
@@ -1740,6 +1735,7 @@
           "id": 5,
           "name": "Qin plus",
           "img": "/assets/img/cars/byd/qin-hover.jpg",
+          "docs": "/assets/docs/byd_qin_plus.pdf",
           "hover": "/assets/img/cars/byd/qin.png",
           "collection": [
             {
@@ -1860,6 +1856,7 @@
           "id": 6,
           "name": "Song L",
           "img": "/assets/img/cars/byd/songl.jpg",
+          "docs": "/assets/docs/byd_song_l.pdf",
           "hover": "/assets/img/cars/byd/songl-hover.jpg",
           "collection": [
             {
@@ -2080,6 +2077,7 @@
           "name": "E2",
           "img": "/assets/img/cars/byd/photo2.jpg",
           "hover": "/assets/img/cars/byd/hover2.jpg",
+          "docs": "/assets/docs/byd_e2.pdf",
           "collection": [
             {
               "id": 0,
@@ -2173,6 +2171,7 @@
           "id": 9,
           "name": "Seal",
           "img": "/assets/img/cars/byd/seal.png",
+          "docs": "/assets/docs/byd_seal.pdf",
           "hover": "/assets/img/cars/byd/seal2.jpg",
           "collection": [
             {
@@ -2312,6 +2311,7 @@
           ]
         },
 
+        
         {
           "id": 10,
           "name": "Destroyer 05",
