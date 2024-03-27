@@ -10,6 +10,7 @@ import Cars from "../../data.json";
 import classes from "./more.module.css";
 import Loading from "../../components/loading/Loading";
 import LoadingCar from "../../components/LoadingCar/LoadingCar";
+import PDFViewer from "./PDFF";
 
 const sliderSettings = {
   dots: true,
@@ -23,7 +24,7 @@ function More({ GetUrl }) {
   useEffect(() => {
     GetUrl();
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
-  }, []);
+  });
 
   const location = window.location.pathname.split("/")[2];
   const carId = window.location.pathname.split("/")[3];
@@ -134,6 +135,12 @@ function More({ GetUrl }) {
   };
 
   const Selector = (value) => {};
+
+  const [numPages, setNumPages] = useState(null);
+
+  function onDocumentSuccess({ numPages }) {
+    setNumPages(numPages);
+  }
 
   return (
     <Suspense fallback={<Loading />}>
@@ -374,11 +381,13 @@ function More({ GetUrl }) {
             <div className={classes.docs}>
               <h2 className={classes.title}>Краткая характеристика</h2>
 
-              {car?.docs?.map((item, index) => (
+              {/* {car?.docs?.map((item, index) => (
                 <div className={classes.doc} key={index}>
                   <img src={item} alt="" />
                 </div>
-              ))}
+              ))} */}
+
+              <PDFViewer />
             </div>
           </div>
         )}

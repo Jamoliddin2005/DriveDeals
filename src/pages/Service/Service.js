@@ -2,12 +2,12 @@ import React, { useEffect } from "react";
 import classes from "./Service.module.css";
 import AOS from "aos";
 
-
 function Service({ GetUrl }) {
+  
   useEffect(() => {
     GetUrl();
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
-  }, []);
+  });
 
   useEffect(() => {
     AOS.init();
@@ -16,7 +16,11 @@ function Service({ GetUrl }) {
   return (
     <div className={classes.service}>
       <div className={classes.map} data-aos="fade-up" data-aos-duration="800">
-        <iframe src="/assets/map/map.html" width="100%"></iframe>
+        <iframe
+          src="/assets/map/map.html"
+          width="100%"
+          title={"MapService"}
+        ></iframe>
       </div>
 
       <div className="container">
