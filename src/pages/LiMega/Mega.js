@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import classes from "./mega.module.css";
+import PDFViewer from "../More/PDFF";
 
 function Mega({ GetUrl }) {
   useEffect(() => {
@@ -66,11 +67,8 @@ function Mega({ GetUrl }) {
 
           <h2>Краткая характеристика</h2>
 
-          <img
-            src="/assets/img/cars/lixiang/mega-doc.jpg"
-            alt=""
-            className={classes.doc}
-          />
+          <PDFViewer doc={"/assets/docs/lixiangMega.pdf"} />
+          
         </div>
       </section>
     </div>
