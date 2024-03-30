@@ -67,7 +67,7 @@ function Mega({ GetUrl }) {
 
           <h2>Краткая характеристика</h2>
 
-          <PDFViewer doc={"/assets/docs/lixiangMega.pdf"} />
+          <PDFViewer doc={"/assets/docs/lixiangMega.xlsx"} />
           
         </div>
       </section>

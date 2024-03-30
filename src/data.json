@@ -45,7 +45,7 @@
               ]
             }
           ],
-          "docs": "/assets/docs/avatr11.pdf",
+          "docs": "/assets/docs/avatr11.xlsx",
           "collection": [
             {
               "id": 0,
@@ -438,7 +438,7 @@
               ]
             }
           ],
-          "docs": "/assets/docs/avatr12.pdf",
+          "docs": "/assets/docs/avatr12.xlsx",
           "collection": [
             {
               "id": 1,
@@ -1081,7 +1081,7 @@
           "name": "Frigate 07",
           "img": "/assets/img/cars/byd/frigate07.jpg",
           "hover": "/assets/img/cars/byd/frigate07-hover.jpg",
-          "docs": "/assets/docs/byd_frigate.pdf",
+          "docs": "/assets/docs/byd_frigate.xlsx",
           "collection": [
             {
               "id": 0,
@@ -1210,7 +1210,7 @@
           "name": "Song PRO",
           "img": "/assets/img/cars/byd/songpro.jpg",
           "hover": "/assets/img/cars/byd/songpro-hover.jpg",
-          "docs": "/assets/docs/song_plus_dmi.pdf",
+          "docs": "/assets/docs/song_plus_dmi.xlsx",
           "collection": [
             {
               "id": 0,
@@ -1312,7 +1312,7 @@
           "id": 2,
           "name": "Song Plus",
           "img": "/assets/img/cars/byd/songplus.jpeg",
-          "docs": "/assets/docs/song_plus_dmi.pdf",
+          "docs": "/assets/docs/song_plus_dmi.xlsx",
           "hover": "/assets/img/cars/byd/songplus-hover.jpg",
           "collection": [
             {
@@ -1451,7 +1451,7 @@
           "id": 3,
           "name": "Song plus EV",
           "img": "/assets/img/cars/byd/songplusev.jpg",
-          "docs": "/assets/docs/song_plus_ev.pdf",
+          "docs": "/assets/docs/song_plus_ev.xlsx",
           "hover": "/assets/img/cars/byd/songplusev-hover.jpg",
           "collection": [
             {
@@ -1588,7 +1588,7 @@
           "id": 4,
           "name": "Han",
           "img": "/assets/img/cars/byd/han.jpg",
-          "docs": "/assets/docs/byd_han.pdf",
+          "docs": "/assets/docs/byd_han.xlsx",
           "hover": "/assets/img/cars/byd/han-hover.webp",
           "collection": [
             {
@@ -1735,7 +1735,7 @@
           "id": 5,
           "name": "Qin plus",
           "img": "/assets/img/cars/byd/qin-hover.jpg",
-          "docs": "/assets/docs/byd_qin_plus.pdf",
+          "docs": "/assets/docs/byd_qin_plus.xlsx",
           "hover": "/assets/img/cars/byd/qin.png",
           "collection": [
             {
@@ -1856,7 +1856,7 @@
           "id": 6,
           "name": "Song L",
           "img": "/assets/img/cars/byd/songl.jpg",
-          "docs": "/assets/docs/byd_song_l.pdf",
+          "docs": "/assets/docs/byd_song_l.xlsx",
           "hover": "/assets/img/cars/byd/songl-hover.jpg",
           "collection": [
             {
@@ -1983,7 +1983,7 @@
           "name": "Vitality",
           "img": "/assets/img/cars/byd/photo.webp",
           "hover": "/assets/img/cars/byd/hover.jpg",
-          "docs": "/assets/docs/byd_vitaly.pdf",
+          "docs": "/assets/docs/byd_vitaly.xlsx",
           "collection": [
             {
               "id": 0,
@@ -2078,7 +2078,7 @@
           "name": "E2",
           "img": "/assets/img/cars/byd/photo2.jpg",
           "hover": "/assets/img/cars/byd/hover2.jpg",
-          "docs": "/assets/docs/byd_e2.pdf",
+          "docs": "/assets/docs/byd_e2.xlsx",
           "collection": [
             {
               "id": 0,
@@ -2172,7 +2172,7 @@
           "id": 9,
           "name": "Seal",
           "img": "/assets/img/cars/byd/seal.png",
-          "docs": "/assets/docs/byd_seal.pdf",
+          "docs": "/assets/docs/byd_seal.xlsx",
           "hover": "/assets/img/cars/byd/seal2.jpg",
           "collection": [
             {
@@ -2315,7 +2315,7 @@
           "id": 10,
           "name": "Destroyer 05",
           "img": "/assets/img/cars/byd/destroyer.jpg",
-          "docs": "/assets/docs/byd_destroy05.pdf",
+          "docs": "/assets/docs/byd_destroy05.xlsx",
           "hover": "/assets/img/cars/byd/destroyer2.jpg",
           "collection": [
             {
@@ -2421,7 +2421,7 @@
         {
           "id": 11,
           "name": "DM-i",
-          "docs": "/assets/docs/byd_han_di.pdf",
+          "docs": "/assets/docs/byd_han.xlsx",
           "img": "/assets/img/cars/byd/dmi.jpg",
           "hover": "/assets/img/cars/byd/dmi2.jpg",
           "collection": [
@@ -2759,7 +2759,7 @@
           "id": 0,
           "name": "M5",
           "img": "/assets/img/cars/aito/m5.jpg",
-          "docs": "/assets/docs/aito_m5.pdf",
+          "docs": "/assets/docs/aito_m5.xlsx",
           "hover": "/assets/img/cars/aito/m51.jpg",
           "options": [
             {
@@ -3149,7 +3149,7 @@
           "name": "M7",
           "img": "/assets/img/cars/aito/m7.jpg",
           "hover": "/assets/img/cars/aito/m71.jpg",
-          "docs": "/assets/docs/aito_m7.pdf",
+          "docs": "/assets/docs/aito_m7.xlsx",
           "options": [
             {
               "name": "HUD, аудиодинамики в подголовнике, хрустальный рычаг передач, доводчики",
@@ -3498,7 +3498,7 @@
           "name": "M9",
           "img": "/assets/img/cars/aito/m91.png",
           "hover": "/assets/img/cars/aito/m9.jpg",
-          "docs": "/assets/docs/aito_m9.pdf",
+          "docs": "/assets/docs/aito_m9.xlsx",
           "options": [
             {
               "name": "Кресла с нулевой гравитацией 2.0",
@@ -3786,7 +3786,7 @@
         {
           "id": 0,
           "name": "AION S MAX 70 Starlight",
-          "docs": "/assets/docs/aion_s_max.pdf",
+          "docs": "/assets/docs/aion_s_max.xlsx",
           "img": "/assets/img/cars/aion/car1/aito.jpg",
           "hover": "/assets/img/cars/aion/car1/aito-hover.jpg",
           "options": [
@@ -4094,7 +4094,7 @@
           "name": "ZEEKR 001 WE 86 kWh",
           "hover": "/assets/img/cars/zeekr/Zeekr_001.jpg",
           "img": "/assets/img/cars/zeekr/Zeekr_001-hover.jpg",
-          "docs": "/assets/docs/zeekr001.pdf",
+          "docs": "/assets/docs/zeekr001.xlsx",
           "options": [
             {
               "name": "Пневматическая подвеска",
@@ -4620,7 +4620,7 @@
           "id": 1,
           "name": "ZEEKR 001 FR 140 kWh",
           "hover": "/assets/img/cars/zeekr/zeekr_r.jpg",
-          "docs": "/assets/docs/zeekr001.pdf",
+          "docs": "/assets/docs/zeekr001.xlsx",
           "img": "/assets/img/cars/zeekr/zeekr_r-hover.jpg",
           "collection": [
             {
@@ -4694,7 +4694,7 @@
         {
           "id": 2,
           "name": "ZEEKR 007 RWD 75 kWh",
-          "docs": "/assets/docs/zeekr007.pdf",
+          "docs": "/assets/docs/zeekr007.xlsx",
           "hover": "/assets/img/cars/zeekr/zeekr_007.jpg",
           "img": "/assets/img/cars/zeekr/zeekr_007-hover.jpg",
           "options": [
@@ -5087,7 +5087,7 @@
         {
           "id": 3,
           "name": "ZEEKR 009 ME",
-          "docs": "/assets/docs/zeekr009.pdf",
+          "docs": "/assets/docs/zeekr009.xlsx",
           "img": "/assets/img/cars/zeekr/zeekr_009.jpg",
           "hover": "/assets/img/cars/zeekr/zeekr_009-hover.jpg",
           "options": [
@@ -5492,7 +5492,7 @@
         {
           "id": 4,
           "name": "ZEEKR X ME 5",
-          "docs": "/assets/docs/zeekrX.pdf",
+          "docs": "/assets/docs/zeekrX.xlsx",
           "img": "/assets/img/cars/zeekr/Zeekr-X.jpg",
           "hover": "/assets/img/cars/zeekr/Zeekr-X-hover.jpg",
           "options": [
@@ -6035,7 +6035,7 @@
           "name": "Lixiang L7",
           "img": "/assets/img/cars/lixiang/photo.jpg",
           "hover": "/assets/img/cars/lixiang/hover.webp",
-          "docs": "/assets/docs/lixiangL7.pdf",
+          "docs": "/assets/docs/lixiangL7.xlsx",
           "options": [
             {
               "name": "Подножка с электроприиводом",
@@ -6559,7 +6559,7 @@
           "name": "Lixiang L8 Max",
           "img": "/assets/img/cars/lixiang/photo2.jpg",
           "hover": "/assets/img/cars/lixiang/hover.webp",
-          "docs": "/assets/docs/lixiangL8.pdf",
+          "docs": "/assets/docs/lixiangL8.xlsx",
           "collection": [
             {
               "id": 0,
@@ -7065,7 +7065,7 @@
           "name": "Lixiang L9 Max",
           "img": "/assets/img/cars/lixiang/photo3.jpg",
           "hover": "/assets/img/cars/lixiang/hover3.jpg",
-          "docs": "/assets/docs/lixiangL9.pdf",
+          "docs": "/assets/docs/lixiangL9.xlsx",
           "collection": [
             {
               "id": 0,
@@ -7585,218 +7585,7 @@
         {
           "id": 0,
           "name": "VOYAH Free EVR ",
-          "img": "/assets/img/cars/voyah/car1/voyah-1.jpg",
-          "docs": "/assets/docs/voyahFree.pdf",
-          "hover": "/assets/img/cars/voyah/car1/voyah-1-hover.jpg",
-          "options": [
-            {
-              "name": "Порт медленной зарядки на 11 кВт",
-              "click": false,
-              "images": [
-                "/assets/img/cars/voyah/car1/options/Rasm9.png",
-                "/assets/img/cars/voyah/car1/options/Rasm9.png"
-              ]
-            },
-            {
-              "name": "Apollo умное вождение",
-              "click": false,
-              "images": [
-                "/assets/img/cars/voyah/car1/options/Rasm10.png",
-                "/assets/img/cars/voyah/car1/options/Rasm10.png"
-              ]
-            },
-            {
-              "name": "Панорамный люк",
-              "click": false,
-              "images": [
-                "/assets/img/cars/voyah/car1/options/Rasm11.png",
-                "/assets/img/cars/voyah/car1/options/Rasm11.png"
-              ]
-            }
-          ],
-          "collection": [
-            {
-              "id": 0,
-              "name": "VOYAH Free EVR"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/voyah/car1/carcase/Rasm1.png",
-                "/assets/img/cars/voyah/car1/carcase/Rasm1.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный",
-                  "color": "grey",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Бежевый",
-                  "color": "#dcb894",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
-                  ]
-                },
-                {
-                  "name": "Комбинация цветов (коричневый)",
-                  "color": "#d67653",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/voyah/car1/carcase/Rasm2.png",
-                "/assets/img/cars/voyah/car1/carcase/Rasm2.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный",
-                  "color": "grey",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Бежевый",
-                  "color": "#dcb894",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
-                  ]
-                },
-                {
-                  "name": "Комбинация цветов (коричневый)",
-                  "color": "#d67653",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Голубой",
-              "color": "rgb(139 181 224)",
-              "images": [
-                "/assets/img/cars/voyah/car1/carcase/Rasm3.png",
-                "/assets/img/cars/voyah/car1/carcase/Rasm3.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный",
-                  "color": "grey",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Бежевый",
-                  "color": "#dcb894",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
-                  ]
-                },
-                {
-                  "name": "Комбинация цветов (коричневый)",
-                  "color": "#d67653",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Розовый",
-              "color": "rgb(184 132 152)",
-              "images": [
-                "/assets/img/cars/voyah/car1/carcase/Rasm4.png",
-                "/assets/img/cars/voyah/car1/carcase/Rasm4.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный",
-                  "color": "grey",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Бежевый",
-                  "color": "#dcb894",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
-                  ]
-                },
-                {
-                  "name": "Комбинация цветов (коричневый)",
-                  "color": "#d67653",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Зеленый",
-              "color": "rgb(60 154 144)",
-              "images": [
-                "/assets/img/cars/voyah/car1/carcase/Rasm5.png",
-                "/assets/img/cars/voyah/car1/carcase/Rasm5.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный",
-                  "color": "grey",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm6.png"
-                  ]
-                },
-                {
-                  "name": "Бежевый",
-                  "color": "#dcb894",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm7.png"
-                  ]
-                },
-                {
-                  "name": "Комбинация цветов (коричневый)",
-                  "color": "#d67653",
-                  "images": [
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png",
-                    "/assets/img/cars/voyah/car1/cabin/Rasm8.png"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 1,
-          "name": "VOYAH Free EV ",
-          "docs": "/assets/docs/voyahFree.pdf",
+          "docs": "/assets/docs/voyahFree.xlsx",
           "img": "/assets/img/cars/voyah/car2/voyah-1.jpg",
           "hover": "/assets/img/cars/voyah/car2/voyah-1-hover.jpg",
           "options": [
@@ -8161,128 +7950,9 @@
           ]
         },
         {
-          "id": 2,
-          "name": "VOYAH Passion PHEV",
-          "docs": "/assets/docs/voyahPassion.pdf",
-          "img": "/assets/img/cars/voyah/car3/voyah3.jpg",
-          "hover": "/assets/img/cars/voyah/car3/voyah3-hover.jpg",
-          "options": [
-            {
-              "name": "Пакет 'комфорт' (AR-HUD, Face id, ароматизация, подсветка салона, обогрев руля, четырехзонный кондиционер, экран в подлокотнике)",
-              "click": false,
-              "images": [
-                "/assets/img/cars/voyah/car3/options/Rasm6.png",
-                "/assets/img/cars/voyah/car3/options/Rasm6.png"
-              ]
-            },
-            {
-              "name": "Интеллектуальная помощь водителю L 2.9",
-              "click": false,
-              "images": [
-                "/assets/img/cars/voyah/car3/options/Rasm7.png",
-                "/assets/img/cars/voyah/car3/options/Rasm7.png"
-              ]
-            }
-          ],
-          "collection": [
-            {
-              "id": 0,
-              "name": "VOYAH Passion PHEV"
-            },
-            {
-              "id": 0,
-              "name": "VOYAH Passion PHEV 4WD Executive "
-            },
-            {
-              "id": 0,
-              "name": "VOYAH Passion PHEV 4WD Flagship"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/voyah/car3/carcase/Rasm1.png",
-                "/assets/img/cars/voyah/car3/carcase/Rasm1.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный+Серый",
-                  "color": "rgb(90 99 114)",
-                  "images": [
-                    "/assets/img/cars/voyah/car3/cabin/Rasm4.png",
-                    "/assets/img/cars/voyah/car3/cabin/Rasm4.png"
-                  ]
-                },
-                {
-                  "name": "Коричневый",
-                  "color": "rgb(224 136 91)",
-                  "images": [
-                    "/assets/img/cars/voyah/car3/cabin/Rasm5.png",
-                    "/assets/img/cars/voyah/car3/cabin/Rasm5.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/voyah/car3/carcase/Rasm2.png",
-                "/assets/img/cars/voyah/car3/carcase/Rasm2.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный+Серый",
-                  "color": "rgb(90 99 114)",
-                  "images": [
-                    "/assets/img/cars/voyah/car3/cabin/Rasm4.png",
-                    "/assets/img/cars/voyah/car3/cabin/Rasm4.png"
-                  ]
-                },
-                {
-                  "name": "Коричневый",
-                  "color": "rgb(224 136 91)",
-                  "images": [
-                    "/assets/img/cars/voyah/car3/cabin/Rasm5.png",
-                    "/assets/img/cars/voyah/car3/cabin/Rasm5.png"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Фиолетовый",
-              "color": "rgb(142 64 192)",
-              "images": [
-                "/assets/img/cars/voyah/car3/carcase/Rasm3.png",
-                "/assets/img/cars/voyah/car3/carcase/Rasm3.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Черный+Серый",
-                  "color": "rgb(90 99 114)",
-                  "images": [
-                    "/assets/img/cars/voyah/car3/cabin/Rasm4.png",
-                    "/assets/img/cars/voyah/car3/cabin/Rasm4.png"
-                  ]
-                },
-                {
-                  "name": "Коричневый",
-                  "color": "rgb(224 136 91)",
-                  "images": [
-                    "/assets/img/cars/voyah/car3/cabin/Rasm5.png",
-                    "/assets/img/cars/voyah/car3/cabin/Rasm5.png"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 3,
+          "id": 1,
           "name": "VOYAH Passion EV",
-          "docs": "/assets/docs/voyahPassion.pdf",
+          "docs": "/assets/docs/voyahPassion.xlsx",
           "img": "/assets/img/cars/voyah/car4/voyah3.jpg",
           "hover": "/assets/img/cars/voyah/car4/voyah3-hover.jpg",
           "options": [
@@ -8570,9 +8240,9 @@
           ]
         },
         {
-          "id": 4,
+          "id": 2,
           "name": "VOYAH Dream PHEV",
-          "docs": "/assets/docs/voyahDream.pdf",
+          "docs": "/assets/docs/voyahDream.xlsx",
           "img": "/assets/img/cars/voyah/car5/voyah3.jpg",
           "hover": "/assets/img/cars/voyah/car5/voyah3-hover.jpg",
           "collection": [
@@ -8709,6 +8379,274 @@
           ]
         }
       ]
+    },
+    {
+      "id": 8,
+      "name": "Arcfox",
+      "img": "/assets/img/Arcfox-logo.png",
+      "logo": "/assets/img/Arcfox-logo.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Arcfox",
+          "docs": "/assets/docs/arcfox.xlsx",
+          "img": "/assets/img/cars/arcfox/car1/arcfox_t5.jpg",
+          "hover": "/assets/img/cars/arcfox/car1/arcfox_t5-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Arcfox aT5 520 AIR"
+            },
+            {
+              "id": 0,
+              "name": "Arcfox aT5 520 PRO"
+            },
+            {
+              "id": 0,
+              "name": "Arcfox aT5 520 MAX"
+            },
+            {
+              "id": 0,
+              "name": "Arcfox aT5 660 MAX"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/arcfox/car1/carcase/white.png",
+                "/assets/img/cars/arcfox/car1/carcase/white.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный+Белый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png"
+                  ]
+                },
+                {
+                  "name": "Белый+Черный",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(217 115 77)",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(60 73 85)",
+              "images": [
+                "/assets/img/cars/arcfox/car1/carcase/color3.png",
+                "/assets/img/cars/arcfox/car1/carcase/color3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный+Белый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png"
+                  ]
+                },
+                {
+                  "name": "Белый+Черный",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(217 115 77)",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(41 82 133)",
+              "images": [
+                "/assets/img/cars/arcfox/car1/carcase/color2.png",
+                "/assets/img/cars/arcfox/car1/carcase/color2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный+Белый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png"
+                  ]
+                },
+                {
+                  "name": "Белый+Черный",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(217 115 77)",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(107 180 232)",
+              "images": [
+                "/assets/img/cars/arcfox/car1/carcase/blue.png",
+                "/assets/img/cars/arcfox/car1/carcase/blue.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный+Белый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon1.png"
+                  ]
+                },
+                {
+                  "name": "Белый+Черный",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon2.png"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(217 115 77)",
+                  "images": [
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png",
+                    "/assets/img/cars/arcfox/car1/cabin/calon3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Buick",
+      "img": "/assets/img/Buick-Logo.png",
+      "logo": "/assets/img/Buick-Logo.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Arcfox",
+          "docs": "/assets/docs/buick.xlsx",
+          "img": "/assets/img/cars/buick/car1/buick.jpg",
+          "hover": "/assets/img/cars/buick/car1/buick-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E4 Smart Edition"
+            },
+            {
+              "id": 0,
+              "name": "Buick E4 Premium Edition"
+            },
+            {
+              "id": 0,
+              "name": "Buick E4 GS"
+            },
+            {
+              "id": 0,
+              "name": "Buick E4 GS Long Range"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/1.png",
+                "/assets/img/cars/buick/car1/carcase/1.png"
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(146 202 255)",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/2.png",
+                "/assets/img/cars/buick/car1/carcase/2.png"
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(121 226 165)",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/3.png",
+                "/assets/img/cars/buick/car1/carcase/3.png"
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(184 184 184)",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/4.png",
+                "/assets/img/cars/buick/car1/carcase/4.png"
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(124 114 150)",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/5.png",
+                "/assets/img/cars/buick/car1/carcase/5.png"
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/6.png",
+                "/assets/img/cars/buick/car1/carcase/6.png"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "BMW",
+      "img": "/assets/img/bmw.png",
+      "logo": "/assets/img/bmw.png",
+      "cars": []
+    },
+    {
+      "id": 11,
+      "name": "audi",
+      "img": "/assets/img/audi.png",
+      "logo": "/assets/img/audi.png",
+      "cars": []
     }
   ]
 }

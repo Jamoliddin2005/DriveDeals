@@ -136,12 +136,6 @@ function More({ GetUrl }) {
 
   const Selector = (value) => {};
 
-  const [numPages, setNumPages] = useState(null);
-
-  function onDocumentSuccess({ numPages }) {
-    setNumPages(numPages);
-  }
-
   return (
     <Suspense fallback={<Loading />}>
       <div className={`more ${classes.more}`}>
@@ -209,7 +203,8 @@ function More({ GetUrl }) {
                   </div>
                 </div>
                 <div className={classes.calon}>
-                  <h3>Цвет салона</h3>
+                  {color?.cabins && <h3>Цвет салона</h3>}
+
                   <div className={classes.colors}>
                     {color
                       ? color?.cabins?.map((cbn, index) => (

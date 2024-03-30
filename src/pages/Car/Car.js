@@ -1,16 +1,15 @@
 import React, { useEffect, useState } from "react";
 import classes from "./car.module.css";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Cars from "../../data.json";
 import Image from "../../components/lazyLoad/Image";
 
+
 function Car({ GetUrl }) {
-  const navigate = useNavigate();
 
   const location = window.location.pathname.split("/")[2];
 
   const [car, setCar] = useState("");
-  const [error, setError] = useState(false);
 
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
@@ -19,10 +18,6 @@ function Car({ GetUrl }) {
     Cars?.catalog.forEach((item) => {
       if (item.name === location) {
         setCar(item);
-        
-      } else {
-        // console.log("asd");
-        // navigate("/login");
       }
     });
   });
