@@ -11,6 +11,7 @@ import classes from "./more.module.css";
 import Loading from "../../components/loading/Loading";
 import LoadingCar from "../../components/LoadingCar/LoadingCar";
 import PDFViewer from "./PDFF";
+import { Helmet } from "react-helmet";
 
 const sliderSettings = {
   dots: true,
@@ -32,6 +33,8 @@ function More({ GetUrl }) {
 
   const [cars, setCars] = useState(null);
   const [car, setCar] = useState(null);
+
+  // SEO
 
   const [color, setColor] = useState(0);
   const [cabin, setCabin] = useState(0);
@@ -138,6 +141,16 @@ function More({ GetUrl }) {
 
   return (
     <Suspense fallback={<Loading />}>
+      {car?.name && (
+        <Helmet>
+          <title>{car?.name} - Drive Deals</title>
+          <meta
+            name="description"
+            content={`Купите автомобиль ${car?.name} на - Drive Deals`}
+          />
+        </Helmet>
+      )}
+
       <div className={`more ${classes.more}`}>
         {car === "error" ? (
           <h1>Error</h1>

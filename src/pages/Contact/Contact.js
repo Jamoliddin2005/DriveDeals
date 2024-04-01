@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import classes from "../../components/footer/footer.module.css";
-import { Link } from "react-router-dom";  
+import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 function Contact({ GetUrl }) {
   useEffect(() => {
@@ -10,6 +11,11 @@ function Contact({ GetUrl }) {
 
   return (
     <>
+      <Helmet>
+        <title>Контакты - Drive-Deals | Свяжитесь с нами</title>
+        <meta name="description" content="Свяжитесь с нами - Drive Deals" />
+      </Helmet>
+
       <div className={`${classes.Foot_contact} ${classes.contact}`}>
         <div className={classes.item}></div>
 

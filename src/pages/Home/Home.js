@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import classes from "./Home.module.css";
 import Header from "../../components/homeHeader/Header";
 import About from "../../components/about/About";
-import Service from "../Service/Service";
 import BlocksHeader from "../../components/HeaderBlocks/BlocksHeader";
+import { Helmet } from "react-helmet";
 
 function Home({ GetUrl }) {
   useEffect(() => {
@@ -13,6 +13,13 @@ function Home({ GetUrl }) {
 
   return (
     <div className={classes.Home}>
+      <Helmet>
+        <title>Drive Deals - Drive Your Dreams Today</title>
+        <meta
+          name="description"
+          content="Экспортная компания, которая отличается своим стремлением к качеству и профессионализму. Основанная в 2022 году в столице Поднебесной - городе Пекин, она специализируется на поиске и экспорте высококачественных автомобилей по всему миру."
+        />
+      </Helmet>
       <Header />
       <BlocksHeader />
       <About GetUrl={GetUrl} />

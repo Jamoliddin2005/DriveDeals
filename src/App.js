@@ -15,15 +15,9 @@ import Error from "./pages/Error/Error";
 
 function App() {
   const [url, setUrl] = useState("");
-  const [white, setWhite] = useState("");
 
   const GetUrl = () => {
     setUrl(window.location.pathname);
-    if (window.location.pathname === "/about") {
-      setWhite("white");
-    } else {
-      setWhite("black");
-    }
   };
 
   useEffect(() => {
@@ -35,7 +29,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home GetUrl={GetUrl} />} />
-        <Route path="/about" element={<About GetUrl={GetUrl} />} />
+        <Route path="/about" element={<About GetUrl={GetUrl} url={url} />} />
         <Route path="/catalog" element={<Catalog GetUrl={GetUrl} />} />
         <Route path="/cars/:car" element={<Car GetUrl={GetUrl} />} />
         <Route path="/cars/:car/:id" element={<More GetUrl={GetUrl} />} />

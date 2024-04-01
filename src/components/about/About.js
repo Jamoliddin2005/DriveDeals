@@ -1,13 +1,22 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import classes from "./about.module.css";
 import Image from "../lazyLoad/Image";
 import AOS from "aos";
 import Form from "../form/form";
+import { Helmet } from "react-helmet";
 
-function About({ GetUrl }) {
+function About({ GetUrl, url }) {
+  const [search, setSearch] = useState(false);
+
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
     GetUrl();
+
+    if (url === "/about") {
+      setSearch(true);
+    } else {
+      setSearch(false);
+    }
   }, [GetUrl]);
 
   useEffect(() => {
@@ -16,6 +25,16 @@ function About({ GetUrl }) {
 
   return (
     <>
+      {search && (
+        <Helmet>
+          <title>About - Drive-Deals</title>
+          <meta
+            name="description"
+            content="About - Drive-Deals, Drive Your Dreams Today"
+          />
+        </Helmet>
+      )}
+
       <div className={`${classes.about} `} id="about">
         <div className="container">
           <div className={`${classes.row} row`}>
