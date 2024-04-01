@@ -1,6 +1,6 @@
 {
   "short_name": "Drive Deals",
-  "name": "Drive Deals",
+  "name": "Drive Deals | Drive Your Dreams Today",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://drive-deals.vercel.app/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
