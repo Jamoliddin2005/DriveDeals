@@ -16,7 +16,7 @@ function Service({ GetUrl }) {
   return (
     <>
       <Helmet>
-        <title>Service - Drive-Deals</title>
+        <title>Service - Drive Deals</title>
         <meta
           name="description"
           content="Компания Drive Deals уже экспортировала более 6000 автомобилей с объемом продаж в 200 миллионов долларов США."

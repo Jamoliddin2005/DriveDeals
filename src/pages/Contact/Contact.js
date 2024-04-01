@@ -12,7 +12,7 @@ function Contact({ GetUrl }) {
   return (
     <>
       <Helmet>
-        <title>Контакты - Drive-Deals | Свяжитесь с нами</title>
+        <title>Контакты - Drive Deals | Свяжитесь с нами</title>
         <meta name="description" content="Свяжитесь с нами - Drive Deals" />
       </Helmet>
 

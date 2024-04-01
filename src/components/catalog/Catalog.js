@@ -16,7 +16,7 @@ function Catalog({ GetUrl }) {
   return (
     <>
       <Helmet>
-        <title>Каталог автомобилей - Drive-Deals </title>
+        <title>Каталог автомобилей - Drive Deals </title>
         <meta
           name="description"
           content="Покупайте разнообразные автомобили на - Drive Deals"

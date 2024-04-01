@@ -27,10 +27,10 @@ function About({ GetUrl, url }) {
     <>
       {search && (
         <Helmet>
-          <title>About - Drive-Deals</title>
+          <title>About - Drive Deals</title>
           <meta
             name="description"
-            content="About - Drive-Deals, Drive Your Dreams Today"
+            content="About - Drive Deals, Drive Your Dreams Today"
           />
         </Helmet>
       )}
