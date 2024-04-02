@@ -8827,7 +8827,1160 @@
       "id": 11,
       "name": "Xiaomi",
       "img": "/assets/img/xiaomi.png",
-      "logo": "/assets/img/xiaomi.png"
+      "logo": "/assets/img/xiaomi.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Xiaomi Su7",
+          "img": "/assets/img/cars/xiaomi/car1/xiaomi.jpg",
+          "hover": "/assets/img/cars/xiaomi/car1/xiaomi-hover.jpg",
+          "options": [
+            {
+              "name": "Холодильник 4.6 литра (акция временно бесплатно)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/opt2.png",
+                "/assets/img/cars/xiaomi/car1/options/opt2.png"
+              ]
+            },
+            {
+              "name": "Спойлер (акция временно бесплатно)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/opt1.jpg",
+                "/assets/img/cars/xiaomi/car1/options/opt1.jpg"
+              ]
+            },
+            {
+              "name": "Премиальная аудио система на 23 динамика 7.1.4 Dolby Atmos (акция временно бесплатно)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/opt3.jpg",
+                "/assets/img/cars/xiaomi/car1/options/opt3.jpg"
+              ]
+            },
+            {
+              "name": "Натуральная кожа Nappa",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/opt4.jpg",
+                "/assets/img/cars/xiaomi/car1/options/opt4.jpg"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 700 km"
+            },
+            {
+              "id": 0,
+              "name": "700 km smart"
+            },
+            {
+              "id": 0,
+              "name": "700 km standard"
+            },
+            {
+              "id": 0,
+              "name": "830 km Pro"
+            },
+            {
+              "id": 0,
+              "name": "800 km Max"
+            },
+            {
+              "id": 0,
+              "name": "750 km Max"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Черный",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/2.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/3.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/4.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/5.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/6.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/2.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/4.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/6.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/7.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/8.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/9.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/10.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/11.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/12.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/13.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/14.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/15.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/16.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/17.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/18.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(183 181 182)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/20.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/21.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/22.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/23.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/24.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/20.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/22.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/24.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/25.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/26.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/27.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/28.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/29.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/30.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/31.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/32.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/33.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/34.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/35.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(44 101 188)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/38.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/39.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/40.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/41.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/42.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/38.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/40.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/42.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/43.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/44.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/45.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/46.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/47.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/48.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/49.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/50.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/51.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/52.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/53.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/54.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/56.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/57.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/58.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/59.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/60.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/56.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/58.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/60.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/61.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/62.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/63.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/64.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/65.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/66.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/67.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/68.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/69.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/70.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/71.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/72.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(0 199 255)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/74.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/75.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/76.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/77.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/78.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/74.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/76.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/78.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/79.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/80.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/81.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/82.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/83.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/84.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/85.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/86.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/87.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/88.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/89.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/90.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-синий",
+              "color": "rgb(41 107 217)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/92.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/93.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/94.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/95.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/96.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/92.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/94.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/96.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/97.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/98.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/99.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/100.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/101.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/102.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/103.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/104.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/105.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/106.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/107.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/108.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(177 67 214)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/110.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/111.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/112.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/113.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/114.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/110.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/112.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/114.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/115.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/116.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/117.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/118.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/119.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/120.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/121.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/122.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/123.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/124.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/125.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/126.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Коричневый",
+              "color": "rgb(255 55 31)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/128.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/129.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/130.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/131.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/132.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/128.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/130.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/132.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/133.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/134.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/135.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/136.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/137.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/138.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/139.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/140.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/141.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/142.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/143.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/144.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(50 168 109)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/146.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/147.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/148.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/149.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/150.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 Michelin e.Primacy",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/146.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/148.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/150.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/151.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/152.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/153.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/154.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Michelin Pilot Sport 4",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/155.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/156.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/157.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/158.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 Pirelli P Zero",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/159.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/160.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/161.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/162.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Geely-Galaxy",
+      "img": "/assets/img/geely.jpg",
+      "logo": "/assets/img/geely.jpg",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Geely Galaxy E8 550 km PRO",
+          "docs": "/assets/docs/geely.xlsx",
+          "img": "/assets/img/cars/geely/car1/geely.jpg",
+          "hover": "/assets/img/cars/geely/car1/geely-hover.jpg",
+          "options": [
+            {
+              "name": "Пакет 'комфорт' (заднее защитное стекло, регулировка подушки сиденья водителя, AQS, PM2,5, память наружных зеркал)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/geely/car1/options/3.jpg",
+                "/assets/img/cars/geely/car1/options/3.jpg"
+              ]
+            },
+            {
+              "name": "Смарт-пакет (OMS, DMS, ароматизаторы, 5G, внешний автомобильный микрофон)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/geely/car1/options/4.webp",
+                "/assets/img/cars/geely/car1/options/4.webp"
+              ]
+            },
+            {
+              "name": "Встроенная светящаяся передняя защита",
+              "click": false,
+              "images": [
+                "/assets/img/cars/geely/car1/options/2.jpg",
+                "/assets/img/cars/geely/car1/options/2.jpg"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "Geely Galaxy E8 550 km PRO"
+            },
+            {
+              "id": 0,
+              "name": "550 km PRO"
+            },
+            {
+              "id": 0,
+              "name": "550km MAX"
+            },
+            {
+              "id": 0,
+              "name": "665km  Starship Long Range Edition"
+            },
+            {
+              "id": 0,
+              "name": "665km  Starship Intelligent Driving Edition"
+            },
+            {
+              "id": 0,
+              "name": "620km  Starship Performance Edition"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/geely/car1/carcase/1.jpg",
+                "/assets/img/cars/geely/car1/carcase/2.jpg",
+                "/assets/img/cars/geely/car1/carcase/3.png",
+                "/assets/img/cars/geely/car1/carcase/4.jpg",
+                "/assets/img/cars/geely/car1/carcase/5.jpg",
+                "/assets/img/cars/geely/car1/carcase/6.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 195 201)",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon1.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon2.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon3.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon4.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon5.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon6.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon7.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon8.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon9.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Желтый",
+              "color": "rgb(255 221 98)",
+              "images": [
+                "/assets/img/cars/geely/car1/carcase/7.png",
+                "/assets/img/cars/geely/car1/carcase/7.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 195 201)",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon1.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon2.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon3.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon4.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon5.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon6.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon7.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon8.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon9.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Бледно-красный",
+              "color": "rgb(255 175 175)",
+              "images": [
+                "/assets/img/cars/geely/car1/carcase/8.png",
+                "/assets/img/cars/geely/car1/carcase/8.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 195 201)",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon1.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon2.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon3.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon4.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon5.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon6.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon7.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon8.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon9.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(165 165 165)",
+              "images": [
+                "/assets/img/cars/geely/car1/carcase/9.png",
+                "/assets/img/cars/geely/car1/carcase/9.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 195 201)",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon1.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon2.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon3.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon4.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon5.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon6.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon7.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon8.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon9.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(250 60 79)",
+              "images": [
+                "/assets/img/cars/geely/car1/carcase/10.png",
+                "/assets/img/cars/geely/car1/carcase/10.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 195 201)",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon1.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon2.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon3.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon4.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon5.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon6.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon7.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon8.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon9.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(108 170 226)",
+              "images": [
+                "/assets/img/cars/geely/car1/carcase/11.png",
+                "/assets/img/cars/geely/car1/carcase/11.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 195 201)",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon1.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon2.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon3.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/geely/car1/cabin/calon4.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon5.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon6.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon7.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon8.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon9.jpg",
+                    "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
