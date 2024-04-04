@@ -9992,8 +9992,8 @@
           "id": 0,
           "name": "HongQi",
           "docs": "/assets/docs/hongqi.xlsx",
-          "img": "/assets/img/cars/Hongqi/car1/img.png",
-          "hover": "/assets/img/cars/Hongqi/car1/hover.png",
+          "img": "/assets/img/cars/hongqi/car1/img.png",
+          "hover": "/assets/img/cars/hongqi/car1/hover.png",
           "collection": [
             {
               "id": 0,
@@ -10005,17 +10005,17 @@
               "name": "Белый",
               "color": "#fff",
               "images": [
-                "/assets/img/cars/HongQi/car1/carcase/1.png",
-                "/assets/img/cars/HongQi/car1/carcase/1.png"
+                "/assets/img/cars/hongqi/car1/carcase/1.png",
+                "/assets/img/cars/hongqi/car1/carcase/1.png"
               ],
               "cabins": [
                 {
                   "name": "Серый",
                   "color": "rgb(197 197 197)",
                   "images": [
-                    "/assets/img/cars/HongQi/car1/cabin/1.png",
-                    "/assets/img/cars/HongQi/car1/cabin/2.png",
-                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                    "/assets/img/cars/hongqi/car1/cabin/1.png",
+                    "/assets/img/cars/hongqi/car1/cabin/2.png",
+                    "/assets/img/cars/hongqi/car1/cabin/3.jpg"
                   ]
                 }
               ]
@@ -10024,17 +10024,17 @@
               "name": "Черный",
               "color": "#000",
               "images": [
-                "/assets/img/cars/HongQi/car1/carcase/2.png",
-                "/assets/img/cars/HongQi/car1/carcase/2.png"
+                "/assets/img/cars/hongqi/car1/carcase/2.png",
+                "/assets/img/cars/hongqi/car1/carcase/2.png"
               ],
               "cabins": [
                 {
                   "name": "Серый",
                   "color": "rgb(197 197 197)",
                   "images": [
-                    "/assets/img/cars/HongQi/car1/cabin/1.png",
-                    "/assets/img/cars/HongQi/car1/cabin/2.png",
-                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                    "/assets/img/cars/hongqi/car1/cabin/1.png",
+                    "/assets/img/cars/hongqi/car1/cabin/2.png",
+                    "/assets/img/cars/hongqi/car1/cabin/3.jpg"
                   ]
                 }
               ]
@@ -10043,17 +10043,17 @@
               "name": "Белый+Серый",
               "color": "rgb(197 200 208)",
               "images": [
-                "/assets/img/cars/HongQi/car1/carcase/3.png",
-                "/assets/img/cars/HongQi/car1/carcase/3.png"
+                "/assets/img/cars/hongqi/car1/carcase/3.png",
+                "/assets/img/cars/hongqi/car1/carcase/3.png"
               ],
               "cabins": [
                 {
                   "name": "Серый",
                   "color": "rgb(197 197 197)",
                   "images": [
-                    "/assets/img/cars/HongQi/car1/cabin/1.png",
-                    "/assets/img/cars/HongQi/car1/cabin/2.png",
-                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                    "/assets/img/cars/hongqi/car1/cabin/1.png",
+                    "/assets/img/cars/hongqi/car1/cabin/2.png",
+                    "/assets/img/cars/hongqi/car1/cabin/3.jpg"
                   ]
                 }
               ]
@@ -10062,17 +10062,17 @@
               "name": "Серый",
               "color": "rgb(109 114 128)",
               "images": [
-                "/assets/img/cars/HongQi/car1/carcase/4.png",
-                "/assets/img/cars/HongQi/car1/carcase/4.png"
+                "/assets/img/cars/hongqi/car1/carcase/4.png",
+                "/assets/img/cars/hongqi/car1/carcase/4.png"
               ],
               "cabins": [
                 {
                   "name": "Серый",
                   "color": "rgb(197 197 197)",
                   "images": [
-                    "/assets/img/cars/HongQi/car1/cabin/1.png",
-                    "/assets/img/cars/HongQi/car1/cabin/2.png",
-                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                    "/assets/img/cars/hongqi/car1/cabin/1.png",
+                    "/assets/img/cars/hongqi/car1/cabin/2.png",
+                    "/assets/img/cars/hongqi/car1/cabin/3.jpg"
                   ]
                 }
               ]
