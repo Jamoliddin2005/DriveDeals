@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import classes from "./catalog.module.css";
 import { Link } from "react-router-dom";
 import Image from "../lazyLoad/Image";
@@ -8,10 +8,20 @@ import { Helmet } from "react-helmet";
 import Loading from "../loading/Loading";
 
 function Catalog({ GetUrl }) {
+  const [catalogCars, setCatalogCars] = useState([]);
+
   useEffect(() => {
     GetUrl();
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   }, [GetUrl]);
+
+  const getCatalog = () => {
+    setCatalogCars(data?.catalog);
+  };
+
+  useEffect(() => {
+    getCatalog();
+  }, [catalogCars]);
 
   return (
     <>
@@ -27,8 +37,8 @@ function Catalog({ GetUrl }) {
         <div className="container">
           <h1>Каталог Автомобилей</h1>
           <div className={`row ${classes.row}`}>
-            {data.catalog ? (
-              data.catalog.map((item, index) => (
+            {catalogCars ? (
+              catalogCars?.map((item, index) => (
                 <Link
                   to={`/cars/${item.name}`}
                   key={index}

@@ -9726,7 +9726,7 @@
         {
           "id": 0,
           "name": "Geely Galaxy E8 550 km PRO",
-          "docs": "/assets/docs/geely.xlsx",
+          "docs": "/assets/docs/GalaxyGeely.xlsx",
           "img": "/assets/img/cars/geely/car1/geely.jpg",
           "hover": "/assets/img/cars/geely/car1/geely-hover.jpg",
           "options": [
@@ -9974,6 +9974,1248 @@
                     "/assets/img/cars/geely/car1/cabin/calon8.jpg",
                     "/assets/img/cars/geely/car1/cabin/calon9.jpg",
                     "/assets/img/cars/geely/car1/cabin/calon10.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "HongQi",
+      "img": "/assets/img/hongqi.png",
+      "logo": "/assets/img/hongqi.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "HongQi",
+          "docs": "/assets/docs/hongqi.xlsx",
+          "img": "/assets/img/cars/HongQi/car1/img.png",
+          "hover": "/assets/img/cars/HongQi/car1/hover.png",
+          "collection": [
+            {
+              "id": 0,
+              "name": "HongQi E-HS9"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/HongQi/car1/carcase/1.png",
+                "/assets/img/cars/HongQi/car1/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(197 197 197)",
+                  "images": [
+                    "/assets/img/cars/HongQi/car1/cabin/1.png",
+                    "/assets/img/cars/HongQi/car1/cabin/2.png",
+                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/HongQi/car1/carcase/2.png",
+                "/assets/img/cars/HongQi/car1/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(197 197 197)",
+                  "images": [
+                    "/assets/img/cars/HongQi/car1/cabin/1.png",
+                    "/assets/img/cars/HongQi/car1/cabin/2.png",
+                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый+Серый",
+              "color": "rgb(197 200 208)",
+              "images": [
+                "/assets/img/cars/HongQi/car1/carcase/3.png",
+                "/assets/img/cars/HongQi/car1/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(197 197 197)",
+                  "images": [
+                    "/assets/img/cars/HongQi/car1/cabin/1.png",
+                    "/assets/img/cars/HongQi/car1/cabin/2.png",
+                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(109 114 128)",
+              "images": [
+                "/assets/img/cars/HongQi/car1/carcase/4.png",
+                "/assets/img/cars/HongQi/car1/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(197 197 197)",
+                  "images": [
+                    "/assets/img/cars/HongQi/car1/cabin/1.png",
+                    "/assets/img/cars/HongQi/car1/cabin/2.png",
+                    "/assets/img/cars/HongQi/car1/cabin/3.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Leapmotor",
+      "img": "/assets/img/leapmotors.png",
+      "logo": "/assets/img/leapmotors.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Leapmotor C10 210 Comfort",
+          "docs": "/assets/docs/leapmotors.xlsx",
+          "img": "/assets/img/cars/leapmotors/car1/leapmotors.jpg",
+          "hover": "/assets/img/cars/leapmotors/car1/leapmotors-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "210 Comfort"
+            },
+            {
+              "id": 0,
+              "name": "210 Smart"
+            },
+            {
+              "id": 0,
+              "name": "210 Smart Driving"
+            },
+            {
+              "id": 0,
+              "name": "410 Comfort"
+            },
+            {
+              "id": 0,
+              "name": "530 Comfort"
+            },
+            {
+              "id": 0,
+              "name": "530 Smart"
+            },
+            {
+              "id": 0,
+              "name": "530 Smart Driving"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/leapmotors/car1/carcase/13.png",
+                "/assets/img/cars/leapmotors/car1/carcase/13.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(255 157 90)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/3.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/4.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/5.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/6.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/7.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/8.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/9.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/10.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/12.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/13.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/14.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/leapmotors/car1/carcase/6.png",
+                "/assets/img/cars/leapmotors/car1/carcase/6.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(255 157 90)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/3.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/4.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/5.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/6.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/7.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/8.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/9.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/10.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/12.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/13.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/14.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(136 230 255)",
+              "images": [
+                "/assets/img/cars/leapmotors/car1/carcase/7.png",
+                "/assets/img/cars/leapmotors/car1/carcase/7.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(255 157 90)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/3.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/4.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/5.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/6.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/7.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/8.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/9.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/10.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/12.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/13.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/14.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-серый",
+              "color": "rgb(92 92 92)",
+              "images": [
+                "/assets/img/cars/leapmotors/car1/carcase/9.png",
+                "/assets/img/cars/leapmotors/car1/carcase/9.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(255 157 90)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/3.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/4.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/5.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/6.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/7.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/8.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/9.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/10.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/12.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/13.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/14.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(58 112 93)",
+              "images": [
+                "/assets/img/cars/leapmotors/car1/carcase/10.png",
+                "/assets/img/cars/leapmotors/car1/carcase/10.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(255 157 90)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/3.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/4.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/5.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/6.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/7.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/8.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/9.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/10.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/12.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/13.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/14.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(191 190 189)",
+              "images": [
+                "/assets/img/cars/leapmotors/car1/carcase/11.png",
+                "/assets/img/cars/leapmotors/car1/carcase/11.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(255 157 90)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/3.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/4.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/5.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/6.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/7.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/8.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/9.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/10.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car1/cabin/12.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/13.jpg",
+                    "/assets/img/cars/leapmotors/car1/cabin/14.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Leapmotor C11",
+          "docs": "/assets/docs/leapmotors11.xlsx",
+          "img": "/assets/img/cars/leapmotors/car2/leapmotors.jpg",
+          "hover": "/assets/img/cars/leapmotors/car2/leapmotors-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "PHEV Comfort 200"
+            },
+            {
+              "id": 0,
+              "name": "PHEV Comfort 300"
+            },
+            {
+              "id": 0,
+              "name": "EV Comfort 500"
+            },
+            {
+              "id": 0,
+              "name": "EV Intelligent 500"
+            },
+            {
+              "id": 0,
+              "name": "EV Intelligent 650"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/leapmotors/car2/carcase/1.png",
+                "/assets/img/cars/leapmotors/car2/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(232 183 131)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/leapmotors/car2/carcase/2.png",
+                "/assets/img/cars/leapmotors/car2/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(232 183 131)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(160 212 255)",
+              "images": [
+                "/assets/img/cars/leapmotors/car2/carcase/3.png",
+                "/assets/img/cars/leapmotors/car2/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(232 183 131)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(195 195 195)",
+              "images": [
+                "/assets/img/cars/leapmotors/car2/carcase/6.png",
+                "/assets/img/cars/leapmotors/car2/carcase/6.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(232 183 131)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Фиолетовый",
+                  "color": "rgb(154 134 148)",
+                  "images": [
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg",
+                    "/assets/img/cars/leapmotors/car2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Leopard",
+      "img": "/assets/img/leopard.jpg",
+      "logo": "/assets/img/leopard.jpg",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Leopard 5 Exploration",
+          "docs": "/assets/docs/leopard5.xlsx",
+          "img": "/assets/img/cars/leopard/car1/leopard5.jpg",
+          "options": [
+            {
+              "name": "Фаркоп, максимальный вес буксировки 2 500 кг",
+              "click": false,
+              "images": [
+                "/assets/img/cars/leopard/car1/options/1.jpg",
+                "/assets/img/cars/leopard/car1/options/1.jpg"
+              ]
+            },
+            {
+              "name": "Электрическая подножка",
+              "click": false,
+              "images": [
+                "/assets/img/cars/leopard/car1/options/2.jpg",
+                "/assets/img/cars/leopard/car1/options/2.jpg"
+              ]
+            },
+            {
+              "name": "Защитная пластина шасси",
+              "click": false,
+              "images": [
+                "/assets/img/cars/leopard/car1/options/3.jpg",
+                "/assets/img/cars/leopard/car1/options/3.jpg"
+              ]
+            }
+          ],
+          "hover": "/assets/img/cars/leopard/car1/leopard5-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Exploration"
+            },
+            {
+              "id": 0,
+              "name": "Navigation"
+            },
+            {
+              "id": 0,
+              "name": "Cloud Chariot Flagship"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/1.jpg",
+                "/assets/img/cars/leopard/car1/carcase/2.jpg",
+                "/assets/img/cars/leopard/car1/carcase/3.jpg",
+                "/assets/img/cars/leopard/car1/carcase/4.jpg",
+                "/assets/img/cars/leopard/car1/carcase/5.jpg",
+                "/assets/img/cars/leopard/car1/carcase/6.jpg",
+                "/assets/img/cars/leopard/car1/carcase/7.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/2.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/3.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18  ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/102.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/102.jpg"
+                  ]
+                },
+                {
+                  "name": " Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/104.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/104.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "#4e5e68",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/10.jpg",
+                "/assets/img/cars/leopard/car1/carcase/12.jpg",
+                "/assets/img/cars/leopard/car1/carcase/11.jpg",
+                "/assets/img/cars/leopard/car1/carcase/13.jpg",
+                "/assets/img/cars/leopard/car1/carcase/14.jpg",
+                "/assets/img/cars/leopard/car1/carcase/15.jpg",
+                "/assets/img/cars/leopard/car1/carcase/16.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/12.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/12.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/11.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/11.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18  ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/114.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/114.jpg"
+                  ]
+                },
+                {
+                  "name": " Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/113.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/113.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Голубой",
+              "color": "rgb(78 93 124)",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/26.jpg",
+                "/assets/img/cars/leopard/car1/carcase/21.jpg",
+                "/assets/img/cars/leopard/car1/carcase/20.jpg",
+                "/assets/img/cars/leopard/car1/carcase/22.jpg",
+                "/assets/img/cars/leopard/car1/carcase/23.jpg",
+                "/assets/img/cars/leopard/car1/carcase/24.jpg",
+                "/assets/img/cars/leopard/car1/carcase/25.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/21.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/21.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/20.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/20.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Серый",
+              "color": "rgb(198 207 214)",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/30.jpg",
+                "/assets/img/cars/leopard/car1/carcase/32.jpg",
+                "/assets/img/cars/leopard/car1/carcase/31.jpg",
+                "/assets/img/cars/leopard/car1/carcase/33.jpg",
+                "/assets/img/cars/leopard/car1/carcase/34.jpg",
+                "/assets/img/cars/leopard/car1/carcase/35.jpg",
+                "/assets/img/cars/leopard/car1/carcase/36.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/32.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/32.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/31.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/31.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18  ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/122.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/122.jpg"
+                  ]
+                },
+                {
+                  "name": " Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/121.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/121.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Синий",
+              "color": "rgb(177 218 255)",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/40.jpg",
+                "/assets/img/cars/leopard/car1/carcase/42.jpg",
+                "/assets/img/cars/leopard/car1/carcase/41.jpg",
+                "/assets/img/cars/leopard/car1/carcase/43.jpg",
+                "/assets/img/cars/leopard/car1/carcase/44.jpg",
+                "/assets/img/cars/leopard/car1/carcase/45.jpg",
+                "/assets/img/cars/leopard/car1/carcase/46.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/42.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/42.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/41.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/41.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18  ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/132.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/132.jpg"
+                  ]
+                },
+                {
+                  "name": " Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/131.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/131.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Зеленый",
+              "color": "rgb(191 204 178)",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/51.jpg",
+                "/assets/img/cars/leopard/car1/carcase/53.jpg",
+                "/assets/img/cars/leopard/car1/carcase/52.jpg",
+                "/assets/img/cars/leopard/car1/carcase/54.jpg",
+                "/assets/img/cars/leopard/car1/carcase/55.jpg",
+                "/assets/img/cars/leopard/car1/carcase/56.jpg",
+                "/assets/img/cars/leopard/car1/carcase/50.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/53.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/53.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/52.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/52.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18  ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/144.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/144.jpg"
+                  ]
+                },
+                {
+                  "name": " Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/143.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/143.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Желтый",
+              "color": "rgb(255 210 103)",
+              "images": [
+                "/assets/img/cars/leopard/car1/carcase/60.jpg",
+                "/assets/img/cars/leopard/car1/carcase/62.jpg",
+                "/assets/img/cars/leopard/car1/carcase/61.jpg",
+                "/assets/img/cars/leopard/car1/carcase/63.jpg",
+                "/assets/img/cars/leopard/car1/carcase/64.jpg",
+                "/assets/img/cars/leopard/car1/carcase/65.jpg",
+                "/assets/img/cars/leopard/car1/carcase/66.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Синий",
+                  "color": "rgb(127 155 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(87 160 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "rgb(210 199 175)",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg",
+                    "/assets/img/cars/leopard/car1/cabin/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/62.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/62.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/61.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/61.jpg"
+                  ]
+                },
+                {
+                  "name": "Leopard 265/65 R18  ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/152.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/152.jpg"
+                  ]
+                },
+                {
+                  "name": " Leopard 265/65 R18 ",
+                  "img": "/assets/img/cars/leopard/car1/wheel/logo-4.png",
+                  "images": [
+                    "/assets/img/cars/leopard/car1/carcase/151.jpg",
+                    "/assets/img/cars/leopard/car1/carcase/151.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "BMW",
+      "img": "/assets/img/bmw.png",
+      "logo": "/assets/img/bmw.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "",
+          "docs": "/assets/docs/bmwi3.xlsx",
+          "img": "/assets/img/cars/bmw/car1/bmw3.jpg",
+          "hover": "/assets/img/cars/bmw/car1/bmw3-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "eDrive 35 L"
+            },
+            {
+              "id": 0,
+              "name": "eDrive 40 L"
+            },
+            {
+              "id": 0,
+              "name": "eDrive 40 L Sport"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/bmw/car1/carcase/1.png",
+                "/assets/img/cars/bmw/car1/carcase/3.png",
+                "/assets/img/cars/bmw/car1/carcase/5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/1.png",
+                    "/assets/img/cars/bmw/car1/cabin/2.png",
+                    "/assets/img/cars/bmw/car1/cabin/3.png",
+                    "/assets/img/cars/bmw/car1/cabin/4.png",
+                    "/assets/img/cars/bmw/car1/cabin/5.png",
+                    "/assets/img/cars/bmw/car1/cabin/6.png"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(146 72 65)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/7.png",
+                    "/assets/img/cars/bmw/car1/cabin/8.png",
+                    "/assets/img/cars/bmw/car1/cabin/9.png",
+                    "/assets/img/cars/bmw/car1/cabin/10.png",
+                    "/assets/img/cars/bmw/car1/cabin/11.png",
+                    "/assets/img/cars/bmw/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Красный+Черный",
+                  "color": "rgb(108 52 47)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/13.png",
+                    "/assets/img/cars/bmw/car1/cabin/14.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(90 64 59)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/17.png",
+                    "/assets/img/cars/bmw/car1/cabin/18.png",
+                    "/assets/img/cars/bmw/car1/cabin/19.png",
+                    "/assets/img/cars/bmw/car1/cabin/20.png",
+                    "/assets/img/cars/bmw/car1/cabin/21.png",
+                    "/assets/img/cars/bmw/car1/cabin/22.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "245/45 R18",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/7.png",
+                    "/assets/img/cars/bmw/car1/wheel/7.png"
+                  ]
+                },
+                {
+                  "name": "245/45 R18 ",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/2.png",
+                    "/assets/img/cars/bmw/car1/carcase/2.png"
+                  ]
+                },
+                {
+                  "name": "245/40 R19",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/4.png",
+                    "/assets/img/cars/bmw/car1/carcase/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/bmw/car1/carcase/22.png",
+                "/assets/img/cars/bmw/car1/carcase/23.png",
+                "/assets/img/cars/bmw/car1/carcase/20.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/1.png",
+                    "/assets/img/cars/bmw/car1/cabin/2.png",
+                    "/assets/img/cars/bmw/car1/cabin/3.png",
+                    "/assets/img/cars/bmw/car1/cabin/4.png",
+                    "/assets/img/cars/bmw/car1/cabin/5.png",
+                    "/assets/img/cars/bmw/car1/cabin/6.png"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(146 72 65)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/7.png",
+                    "/assets/img/cars/bmw/car1/cabin/8.png",
+                    "/assets/img/cars/bmw/car1/cabin/9.png",
+                    "/assets/img/cars/bmw/car1/cabin/10.png",
+                    "/assets/img/cars/bmw/car1/cabin/11.png",
+                    "/assets/img/cars/bmw/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Красный+Черный",
+                  "color": "rgb(108 52 47)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/13.png",
+                    "/assets/img/cars/bmw/car1/cabin/14.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(90 64 59)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/17.png",
+                    "/assets/img/cars/bmw/car1/cabin/18.png",
+                    "/assets/img/cars/bmw/car1/cabin/19.png",
+                    "/assets/img/cars/bmw/car1/cabin/20.png",
+                    "/assets/img/cars/bmw/car1/cabin/21.png",
+                    "/assets/img/cars/bmw/car1/cabin/22.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "245/45 R18",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/26.png",
+                    "/assets/img/cars/bmw/car1/wheel/26.png"
+                  ]
+                },
+                {
+                  "name": "245/45 R18 ",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/21.png",
+                    "/assets/img/cars/bmw/car1/carcase/21.png"
+                  ]
+                },
+                {
+                  "name": "245/40 R19",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/4.png",
+                    "/assets/img/cars/bmw/car1/carcase/4.png"
                   ]
                 }
               ]
