@@ -16,12 +16,12 @@ function Catalog({ GetUrl }) {
   }, [GetUrl]);
 
   const getCatalog = () => {
-    setCatalogCars(data?.catalog);
+    setCatalogCars(data?.catalog.map(({ name, img }) => ({ name, img })));
   };
 
   useEffect(() => {
     getCatalog();
-  }, [catalogCars]);
+  }, []);
 
   return (
     <>

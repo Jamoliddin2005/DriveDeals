@@ -11143,7 +11143,7 @@
               "name": "Черный",
               "color": "#000",
               "images": [
-                "/assets/img/cars/bmw/car1/carcase/22.png",
+                "/assets/img/cars/bmw/car1/carcase/21.png",
                 "/assets/img/cars/bmw/car1/carcase/23.png",
                 "/assets/img/cars/bmw/car1/carcase/20.png"
               ],
@@ -11206,16 +11206,340 @@
                   "name": "245/45 R18 ",
                   "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
                   "images": [
-                    "/assets/img/cars/bmw/car1/carcase/21.png",
-                    "/assets/img/cars/bmw/car1/carcase/21.png"
+                    "/assets/img/cars/bmw/car1/carcase/22.png",
+                    "/assets/img/cars/bmw/car1/carcase/22.png"
                   ]
                 },
                 {
                   "name": "245/40 R19",
                   "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
                   "images": [
-                    "/assets/img/cars/bmw/car1/carcase/4.png",
-                    "/assets/img/cars/bmw/car1/carcase/4.png"
+                    "/assets/img/cars/bmw/car1/carcase/24.png",
+                    "/assets/img/cars/bmw/car1/carcase/24.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(117 121 125)",
+              "images": [
+                "/assets/img/cars/bmw/car1/carcase/31.png",
+                "/assets/img/cars/bmw/car1/carcase/33.png",
+                "/assets/img/cars/bmw/car1/carcase/30.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/1.png",
+                    "/assets/img/cars/bmw/car1/cabin/2.png",
+                    "/assets/img/cars/bmw/car1/cabin/3.png",
+                    "/assets/img/cars/bmw/car1/cabin/4.png",
+                    "/assets/img/cars/bmw/car1/cabin/5.png",
+                    "/assets/img/cars/bmw/car1/cabin/6.png"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(146 72 65)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/7.png",
+                    "/assets/img/cars/bmw/car1/cabin/8.png",
+                    "/assets/img/cars/bmw/car1/cabin/9.png",
+                    "/assets/img/cars/bmw/car1/cabin/10.png",
+                    "/assets/img/cars/bmw/car1/cabin/11.png",
+                    "/assets/img/cars/bmw/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Красный+Черный",
+                  "color": "rgb(108 52 47)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/13.png",
+                    "/assets/img/cars/bmw/car1/cabin/14.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(90 64 59)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/17.png",
+                    "/assets/img/cars/bmw/car1/cabin/18.png",
+                    "/assets/img/cars/bmw/car1/cabin/19.png",
+                    "/assets/img/cars/bmw/car1/cabin/20.png",
+                    "/assets/img/cars/bmw/car1/cabin/21.png",
+                    "/assets/img/cars/bmw/car1/cabin/22.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "245/45 R18",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/35.png",
+                    "/assets/img/cars/bmw/car1/wheel/35.png"
+                  ]
+                },
+                {
+                  "name": "245/45 R18 ",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/32.png",
+                    "/assets/img/cars/bmw/car1/carcase/32.png"
+                  ]
+                },
+                {
+                  "name": "245/40 R19",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/36.png",
+                    "/assets/img/cars/bmw/car1/wheel/36.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(49 71 138)",
+              "images": [
+                "/assets/img/cars/bmw/car1/carcase/41.png",
+                "/assets/img/cars/bmw/car1/carcase/43.png",
+                "/assets/img/cars/bmw/car1/carcase/40.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/1.png",
+                    "/assets/img/cars/bmw/car1/cabin/2.png",
+                    "/assets/img/cars/bmw/car1/cabin/3.png",
+                    "/assets/img/cars/bmw/car1/cabin/4.png",
+                    "/assets/img/cars/bmw/car1/cabin/5.png",
+                    "/assets/img/cars/bmw/car1/cabin/6.png"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(146 72 65)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/7.png",
+                    "/assets/img/cars/bmw/car1/cabin/8.png",
+                    "/assets/img/cars/bmw/car1/cabin/9.png",
+                    "/assets/img/cars/bmw/car1/cabin/10.png",
+                    "/assets/img/cars/bmw/car1/cabin/11.png",
+                    "/assets/img/cars/bmw/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Красный+Черный",
+                  "color": "rgb(108 52 47)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/13.png",
+                    "/assets/img/cars/bmw/car1/cabin/14.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(90 64 59)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/17.png",
+                    "/assets/img/cars/bmw/car1/cabin/18.png",
+                    "/assets/img/cars/bmw/car1/cabin/19.png",
+                    "/assets/img/cars/bmw/car1/cabin/20.png",
+                    "/assets/img/cars/bmw/car1/cabin/21.png",
+                    "/assets/img/cars/bmw/car1/cabin/22.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "245/45 R18",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/45.png",
+                    "/assets/img/cars/bmw/car1/wheel/45.png"
+                  ]
+                },
+                {
+                  "name": "245/45 R18 ",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/42.png",
+                    "/assets/img/cars/bmw/car1/carcase/42.png"
+                  ]
+                },
+                {
+                  "name": "245/40 R19",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/46.png",
+                    "/assets/img/cars/bmw/car1/wheel/46.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(46 148 174)",
+              "images": [
+                "/assets/img/cars/bmw/car1/carcase/50.png",
+                "/assets/img/cars/bmw/car1/carcase/52.png",
+                "/assets/img/cars/bmw/car1/carcase/56.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/1.png",
+                    "/assets/img/cars/bmw/car1/cabin/2.png",
+                    "/assets/img/cars/bmw/car1/cabin/3.png",
+                    "/assets/img/cars/bmw/car1/cabin/4.png",
+                    "/assets/img/cars/bmw/car1/cabin/5.png",
+                    "/assets/img/cars/bmw/car1/cabin/6.png"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(146 72 65)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/7.png",
+                    "/assets/img/cars/bmw/car1/cabin/8.png",
+                    "/assets/img/cars/bmw/car1/cabin/9.png",
+                    "/assets/img/cars/bmw/car1/cabin/10.png",
+                    "/assets/img/cars/bmw/car1/cabin/11.png",
+                    "/assets/img/cars/bmw/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Красный+Черный",
+                  "color": "rgb(108 52 47)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/13.png",
+                    "/assets/img/cars/bmw/car1/cabin/14.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(90 64 59)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/17.png",
+                    "/assets/img/cars/bmw/car1/cabin/18.png",
+                    "/assets/img/cars/bmw/car1/cabin/19.png",
+                    "/assets/img/cars/bmw/car1/cabin/20.png",
+                    "/assets/img/cars/bmw/car1/cabin/21.png",
+                    "/assets/img/cars/bmw/car1/cabin/22.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "245/45 R18",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/54.png",
+                    "/assets/img/cars/bmw/car1/wheel/54.png"
+                  ]
+                },
+                {
+                  "name": "245/45 R18 ",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/55.png",
+                    "/assets/img/cars/bmw/car1/wheel/55.png"
+                  ]
+                },
+                {
+                  "name": "245/40 R19",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/53.png",
+                    "/assets/img/cars/bmw/car1/carcase/53.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(203 46 44)",
+              "images": [
+                "/assets/img/cars/bmw/car1/carcase/61.png",
+                "/assets/img/cars/bmw/car1/carcase/63.png",
+                "/assets/img/cars/bmw/car1/carcase/60.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/1.png",
+                    "/assets/img/cars/bmw/car1/cabin/2.png",
+                    "/assets/img/cars/bmw/car1/cabin/3.png",
+                    "/assets/img/cars/bmw/car1/cabin/4.png",
+                    "/assets/img/cars/bmw/car1/cabin/5.png",
+                    "/assets/img/cars/bmw/car1/cabin/6.png"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(146 72 65)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/7.png",
+                    "/assets/img/cars/bmw/car1/cabin/8.png",
+                    "/assets/img/cars/bmw/car1/cabin/9.png",
+                    "/assets/img/cars/bmw/car1/cabin/10.png",
+                    "/assets/img/cars/bmw/car1/cabin/11.png",
+                    "/assets/img/cars/bmw/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Красный+Черный",
+                  "color": "rgb(108 52 47)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/13.png",
+                    "/assets/img/cars/bmw/car1/cabin/14.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(90 64 59)",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/cabin/17.png",
+                    "/assets/img/cars/bmw/car1/cabin/18.png",
+                    "/assets/img/cars/bmw/car1/cabin/19.png",
+                    "/assets/img/cars/bmw/car1/cabin/20.png",
+                    "/assets/img/cars/bmw/car1/cabin/21.png",
+                    "/assets/img/cars/bmw/car1/cabin/22.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "245/45 R18",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/65.png",
+                    "/assets/img/cars/bmw/car1/wheel/65.png"
+                  ]
+                },
+                {
+                  "name": "245/45 R18 ",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/wheel/66.png",
+                    "/assets/img/cars/bmw/car1/wheel/66.png"
+                  ]
+                },
+                {
+                  "name": "245/40 R19",
+                  "img": "/assets/img/cars/bmw/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car1/carcase/64.png",
+                    "/assets/img/cars/bmw/car1/carcase/64.png"
                   ]
                 }
               ]
