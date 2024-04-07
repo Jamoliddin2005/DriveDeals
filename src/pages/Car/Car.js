@@ -13,13 +13,19 @@ function Car({ GetUrl }) {
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
     GetUrl();
+  });
 
+  const getCategoryCars = () => {
     Cars?.catalog.forEach((item) => {
       if (item.name === location) {
         setCar(item);
       }
     });
-  });
+  };
+
+  useEffect(() => {
+    getCategoryCars();
+  }, []);
 
   return (
     <>
