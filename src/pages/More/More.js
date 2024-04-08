@@ -12,6 +12,7 @@ import Loading from "../../components/loading/Loading";
 import LoadingCar from "../../components/LoadingCar/LoadingCar";
 import PDFViewer from "./PDFF";
 import { Helmet } from "react-helmet";
+import { useNavigate } from "react-router-dom";
 
 const sliderSettings = {
   dots: true,
@@ -137,7 +138,14 @@ function More({ GetUrl }) {
     setCurrentImgs([...item.images]);
   };
 
-  const Selector = (value) => {};
+  const navigate = useNavigate();
+
+  const onChangeSubmitHandler = (val) => {
+    if (val !== window.location.pathname.split("/")[3]) {
+      setSelect([""]);
+      navigate(`/cars/${location}/${val}`);
+    }
+  };
 
   return (
     <Suspense fallback={<Loading />}>
@@ -179,10 +187,15 @@ function More({ GetUrl }) {
                   <select
                     name=""
                     id="car-select"
-                    onChange={(val) => Selector(val)}
+                    onChange={(e) => {
+                      onChangeSubmitHandler(e.target.value);
+                    }}
                   >
                     {select?.map((item, index) => (
-                      <option value={item.id} key={index}>
+                      <option
+                        value={item.linkSubmit ? item.linkSubmit : item.id}
+                        key={index}
+                      >
                         {item.name}
                       </option>
                     ))}
@@ -242,7 +255,39 @@ function More({ GetUrl }) {
                         ))
                       : "Loading..."}
                   </div>
+
+                  {cabin?.details && (
+                    <div className={`${classes.calon} ${classes.calone}`}>
+                      <h3>{cabin?.details?.name}</h3>
+                      <div className={classes.colors}>
+                        {cabin?.details?.options.map((whl, index) => (
+                          <div
+                            onClick={() => onChangeCalon(whl)}
+                            key={index}
+                            className={classes.item}
+                          >
+                            <span
+                              className={`${classes.span}  ${
+                                whl.name === calon.name
+                                  ? `${classes.active}`
+                                  : ""
+                              }`}
+                            >
+                              {whl.img && <img src={whl.img} alt="" />}
+                              {whl.color && (
+                                <span style={{ background: whl.color }} />
+                              )}
+                            </span>
+                            {whl.name === calon.name ? (
+                              <p className={classes.nameCar}>{whl.name}</p>
+                            ) : null}
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
+
                 {color && color.protection && (
                   <div className={classes.calon}>
                     <h3>Хромированная решетка</h3>
@@ -301,12 +346,12 @@ function More({ GetUrl }) {
                     </div>
                   </div>
                 )}
-                {color && color?.calon && (
+                {color && color?.opt && (
                   <div className={`${classes.calon} ${classes.calone}`}>
-                    <h3>Салон</h3>
+                    <h3>{color?.opt.name}</h3>
                     <div className={classes.colors}>
                       {color
-                        ? color?.calon?.map((whl, index) => (
+                        ? color?.opt?.options?.map((whl, index) => (
                             <div
                               onClick={() => onChangeCalon(whl)}
                               key={index}
@@ -319,8 +364,10 @@ function More({ GetUrl }) {
                                     : ""
                                 }`}
                               >
-                                <img src={whl.img} alt="" />
-                                <span className="block border border-slate-300 bg-slate-500 w-8 h-8 rounded-full outline-none cursor-pointer shadow-md hover:border-2 hover:shadow-xl transition-all" />
+                                {whl.img && <img src={whl.img} alt="" />}
+                                {whl.color && (
+                                  <span style={{ background: whl.color }} />
+                                )}
                               </span>
                               {whl.name === calon.name ? (
                                 <p className={classes.nameCar}>{whl.name}</p>
@@ -331,6 +378,7 @@ function More({ GetUrl }) {
                     </div>
                   </div>
                 )}
+
                 <div className={`${classes.circle} ${classes.pos_circle}`}>
                   {color?.wheels && <h3>Колеса</h3>}
                   <div className={classes.colors}>
