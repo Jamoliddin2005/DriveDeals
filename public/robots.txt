@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drive-deals.vercel.app/sitemap.xml
+Sitemap: https://www.drive-deals.ru/sitemap.xml

@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://drive-deals.vercel.app/",
+  "start_url": "https://www.drive-deals.ru/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
