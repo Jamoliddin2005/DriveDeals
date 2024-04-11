@@ -38,7 +38,6 @@ function Car({ GetUrl }) {
           />
         </Helmet>
       )}
-      ;
       <div className={classes.car}>
         {car ? (
           <div>
@@ -51,7 +50,7 @@ function Car({ GetUrl }) {
 
               <div className={`${classes.categories} row`}>
                 {car?.cars?.map((element, index) => {
-                  if (element.id < 500) {
+                  if (element.id < 100) {
                     return (
                       <div className={classes.category} key={element.id}>
                         <div className={classes.image}>

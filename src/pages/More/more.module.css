@@ -129,7 +129,8 @@
 }
 
 .main .right .pos_circle .item .nameCar ,
-.main .right .calone .item .nameCar {
+.main .right .calone .item .nameCar,
+.main .right .calon .item .nameCar {
   transform: none !important;
   left: 0 !important;
   width: 500px !important;

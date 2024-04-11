@@ -19,21 +19,22 @@ function Footer() {
               <h3>Drive Deals CO., LTD.</h3>
               <ul>
                 <li>
-                  <span>Tel:</span> <a href="#">+13910671550</a>
+                  <span>Телефон:</span> <a href="#">+13910671550</a>
                 </li>
                 <li>
-                  <span>Add:</span>{" "}
+                  <span>Адрес:</span>{" "}
                   <a href="#">
                     Beijing City, Fangshan District, Fusheng East Street,
                     WuKuang Premium, Building A
                   </a>
                 </li>
                 <li>
-                  <span>Email:</span>{" "}
-                  <a href="mailto:mal">dd-drive@gmail.com</a>
+                  <span>Почта:</span>{" "}
+                  <a href="mailto: drive.deals@mail.ru">drive.deals@mail.ru</a>
                 </li>
                 <li>
-                  <span>Website:</span> <a href="#">www.dd-drivedeals.ru </a>
+                  <span>Веб-сайт:</span>{" "}
+                  <a href="http://drive-deals.ru/">drive-deals.ru</a>
                 </li>
               </ul>
             </div>

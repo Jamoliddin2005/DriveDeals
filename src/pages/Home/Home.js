@@ -26,7 +26,11 @@ function Home({ GetUrl }) {
 
       <ul className={classes.links}>
         <li>
-          <a href="#">
+          <a
+            href="https://www.instagram.com/drive_deals_china"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
@@ -38,7 +42,7 @@ function Home({ GetUrl }) {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="#" target="_blank" rel="noopener noreferrer">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
