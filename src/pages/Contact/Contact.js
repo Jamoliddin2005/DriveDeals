@@ -30,13 +30,11 @@ function Contact({ GetUrl }) {
                 </li>
                 <li>
                   Электронный адрес
-                  <a href="tel:+13910671550">+13910671550</a>
+                  <a href="mailto: drive.deals@mail.ru">drive.deals@mail.ru</a>
                 </li>
                 <li>
                   Сайт
-                  <a href="http://www.dd-drivedeals.ru/">
-                    www.dd-drivedeals.ru
-                  </a>
+                  <a href="http://drive-deals.ru/">drive-deals.ru</a>
                 </li>
               </div>
               <div className={classes.contact_right}>
