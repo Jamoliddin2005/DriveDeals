@@ -8851,32 +8851,33 @@
               "name": "Холодильник 4.6 литра (акция временно бесплатно)",
               "click": false,
               "images": [
-                "/assets/img/cars/xiaomi/car1/options/opt2.png",
-                "/assets/img/cars/xiaomi/car1/options/opt2.png"
-              ]
-            },
-            {
-              "name": "Спойлер (акция временно бесплатно)",
-              "click": false,
-              "images": [
-                "/assets/img/cars/xiaomi/car1/options/opt1.jpg",
-                "/assets/img/cars/xiaomi/car1/options/opt1.jpg"
-              ]
-            },
-            {
-              "name": "Премиальная аудио система на 23 динамика 7.1.4 Dolby Atmos (акция временно бесплатно)",
-              "click": false,
-              "images": [
-                "/assets/img/cars/xiaomi/car1/options/opt3.jpg",
-                "/assets/img/cars/xiaomi/car1/options/opt3.jpg"
+                "/assets/img/cars/xiaomi/car1/options/2.png",
+                "/assets/img/cars/xiaomi/car1/options/2.png"
               ]
             },
             {
               "name": "Натуральная кожа Nappa",
               "click": false,
               "images": [
-                "/assets/img/cars/xiaomi/car1/options/opt4.jpg",
-                "/assets/img/cars/xiaomi/car1/options/opt4.jpg"
+                "/assets/img/cars/xiaomi/car1/options/4.jpg",
+                "/assets/img/cars/xiaomi/car1/options/4.jpg"
+              ]
+            },
+
+            {
+              "name": "Премиальная аудио система на 23 динамика 7.1.4 Dolby Atmos (акция временно бесплатно)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/3.jpg",
+                "/assets/img/cars/xiaomi/car1/options/3.jpg"
+              ]
+            },
+            {
+              "name": "Спойлер (акция временно бесплатно)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/1.jpg",
+                "/assets/img/cars/xiaomi/car1/options/1.jpg"
               ]
             }
           ],
@@ -8887,23 +8888,24 @@
             },
             {
               "id": 0,
-              "name": "700 km smart"
+              "name": "Xiaomi SU7 700 km smart"
             },
             {
               "id": 0,
-              "name": "700 km standard"
+              "name": "Xiaomi SU7 700 km standard"
             },
             {
               "id": 0,
-              "name": "830 km Pro"
+              "name": "Xiaomi SU7 830 km Pro"
             },
             {
               "id": 0,
-              "name": "800 km Max"
+              "name": "Xiaomi SU7 800 km Max",
+              "linkSubmit": 100
             },
             {
               "id": 0,
-              "name": "750 km Max"
+              "name": "Xiaomi SU7 750 km Max"
             }
           ],
           "colors": [
@@ -8957,7 +8959,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
@@ -8967,7 +8969,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/7.jpg",
@@ -8977,7 +8979,788 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/11.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/12.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/13.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/14.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(183 181 182)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/20.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/21.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/22.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/23.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/24.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/20.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/22.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/24.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/25.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/26.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/27.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/28.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/29.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/30.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/31.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(44 101 188)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/38.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/39.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/40.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/41.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/42.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/38.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/40.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/42.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/43.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/44.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/45.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/46.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/47.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/48.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/49.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/50.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/56.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/57.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/58.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/59.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/60.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/56.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/58.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/60.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/61.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/62.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/63.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/64.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/65.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/66.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/67.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/68.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(0 199 255)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/74.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/75.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/76.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/77.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/78.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/74.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/76.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/78.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/79.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/80.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/81.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/82.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/83.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/84.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/85.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/86.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-синий",
+              "color": "rgb(41 107 217)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/92.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/93.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/94.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/95.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/96.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/92.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/94.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/96.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/97.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/98.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/99.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/100.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/101.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/102.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/103.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/104.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(177 67 214)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/110.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/111.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/112.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/113.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/114.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/110.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/112.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/114.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/115.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/116.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/117.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/118.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/119.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/120.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/121.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/122.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Коричневый",
+              "color": "rgb(255 55 31)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/128.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/129.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/130.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/131.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/132.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/128.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/130.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/132.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/133.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/134.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/135.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/136.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/137.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/138.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/139.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/140.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(50 168 109)",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/146.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/147.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/148.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/149.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/150.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/146.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/148.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/150.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/151.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/152.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/153.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/154.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/155.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/156.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/157.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/158.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "name": "Xiaomi Su7",
+          "img": "/assets/img/cars/xiaomi/car1/xiaomi.jpg",
+          "hover": "/assets/img/cars/xiaomi/car1/xiaomi-hover.jpg",
+          "options": [
+            {
+              "name": "Холодильник 4.6 литра (акция временно бесплатно)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/2.png",
+                "/assets/img/cars/xiaomi/car1/options/2.png"
+              ]
+            },
+            {
+              "name": "Натуральная кожа Nappa",
+              "click": false,
+              "images": [
+                "/assets/img/cars/xiaomi/car1/options/4.jpg",
+                "/assets/img/cars/xiaomi/car1/options/4.jpg"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 800 km Max"
+            },
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 700 km",
+              "linkSubmit": 0
+            },
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 700 km smart"
+            },
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 700 km standard"
+            },
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 830 km Pro"
+            },
+            {
+              "id": 0,
+              "name": "Xiaomi SU7 750 km Max"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Черный",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/2.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/3.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/4.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/5.jpg",
+                "/assets/img/cars/xiaomi/car1/carcase/6.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/1-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/1-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/2-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/2-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Красный",
+                  "color": "rgb(217 51 59)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/3-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-2.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/3-3.jpg"
+                  ]
+                },
+                {
+                  "name": "Розовый",
+                  "color": "rgb(204 100 159)",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/cabin/4-1.jpg",
+                    "/assets/img/cars/xiaomi/car1/cabin/4-2.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/2.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/4.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/6.jpg"
+                  ]
+                },
+                {
+                  "name": "R19 c шинами Turanza 6",
+                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
+                  "images": [
+                    "/assets/img/cars/xiaomi/car1/carcase/7.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/8.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/9.jpg",
+                    "/assets/img/cars/xiaomi/car1/carcase/10.jpg"
+                  ]
+                },
+                {
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/11.jpg",
@@ -8987,7 +9770,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/15.jpg",
@@ -9048,7 +9831,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
@@ -9058,7 +9841,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/25.jpg",
@@ -9068,7 +9851,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/29.jpg",
@@ -9077,7 +9860,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/32.jpg",
@@ -9138,7 +9921,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
@@ -9148,7 +9931,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/43.jpg",
@@ -9158,7 +9941,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/47.jpg",
@@ -9168,7 +9951,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/51.jpg",
@@ -9229,7 +10012,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
@@ -9239,7 +10022,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/61.jpg",
@@ -9249,7 +10032,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/65.jpg",
@@ -9259,7 +10042,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/69.jpg",
@@ -9320,7 +10103,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
@@ -9330,7 +10113,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/79.jpg",
@@ -9340,7 +10123,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/83.jpg",
@@ -9350,7 +10133,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/87.jpg",
@@ -9411,7 +10194,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
@@ -9421,7 +10204,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/97.jpg",
@@ -9431,7 +10214,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/101.jpg",
@@ -9441,7 +10224,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/105.jpg",
@@ -9502,7 +10285,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
@@ -9512,7 +10295,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/115.jpg",
@@ -9522,7 +10305,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/119.jpg",
@@ -9532,7 +10315,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/123.jpg",
@@ -9593,7 +10376,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
@@ -9603,7 +10386,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/133.jpg",
@@ -9613,7 +10396,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/137.jpg",
@@ -9623,7 +10406,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/141.jpg",
@@ -9684,7 +10467,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 Michelin e.Primacy",
+                  "name": "R19 c шинами Michelin e.Primacy ",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
@@ -9694,7 +10477,7 @@
                   ]
                 },
                 {
-                  "name": "R19 Turanza 6",
+                  "name": "R19 c шинами Turanza 6",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/151.jpg",
@@ -9704,7 +10487,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Michelin Pilot Sport 4",
+                  "name": "R20 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/155.jpg",
@@ -9714,7 +10497,7 @@
                   ]
                 },
                 {
-                  "name": "R20 Pirelli P Zero",
+                  "name": "R21 c шинами Pirelli P Zero (за доп.плату)",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-4.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/159.jpg",
@@ -18221,6 +19004,784 @@
                     "/assets/img/cars/bmw/car2/variant2/carcase/blue/6.png",
                     "/assets/img/cars/bmw/car2/variant2/carcase/blue/3-2.png",
                     "/assets/img/cars/bmw/car2/variant2/carcase/blue/1-2.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "NIO",
+      "img": "/assets/img/nio.png",
+      "logo": "/assets/img/nio.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "NIO ES8",
+          "docs": "/assets/docs/nios8.xlsx",
+          "img": "/assets/img/cars/nio/car1/nio.jpg",
+          "hover": "/assets/img/cars/nio/car1/nio-hover.jpg",
+          "options": [
+            {
+              "name": "Суппорты оранжевого цвета",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/10/2.png",
+                "/assets/img/cars/nio/car1/options/10/1.png"
+              ]
+            },
+            {
+              "name": "Внешняя отделка из матового серого металлика (бампер, боковые юбки, значки Nio) ",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/11/1.png",
+                "/assets/img/cars/nio/car1/options/11/2.png",
+                "/assets/img/cars/nio/car1/options/11/3.png",
+                "/assets/img/cars/nio/car1/options/11/4.png",
+                "/assets/img/cars/nio/car1/options/11/5.png",
+                "/assets/img/cars/nio/car1/options/11/6.png",
+                "/assets/img/cars/nio/car1/options/11/7.png"
+              ]
+            },
+            {
+              "name": "Рейлинги (максимальный вес 75 кг) ",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/4.png",
+                "/assets/img/cars/nio/car1/options/4.png"
+              ]
+            },
+            {
+              "name": "Система искусственного интеллекта NOMI Мате 2.0",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/2.png",
+                "/assets/img/cars/nio/car1/options/2.png"
+              ]
+            },
+            {
+              "name": "Фаркоп (2000 кг. может подавать питание 12 В)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/1.png",
+                "/assets/img/cars/nio/car1/options/1.png"
+              ]
+            },
+            {
+              "name": "Встроенный холодильник ",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/6.png",
+                "/assets/img/cars/nio/car1/options/6.png"
+              ]
+            },
+            {
+              "name": "Развлекательный центр N-Box",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/12/1.png",
+                "/assets/img/cars/nio/car1/options/12/1.png"
+              ]
+            },
+            {
+              "name": "Подогрев дворников",
+              "click": false,
+              "images": [
+                "/assets/img/cars/nio/car1/options/5.png",
+                "/assets/img/cars/nio/car1/options/5.png"
+              ]
+            }
+          ],
+          "collection": [
+            {
+              "id": 0,
+              "name": "NIO ES8"
+            },
+            {
+              "id": 0,
+              "name": "NIO ES8"
+            },
+            {
+              "id": 0,
+              "name": "NIO ES8 75kWh Executive"
+            },
+            {
+              "id": 0,
+              "name": "NIO ES8 100kWh Signature"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/51.png",
+                "/assets/img/cars/nio/car1/carcase/52.png",
+                "/assets/img/cars/nio/car1/carcase/53.png",
+                "/assets/img/cars/nio/car1/carcase/54.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/51.png",
+                    "/assets/img/cars/nio/car1/carcase/52.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/55.png",
+                    "/assets/img/cars/nio/car1/carcase/56.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/57.png",
+                    "/assets/img/cars/nio/car1/carcase/58.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/59.png",
+                    "/assets/img/cars/nio/car1/carcase/60.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(135 137 145)",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/31.png",
+                "/assets/img/cars/nio/car1/carcase/32.png",
+                "/assets/img/cars/nio/car1/carcase/33.png",
+                "/assets/img/cars/nio/car1/carcase/34.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/31.png",
+                    "/assets/img/cars/nio/car1/carcase/32.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/35.png",
+                    "/assets/img/cars/nio/car1/carcase/36.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/37.png",
+                    "/assets/img/cars/nio/car1/carcase/38.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/39.png",
+                    "/assets/img/cars/nio/car1/carcase/40.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/21.png",
+                "/assets/img/cars/nio/car1/carcase/22.png",
+                "/assets/img/cars/nio/car1/carcase/23.png",
+                "/assets/img/cars/nio/car1/carcase/24.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/21.png",
+                    "/assets/img/cars/nio/car1/carcase/22.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/25.png",
+                    "/assets/img/cars/nio/car1/carcase/26.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/27.png",
+                    "/assets/img/cars/nio/car1/carcase/28.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/29.png",
+                    "/assets/img/cars/nio/car1/carcase/30.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий - за доп.плату",
+              "color": "rgb(56 88 126)",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/1.png",
+                "/assets/img/cars/nio/car1/carcase/2.png",
+                "/assets/img/cars/nio/car1/carcase/3.png",
+                "/assets/img/cars/nio/car1/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/1.png",
+                    "/assets/img/cars/nio/car1/carcase/2.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/5.png",
+                    "/assets/img/cars/nio/car1/carcase/6.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/7.png",
+                    "/assets/img/cars/nio/car1/carcase/8.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/9.png",
+                    "/assets/img/cars/nio/car1/carcase/10.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "темно-синий - за доп.плату",
+              "color": "rgb(9 40 72)",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/41.png",
+                "/assets/img/cars/nio/car1/carcase/42.png",
+                "/assets/img/cars/nio/car1/carcase/43.png",
+                "/assets/img/cars/nio/car1/carcase/44.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/41.png",
+                    "/assets/img/cars/nio/car1/carcase/42.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/45.png",
+                    "/assets/img/cars/nio/car1/carcase/46.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/47.png",
+                    "/assets/img/cars/nio/car1/carcase/48.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/49.png",
+                    "/assets/img/cars/nio/car1/carcase/50.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "светло-коричневый - за доп.плату",
+              "color": "rgb(210 180 139)",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/71.png",
+                "/assets/img/cars/nio/car1/carcase/72.png",
+                "/assets/img/cars/nio/car1/carcase/73.png",
+                "/assets/img/cars/nio/car1/carcase/74.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/71.png",
+                    "/assets/img/cars/nio/car1/carcase/72.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/75.png",
+                    "/assets/img/cars/nio/car1/carcase/76.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/77.png",
+                    "/assets/img/cars/nio/car1/carcase/78.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/79.png",
+                    "/assets/img/cars/nio/car1/carcase/80.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "зеленый - за доп.плату",
+              "color": "rgb(0 110 104)",
+              "images": [
+                "/assets/img/cars/nio/car1/carcase/61.png",
+                "/assets/img/cars/nio/car1/carcase/62.png",
+                "/assets/img/cars/nio/car1/carcase/63.png",
+                "/assets/img/cars/nio/car1/carcase/64.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/1.png",
+                    "/assets/img/cars/nio/car1/cabin/2.png",
+                    "/assets/img/cars/nio/car1/cabin/3.png",
+                    "/assets/img/cars/nio/car1/cabin/4.png"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/5.png",
+                    "/assets/img/cars/nio/car1/cabin/7.png",
+                    "/assets/img/cars/nio/car1/cabin/6.png",
+                    "/assets/img/cars/nio/car1/cabin/8.png"
+                  ]
+                },
+                {
+                  "name": "светло-коричневый - за доп.плату",
+                  "color": "rgb(219 168 128)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/9.png",
+                    "/assets/img/cars/nio/car1/cabin/11.png",
+                    "/assets/img/cars/nio/car1/cabin/10.png",
+                    "/assets/img/cars/nio/car1/cabin/12.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый - за доп.плату",
+                  "color": "rgb(206 125 87)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/14.png",
+                    "/assets/img/cars/nio/car1/cabin/16.png",
+                    "/assets/img/cars/nio/car1/cabin/15.png",
+                    "/assets/img/cars/nio/car1/cabin/17.png"
+                  ]
+                },
+                {
+                  "name": "Зеленный - за доп.плату",
+                  "color": "rgb(75 112 100)",
+                  "images": [
+                    "/assets/img/cars/nio/car1/cabin/18.png",
+                    "/assets/img/cars/nio/car1/cabin/20.png",
+                    "/assets/img/cars/nio/car1/cabin/19.png",
+                    "/assets/img/cars/nio/car1/cabin/21.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20 дюймовые с низким сопротивлением с шинами Continental EcoContact 6 - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/61.png",
+                    "/assets/img/cars/nio/car1/carcase/62.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые серебристые многоспицевые диски с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/65.png",
+                    "/assets/img/cars/nio/car1/carcase/66.png"
+                  ]
+                },
+                {
+                  "name": "21 дюймовые из углеродного волокна серебристого цвета с шинами Pirelli P Zero Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/67.png",
+                    "/assets/img/cars/nio/car1/carcase/68.png"
+                  ]
+                },
+                {
+                  "name": "22 дюймовые с шинами Continental EcoContact 6 Run - flat  - бесплатно",
+                  "img": "/assets/img/cars/nio/car1/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/nio/car1/carcase/69.png",
+                    "/assets/img/cars/nio/car1/carcase/70.png"
                   ]
                 }
               ]
