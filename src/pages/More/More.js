@@ -358,7 +358,11 @@ function More({ GetUrl }) {
                               className={classes.item}
                             >
                               <span
-                                className={`${classes.span}  ${
+                                className={`${classes.span} 
+                                
+                                ${whl.img && classes.calonOptImg}
+
+                                ${
                                   whl.name === calon.name
                                     ? `${classes.active}`
                                     : ""

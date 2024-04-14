@@ -204,6 +204,10 @@
   cursor: pointer;
 }
 
+.calonOptImg{
+  width: 35px !important;
+  height: 35px !important;
+}
 .main .right .circle .span img {
   width: 95%;
   height: 100%;
