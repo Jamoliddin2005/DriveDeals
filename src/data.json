@@ -8,7 +8,7 @@
       "cars": [
         {
           "id": 0,
-          "name": "AVATR 11 Модернизированная версия  90 RWD",
+          "name": "AVATR 11 90 RWD+ | Drive Deals",
           "img": "/assets/img/cars/avatr/photo1.jpg",
           "hover": "/assets/img/cars/avatr/hover.jpg",
           "options": [
@@ -49,47 +49,23 @@
           "collection": [
             {
               "id": 0,
-              "name": "AVATR 11 Модернизированная версия  90 RWD "
+              "name": "AVATR 11 90 RWD+"
             },
             {
               "id": 0,
-              "name": "Модернизированная версия  116 RWD"
+              "name": "AVATR 11 116 RWD+"
             },
             {
               "id": 0,
-              "name": "Модернизированная версия  90 Luxury Edition"
+              "name": "AVATR 11 116 AWD +"
             },
             {
               "id": 0,
-              "name": "90 RWD Business Edition"
+              "name": "AVATR 11 90 Luxury +"
             },
             {
               "id": 0,
-              "name": "Модернизированная версия 116 Luxury Edition"
-            },
-            {
-              "id": 0,
-              "name": "90 RWD"
-            },
-            {
-              "id": 0,
-              "name": "90 4WD"
-            },
-            {
-              "id": 0,
-              "name": "90 4WD"
-            },
-            {
-              "id": 0,
-              "name": "116 4WD"
-            },
-            {
-              "id": 0,
-              "name": "90 Luxury Edition"
-            },
-            {
-              "id": 0,
-              "name": "116 Luxury Edition"
+              "name": "AVATR 11 116 AWD Luxury +"
             }
           ],
           "colors": [
@@ -413,7 +389,7 @@
         },
         {
           "id": 1,
-          "name": "AVATR 12 RWD 700 Luxury",
+          "name": "AVATR 12 RWD luxury",
           "img": "/assets/img/cars/avatr/photo2.jpg",
           "hover": "/assets/img/cars/avatr/hover2.jpg",
           "options": [
@@ -454,19 +430,15 @@
           "collection": [
             {
               "id": 1,
-              "name": "AVATR 12 RWD 700 Luxury"
+              "name": "AVATR 12 RWD luxury"
             },
             {
               "id": 1,
-              "name": "RWD 700 Luxury"
+              "name": "AVATR 12 4WD performance"
             },
             {
               "id": 1,
-              "name": "AWD 650 Performance"
-            },
-            {
-              "id": 1,
-              "name": "AWD 650 Performance"
+              "name": "AVATR 12 4WD GT"
             }
           ],
           "colors": [
@@ -1222,27 +1194,27 @@
           "name": "Song PRO",
           "img": "/assets/img/cars/byd/songpro.jpg",
           "hover": "/assets/img/cars/byd/songpro-hover.jpg",
-          "docs": "/assets/docs/song_plus_dmi.xlsx",
+          "docs": "/assets/docs/song_pro.xlsx",
           "collection": [
             {
               "id": 0,
-              "name": "Champion Edition DM-i 71 km Flying"
+              "name": "Champion Edition DM-i 71km Pilot"
             },
             {
               "id": 1,
-              "name": "Champion Edition DM-i 71 km Leading type"
+              "name": "Champion Edition DM-i 71km Leading"
             },
             {
               "id": 2,
-              "name": "Champion Edition DM-i 71 km Leading type"
+              "name": "Champion Edition DM-i 71 km transcendental"
             },
             {
               "id": 3,
-              "name": "Champion Edition DM-i 110 km Transcendental"
+              "name": "Champion Edition DM-i 110 km transcendental"
             },
             {
               "id": 4,
-              "name": "Champion Edition DM-i 110 km Transcendental"
+              "name": "Champion Edition DM-i 110 km excellent"
             }
           ],
           "colors": [
@@ -1321,283 +1293,21 @@
           ]
         },
         {
-          "id": 2,
-          "name": "Song Plus",
-          "img": "/assets/img/cars/byd/songplus.jpeg",
-          "docs": "/assets/docs/song_plus_dmi.xlsx",
-          "hover": "/assets/img/cars/byd/songplus-hover.jpg",
-          "collection": [
-            {
-              "id": 0,
-              "name": "Champion Edition DM-i 110 km Flagship"
-            },
-            {
-              "id": 1,
-              "name": "DM-i 110 km Flagship"
-            },
-            {
-              "id": 2,
-              "name": "DM-i 110 km Flagship Plus"
-            },
-            {
-              "id": 3,
-              "name": "DM-i 150 km Flagship Plus"
-            },
-            {
-              "id": 4,
-              "name": "DM-i 150 km Flagship Plus 5G"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/byd/car3/carcase/Rasm14.jpg",
-                "/assets/img/cars/byd/car3/carcase/Rasm14.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "#f5f5dc",
-                  "images": [
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/byd/car3/carcase/Rasm15.jpg",
-                "/assets/img/cars/byd/car3/carcase/Rasm15.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "#f5f5dc",
-                  "images": [
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серый",
-              "color": "#A9A9A9",
-              "images": [
-                "/assets/img/cars/byd/car3/carcase/Rasm16.jpg",
-                "/assets/img/cars/byd/car3/carcase/Rasm16.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "#f5f5dc",
-                  "images": [
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серебро",
-              "color": "#c0c0c0",
-              "images": [
-                "/assets/img/cars/byd/car3/carcase/Rasm17.jpg",
-                "/assets/img/cars/byd/car3/carcase/Rasm17.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "#f5f5dc",
-                  "images": [
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Красный",
-              "color": "red",
-              "images": [
-                "/assets/img/cars/byd/car3/carcase/Rasm18.jpg",
-                "/assets/img/cars/byd/car3/carcase/Rasm18.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "#f5f5dc",
-                  "images": [
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Голубой",
-              "color": "#00BFFF",
-              "images": [
-                "/assets/img/cars/byd/car3/carcase/Rasm19.png",
-                "/assets/img/cars/byd/car3/carcase/Rasm20.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "#f5f5dc",
-                  "images": [
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
-                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 3,
+          "id": "song-plus",
           "name": "Song plus EV",
           "img": "/assets/img/cars/byd/songplusev.jpg",
           "docs": "/assets/docs/song_plus_ev.xlsx",
-          "hover": "/assets/img/cars/byd/songplusev-hover.jpg",
-          "collection": [
-            {
-              "id": 0,
-              "name": "Champion Edition EV 520 km Deluxe"
-            },
-            {
-              "id": 1,
-              "name": "Champion Edition EV 520 km Premium"
-            },
-            {
-              "id": 2,
-              "name": "Champion Edition EV 520 km Flagship"
-            },
-            {
-              "id": 3,
-              "name": "Champion Edition EV 605 km Flagship Plus"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/byd/car4/carcase/Rasm21.jpg",
-                "/assets/img/cars/byd/car4/carcase/Rasm21.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(169, 169, 169)",
-                  "images": [
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/byd/car4/carcase/Rasm22.jpg",
-                "/assets/img/cars/byd/car4/carcase/Rasm22.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(169, 169, 169)",
-                  "images": [
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серый",
-              "color": "#A9A9A9",
-              "images": [
-                "/assets/img/cars/byd/car4/carcase/Rasm23.jpg",
-                "/assets/img/cars/byd/car4/carcase/Rasm23.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(169, 169, 169)",
-                  "images": [
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серебро",
-              "color": "#c0c0c0",
-              "images": [
-                "/assets/img/cars/byd/car4/carcase/Rasm24.jpg",
-                "/assets/img/cars/byd/car4/carcase/Rasm24.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(169, 169, 169)",
-                  "images": [
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Красный",
-              "color": "red",
-              "images": [
-                "/assets/img/cars/byd/car4/carcase/Rasm25.jpg",
-                "/assets/img/cars/byd/car4/carcase/Rasm25.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(169, 169, 169)",
-                  "images": [
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Голубой",
-              "color": "#00BFFF",
-              "images": [
-                "/assets/img/cars/byd/car4/carcase/Rasm27.png",
-                "/assets/img/cars/byd/car4/carcase/Rasm28.png",
-                "/assets/img/cars/byd/car4/carcase/Rasm29.png",
-                "/assets/img/cars/byd/car4/carcase/Rasm30.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(169, 169, 169)",
-                  "images": [
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
-                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
-                  ]
-                }
-              ]
-            }
-          ]
+          "hover": "/assets/img/cars/byd/songplusev-hover.jpg"
         },
         {
-          "id": 4,
+          "id": "han",
+          "name": "Han",
+          "img": "/assets/img/cars/byd/han.jpg",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "hover": "/assets/img/cars/byd/han-hover.webp"
+        },
+        {
+          "id": 303,
           "name": "Han",
           "img": "/assets/img/cars/byd/han.jpg",
           "docs": "/assets/docs/byd_han.xlsx",
@@ -1744,7 +1454,7 @@
           ]
         },
         {
-          "id": 5,
+          "id": 304,
           "name": "Qin plus",
           "img": "/assets/img/cars/byd/qin-hover.jpg",
           "docs": "/assets/docs/byd_qin_plus.xlsx",
@@ -1752,23 +1462,23 @@
           "collection": [
             {
               "id": 0,
-              "name": "Champion Edition DM-i  55 km Leading type"
+              "name": "Champion Edition DM-i 55km Leading"
             },
             {
               "id": 1,
-              "name": "Champion Edition DM-i  55 km Transcendental"
+              "name": "Champion Edition DM-i 55km transcendental"
             },
             {
               "id": 2,
-              "name": "Champion Edition DM-i  120 km Leading type"
+              "name": "Champion Edition DM-i 120km Leading"
             },
             {
               "id": 3,
-              "name": "Champion Edition DM-i  120 km Transcendental"
+              "name": "Champion Edition DM-i 120km transcendental"
             },
             {
               "id": 4,
-              "name": "Champion Edition DM-i  120 km Excellent"
+              "name": "Champion Edition DM-i 120KM Excellent"
             }
           ],
           "colors": [
@@ -2753,6 +2463,282 @@
                   "images": [
                     "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
                     "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 300,
+          "name": "Song Plus",
+          "img": "/assets/img/cars/byd/songplus.jpeg",
+          "docs": "/assets/docs/song_plus_dmi.xlsx",
+          "hover": "/assets/img/cars/byd/songplus-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Champion Edition DM-i 71 km Deluxe"
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition DM-i 110 km Flagship"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 110 km Flagship Plus"
+            },
+            {
+              "id": 3,
+              "name": "Champion Edition DM-i 150 km Flagship Plus"
+            },
+            {
+              "id": 4,
+              "name": "Champion Edition DM-i 150 km Flagship Plus 5G"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car3/carcase/Rasm14.jpg",
+                "/assets/img/cars/byd/car3/carcase/Rasm14.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "#f5f5dc",
+                  "images": [
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car3/carcase/Rasm15.jpg",
+                "/assets/img/cars/byd/car3/carcase/Rasm15.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "#f5f5dc",
+                  "images": [
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "#A9A9A9",
+              "images": [
+                "/assets/img/cars/byd/car3/carcase/Rasm16.jpg",
+                "/assets/img/cars/byd/car3/carcase/Rasm16.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "#f5f5dc",
+                  "images": [
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "#c0c0c0",
+              "images": [
+                "/assets/img/cars/byd/car3/carcase/Rasm17.jpg",
+                "/assets/img/cars/byd/car3/carcase/Rasm17.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "#f5f5dc",
+                  "images": [
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "red",
+              "images": [
+                "/assets/img/cars/byd/car3/carcase/Rasm18.jpg",
+                "/assets/img/cars/byd/car3/carcase/Rasm18.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "#f5f5dc",
+                  "images": [
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "#00BFFF",
+              "images": [
+                "/assets/img/cars/byd/car3/carcase/Rasm19.png",
+                "/assets/img/cars/byd/car3/carcase/Rasm20.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "#f5f5dc",
+                  "images": [
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg",
+                    "/assets/img/cars/byd/car3/cabin/Rasm13.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 301,
+          "name": "Song plus EV",
+          "img": "/assets/img/cars/byd/songplusev.jpg",
+          "docs": "/assets/docs/song_plus_ev.xlsx",
+          "hover": "/assets/img/cars/byd/songplusev-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Champion Edition EV 520 km Deluxe"
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition EV 520 km Premium"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition EV 520 km Flagship"
+            },
+            {
+              "id": 3,
+              "name": "Champion Edition EV 605 km Flagship Plus"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car4/carcase/Rasm21.jpg",
+                "/assets/img/cars/byd/car4/carcase/Rasm21.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car4/carcase/Rasm22.jpg",
+                "/assets/img/cars/byd/car4/carcase/Rasm22.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "#A9A9A9",
+              "images": [
+                "/assets/img/cars/byd/car4/carcase/Rasm23.jpg",
+                "/assets/img/cars/byd/car4/carcase/Rasm23.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "#c0c0c0",
+              "images": [
+                "/assets/img/cars/byd/car4/carcase/Rasm24.jpg",
+                "/assets/img/cars/byd/car4/carcase/Rasm24.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "red",
+              "images": [
+                "/assets/img/cars/byd/car4/carcase/Rasm25.jpg",
+                "/assets/img/cars/byd/car4/carcase/Rasm25.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "#00BFFF",
+              "images": [
+                "/assets/img/cars/byd/car4/carcase/Rasm27.png",
+                "/assets/img/cars/byd/car4/carcase/Rasm28.png",
+                "/assets/img/cars/byd/car4/carcase/Rasm29.png",
+                "/assets/img/cars/byd/car4/carcase/Rasm30.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
+                    "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
                   ]
                 }
               ]
@@ -6578,7 +6564,7 @@
               "name": "Lixiang L8 AIR"
             },
             {
-              "id": 0,
+              "id": 0, 
               "name": "Lixiang L8 PRO"
             },
             {

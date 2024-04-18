@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import classes from "./catalog.module.css";
 import { Link } from "react-router-dom";
 import Image from "../lazyLoad/Image";
-import data from "../../data.json";
+import data from "../../car.json";
 import { Helmet } from "react-helmet";
 
 import Loading from "../loading/Loading";
@@ -16,7 +16,7 @@ function Catalog({ GetUrl }) {
   }, [GetUrl]);
 
   const getCatalog = () => {
-    setCatalogCars(data?.catalog.map(({ name, img }) => ({ name, img })));
+    setCatalogCars(data?.cars);
   };
 
   useEffect(() => {

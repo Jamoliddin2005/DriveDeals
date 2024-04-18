@@ -2,71 +2,105 @@
   "cars": [
     {
       "id": 0,
-      "name": "avatr"
+      "name": "avatr",
+      "img": "/assets/img/avatr.png",
+      "logo": "/assets/img/cars/avatr/logo.png"
     },
     {
       "id": 1,
-      "name": "byd"
+      "name": "byd",
+      "img": "/assets/img/byd.png",
+      "logo": "/assets/img/byd.png"
     },
     {
       "id": 2,
-      "name": "aito"
+      "name": "aito",
+      "img": "/assets/img/aito.png",
+      "logo": "/assets/img/aito.png"
     },
     {
       "id": 3,
-      "name": "aion"
+      "name": "aion",
+      "img": "/assets/img/aion.jpg",
+      "logo": "/assets/img/aion.jpg"
     },
     {
       "id": 4,
-      "name": "zeekr"
+      "name": "zeekr",
+      "img": "/assets/img/zeekr.png",
+      "logo": "/assets/img/zeekr.png"
     },
     {
       "id": 5,
-      "name": "li-auto"
+      "name": "li-auto",
+      "img": "/assets/img/li-auto.webp",
+      "logo": "/assets/img/li-auto.webp"
     },
     {
       "id": 7,
-      "name": "voyah"
+      "name": "voyah",
+      "img": "/assets/img/voyah.png",
+      "logo": "/assets/img/voyah.png"
     },
     {
       "id": 8,
-      "name": "Arcfox"
+      "name": "Arcfox",
+      "img": "/assets/img/Arcfox-logo.png",
+      "logo": "/assets/img/Arcfox-logo.png"
     },
     {
       "id": 9,
-      "name": "Buick"
+      "name": "Buick",
+      "img": "/assets/img/Buick-Logo.png",
+      "logo": "/assets/img/Buick-Logo.png"
     },
     {
       "id": 10,
-      "name": "YangWang-U8"
+      "name": "YangWang-U8",
+      "img": "/assets/img/u8.png",
+      "logo": "/assets/img/u8.png"
     },
     {
       "id": 11,
-      "name": "Xiaomi"
+      "name": "Xiaomi",
+      "img": "/assets/img/xiaomi.png",
+      "logo": "/assets/img/xiaomi.png"
     },
     {
       "id": 12,
-      "name": "Geely-Galaxy"
+      "name": "Geely-Galaxy",
+      "img": "/assets/img/geely.jpg",
+      "logo": "/assets/img/geely.jpg"
     },
     {
       "id": 13,
-      "name": "HongQi"
+      "name": "HongQi",
+      "img": "/assets/img/hongQi.png",
+      "logo": "/assets/img/hongQi.png"
     },
     {
       "id": 14,
-      "name": "Leapmotor"
+      "name": "Leapmotor",
+      "img": "/assets/img/leapmotors.png",
+      "logo": "/assets/img/leapmotors.png"
     },
     {
       "id": 15,
-      "name": "Leopard"
+      "name": "Leopard",
+      "img": "/assets/img/leopard.jpg",
+      "logo": "/assets/img/leopard.jpg"
     },
     {
       "id": 16,
-      "name": "BMW"
+      "name": "BMW",
+      "img": "/assets/img/bmw.png",
+      "logo": "/assets/img/bmw.png"
     },
     {
       "id": 17,
-      "name": "NIO"
+      "name": "NIO",
+      "img": "/assets/img/nio.png",
+      "logo": "/assets/img/nio.png"
     }
   ]
 }

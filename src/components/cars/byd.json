@@ -1,0 +1,44 @@
+{
+  "songPlus": [
+    {
+      "id": "song-plus",
+      "name": "song-plus",
+      "logo": "/assets/img/byd.png",
+      "catalog": [
+        {
+          "id": 300,
+          "name": "Song Plus",
+          "img": "/assets/img/cars/byd/songplus.jpeg",
+          "hover": "/assets/img/cars/byd/songplus-hover.jpg"
+        },
+        {
+          "id": 301,
+          "name": "Song plus EV",
+          "img": "/assets/img/cars/byd/songplusev.jpg",
+          "hover": "/assets/img/cars/byd/songplusev-hover.jpg"
+        }
+      ]
+    }
+  ],
+  "han": [
+    {
+      "id": "han",
+      "name": "han",
+      "logo": "/assets/img/byd.png",
+      "catalog": [
+        {
+          "id": 303,
+          "name": "Han",
+          "img": "/assets/img/cars/byd/han.jpg",
+          "hover": "/assets/img/cars/byd/han-hover.webp"
+        },
+        {
+          "id": 304,
+          "name": "Qin plus",
+          "img": "/assets/img/cars/byd/qin-hover.jpg",
+          "hover": "/assets/img/cars/byd/qin.png"
+        }
+      ]
+    }
+  ]
+}

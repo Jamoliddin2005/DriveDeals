@@ -50,24 +50,35 @@ function Car({ GetUrl }) {
 
               <div className={`${classes.categories} row`}>
                 {car?.cars?.map((element, index) => {
-                  if (element.id < 100) {
+                  if (
+                    element.id < 100 ||
+                    element.id === "song-plus" ||
+                    element.id === "han"
+                  ) {
                     return (
                       <div className={classes.category} key={element.id}>
+                        <div className={classes.carName}>
+                          <h3>{element?.name}</h3>
+                        </div>
                         <div className={classes.image}>
                           <img src={element.img} alt="" />
                         </div>
                         <div className={classes.hover}>
                           <img src={element.hover} alt="" />
                         </div>
-                        <Link
-                          to={`${
-                            element.mega
-                              ? "/cars/li-auto/mega"
-                              : `/cars/${location}/${element.id}`
-                          }  `}
-                        >
-                          Узнать больше
-                        </Link>
+                        {element.id === "song-plus" || element.id === "han" ? (
+                          <Link to={`/byd/${element.id}`}>Узнать больше</Link>
+                        ) : (
+                          <Link
+                            to={`${
+                              element.mega
+                                ? "/cars/li-auto/mega"
+                                : `/cars/${location}/${element.id}`
+                            }`}
+                          >
+                            Узнать больше
+                          </Link>
+                        )}
                       </div>
                     );
                   }

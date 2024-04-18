@@ -12,6 +12,7 @@ import Mega from "./pages/LiMega/Mega";
 import "aos/dist/aos.css";
 import Navbar from "./components/navbar/navbar";
 import Error from "./pages/Error/Error";
+import CategoryCar from "./pages/Car/categoryCar";
 
 function App() {
   const [url, setUrl] = useState("");
@@ -32,6 +33,7 @@ function App() {
         <Route path="/about" element={<About GetUrl={GetUrl} url={url} />} />
         <Route path="/catalog" element={<Catalog GetUrl={GetUrl} />} />
         <Route path="/cars/:car" element={<Car GetUrl={GetUrl} />} />
+        <Route path="/byd/:id" element={<CategoryCar GetUrl={GetUrl} />} />
         <Route path="/cars/:car/:id" element={<More GetUrl={GetUrl} />} />
         <Route path="/service" element={<Service GetUrl={GetUrl} />} />
         <Route path="/cars/li-auto/mega" element={<Mega GetUrl={GetUrl} />} />
