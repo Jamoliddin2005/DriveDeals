@@ -14,7 +14,7 @@ function Home({ GetUrl }) {
   return (
     <div className={classes.Home}>
       <Helmet>
-        <title>Drive Deals - Drive Your Dreams Today</title>
+        <title>Главный - Drive Deals | Drive Your Dreams Today</title>
         <meta
           name="description"
           content="Экспортная компания, которая отличается своим стремлением к качеству и профессионализму. Основанная в 2022 году в столице Поднебесной - городе Пекин, она специализируется на поиске и экспорте высококачественных автомобилей по всему миру."

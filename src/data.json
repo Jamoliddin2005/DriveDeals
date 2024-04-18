@@ -8888,30 +8888,18 @@
             },
             {
               "id": 0,
-              "name": "Xiaomi SU7 700 km smart"
-            },
-            {
-              "id": 0,
-              "name": "Xiaomi SU7 700 km standard"
-            },
-            {
-              "id": 0,
               "name": "Xiaomi SU7 830 km Pro"
             },
             {
               "id": 0,
               "name": "Xiaomi SU7 800 km Max",
               "linkSubmit": 100
-            },
-            {
-              "id": 0,
-              "name": "Xiaomi SU7 750 km Max"
             }
           ],
           "colors": [
             {
               "name": "Черный",
-              "color": "#fff",
+              "color": "#000",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
                 "/assets/img/cars/xiaomi/car1/carcase/2.jpg",
@@ -8959,7 +8947,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
@@ -8969,17 +8957,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
-                  "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
-                  "images": [
-                    "/assets/img/cars/xiaomi/car1/carcase/7.jpg",
-                    "/assets/img/cars/xiaomi/car1/carcase/8.jpg",
-                    "/assets/img/cars/xiaomi/car1/carcase/9.jpg",
-                    "/assets/img/cars/xiaomi/car1/carcase/10.jpg"
-                  ]
-                },
-                {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/11.jpg",
@@ -9040,7 +9018,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
@@ -9050,7 +9028,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/25.jpg",
@@ -9060,7 +9038,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/29.jpg",
@@ -9120,7 +9098,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
@@ -9130,7 +9108,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/43.jpg",
@@ -9140,7 +9118,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/47.jpg",
@@ -9201,7 +9179,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
@@ -9211,7 +9189,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/61.jpg",
@@ -9221,7 +9199,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/65.jpg",
@@ -9282,7 +9260,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
@@ -9292,7 +9270,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/79.jpg",
@@ -9302,7 +9280,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/83.jpg",
@@ -9363,7 +9341,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
@@ -9373,7 +9351,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/97.jpg",
@@ -9383,7 +9361,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/101.jpg",
@@ -9444,7 +9422,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
@@ -9454,7 +9432,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/115.jpg",
@@ -9464,7 +9442,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/119.jpg",
@@ -9525,7 +9503,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
@@ -9535,7 +9513,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/133.jpg",
@@ -9545,7 +9523,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/137.jpg",
@@ -9606,7 +9584,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
@@ -9616,7 +9594,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/151.jpg",
@@ -9626,7 +9604,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4 (за доп.плату)",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/155.jpg",
@@ -9639,9 +9617,10 @@
             }
           ]
         },
+
         {
           "id": 100,
-          "name": "Xiaomi Su7",
+          "name": "Xiaomi Su7 800km Max",
           "img": "/assets/img/cars/xiaomi/car1/xiaomi.jpg",
           "hover": "/assets/img/cars/xiaomi/car1/xiaomi-hover.jpg",
           "options": [
@@ -9674,25 +9653,13 @@
             },
             {
               "id": 0,
-              "name": "Xiaomi SU7 700 km smart"
-            },
-            {
-              "id": 0,
-              "name": "Xiaomi SU7 700 km standard"
-            },
-            {
-              "id": 0,
               "name": "Xiaomi SU7 830 km Pro"
-            },
-            {
-              "id": 0,
-              "name": "Xiaomi SU7 750 km Max"
             }
           ],
           "colors": [
             {
               "name": "Черный",
-              "color": "#fff",
+              "color": "#000",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
                 "/assets/img/cars/xiaomi/car1/carcase/2.jpg",
@@ -9740,7 +9707,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
@@ -9750,7 +9717,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/7.jpg",
@@ -9760,7 +9727,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/11.jpg",
@@ -9831,7 +9798,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/19.jpg",
@@ -9841,7 +9808,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/25.jpg",
@@ -9851,7 +9818,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/29.jpg",
@@ -9921,7 +9888,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
@@ -9931,7 +9898,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/43.jpg",
@@ -9941,7 +9908,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/47.jpg",
@@ -10012,7 +9979,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
@@ -10022,7 +9989,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/61.jpg",
@@ -10032,7 +9999,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/65.jpg",
@@ -10103,7 +10070,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/73.jpg",
@@ -10113,7 +10080,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/79.jpg",
@@ -10123,7 +10090,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/83.jpg",
@@ -10194,7 +10161,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
@@ -10204,7 +10171,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/97.jpg",
@@ -10214,7 +10181,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/101.jpg",
@@ -10285,7 +10252,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
@@ -10295,7 +10262,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/115.jpg",
@@ -10305,7 +10272,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/119.jpg",
@@ -10376,7 +10343,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
@@ -10386,7 +10353,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/133.jpg",
@@ -10396,7 +10363,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/137.jpg",
@@ -10467,7 +10434,7 @@
               ],
               "wheels": [
                 {
-                  "name": "R19 c шинами Michelin e.Primacy ",
+                  "name": "R20 c шинами Michelin e.Primacy",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/145.jpg",
@@ -10477,7 +10444,7 @@
                   ]
                 },
                 {
-                  "name": "R19 c шинами Turanza 6",
+                  "name": "R19 c шинами Michelin Pilot Sport 4",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/151.jpg",
@@ -10487,7 +10454,7 @@
                   ]
                 },
                 {
-                  "name": "R20 c шинами Michelin Pilot Sport 4",
+                  "name": "R19 c шинами Turanza Bridgestone",
                   "img": "/assets/img/cars/xiaomi/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/xiaomi/car1/carcase/155.jpg",

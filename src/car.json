@@ -1,0 +1,72 @@
+{
+  "cars": [
+    {
+      "id": 0,
+      "name": "avatr"
+    },
+    {
+      "id": 1,
+      "name": "byd"
+    },
+    {
+      "id": 2,
+      "name": "aito"
+    },
+    {
+      "id": 3,
+      "name": "aion"
+    },
+    {
+      "id": 4,
+      "name": "zeekr"
+    },
+    {
+      "id": 5,
+      "name": "li-auto"
+    },
+    {
+      "id": 7,
+      "name": "voyah"
+    },
+    {
+      "id": 8,
+      "name": "Arcfox"
+    },
+    {
+      "id": 9,
+      "name": "Buick"
+    },
+    {
+      "id": 10,
+      "name": "YangWang-U8"
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi"
+    },
+    {
+      "id": 12,
+      "name": "Geely-Galaxy"
+    },
+    {
+      "id": 13,
+      "name": "HongQi"
+    },
+    {
+      "id": 14,
+      "name": "Leapmotor"
+    },
+    {
+      "id": 15,
+      "name": "Leopard"
+    },
+    {
+      "id": 16,
+      "name": "BMW"
+    },
+    {
+      "id": 17,
+      "name": "NIO"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 import React from "react";
 import classes from "./footer.module.css";
-import Cars from "../../data.json";
+import Cars from "../../car.json";
 import { Link } from "react-router-dom";
 
 function Footer() {
-  let cars = Cars?.catalog?.map((cars) => {
+  let cars = Cars.cars.map((cars) => {
     return cars.name;
   });
 
@@ -22,18 +22,18 @@ function Footer() {
                   <span>Телефон:</span> <a href="#">+13910671550</a>
                 </li>
                 <li>
-                  <span>Адрес:</span>{" "}
+                  <span>Адрес:</span>
                   <a href="#">
                     Beijing City, Fangshan District, Fusheng East Street,
                     WuKuang Premium, Building A
                   </a>
                 </li>
                 <li>
-                  <span>Почта:</span>{" "}
+                  <span>Почта:</span>
                   <a href="mailto: drive.deals@mail.ru">drive.deals@mail.ru</a>
                 </li>
                 <li>
-                  <span>Веб-сайт:</span>{" "}
+                  <span>Веб-сайт:</span>
                   <a href="http://drive-deals.ru/">drive-deals.ru</a>
                 </li>
               </ul>
