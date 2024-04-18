@@ -8882,7 +8882,7 @@
           ],
           "colors": [
             {
-              "name": "Черный",
+              "name": "Черный - за доп.плату",
               "color": "#000",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
@@ -9023,7 +9023,7 @@
               ]
             },
             {
-              "name": "Синий",
+              "name": "Синий - за доп.плату",
               "color": "rgb(44 101 188)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
@@ -9094,7 +9094,7 @@
               ]
             },
             {
-              "name": "Белый",
+              "name": "Белый - за доп.плату",
               "color": "#fff",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
@@ -9236,7 +9236,7 @@
               ]
             },
             {
-              "name": "Темно-синий",
+              "name": "Темно-синий - за доп.плату",
               "color": "rgb(41 107 217)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
@@ -9307,7 +9307,7 @@
               ]
             },
             {
-              "name": "Розовый",
+              "name": "Фиолетовый - за доп.плату",
               "color": "rgb(177 67 214)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
@@ -9378,7 +9378,7 @@
               ]
             },
             {
-              "name": "Коричневый",
+              "name": "Оранжевый- за доп.плату",
               "color": "rgb(255 55 31)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
@@ -9521,7 +9521,6 @@
             }
           ]
         },
-
         {
           "id": 100,
           "name": "Xiaomi Su7 800km Max",
@@ -9555,7 +9554,7 @@
           ],
           "colors": [
             {
-              "name": "Черный",
+              "name": "Черный - за доп.плату",
               "color": "#000",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
@@ -9736,7 +9735,7 @@
               ]
             },
             {
-              "name": "Синий",
+              "name": "Синий- за доп.плату",
               "color": "rgb(44 101 188)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
@@ -9827,7 +9826,7 @@
               ]
             },
             {
-              "name": "Белый",
+              "name": "Белый- за доп.плату",
               "color": "#fff",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
@@ -10009,7 +10008,7 @@
               ]
             },
             {
-              "name": "Темно-синий",
+              "name": "Темно-синий- за доп.плату",
               "color": "rgb(41 107 217)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
@@ -10100,7 +10099,7 @@
               ]
             },
             {
-              "name": "Розовый",
+              "name": "Фиолетовый - за доп.плату",
               "color": "rgb(177 67 214)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
@@ -10191,7 +10190,7 @@
               ]
             },
             {
-              "name": "Коричневый",
+              "name": "Оранжевый- за доп.плату",
               "color": "rgb(255 55 31)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
@@ -10374,7 +10373,6 @@
             }
           ]
         },
-
         {
           "id": 101,
           "name": "Xiaomi Su7 800km Pro",
@@ -10424,7 +10422,7 @@
           ],
           "colors": [
             {
-              "name": "Черный",
+              "name": "Черный- за доп.плату",
               "color": "#000",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/1.jpg",
@@ -10565,7 +10563,7 @@
               ]
             },
             {
-              "name": "Синий",
+              "name": "Синий- за доп.плату",
               "color": "rgb(44 101 188)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/37.jpg",
@@ -10636,7 +10634,7 @@
               ]
             },
             {
-              "name": "Белый",
+              "name": "Белый- за доп.плату",
               "color": "#fff",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/55.jpg",
@@ -10778,7 +10776,7 @@
               ]
             },
             {
-              "name": "Темно-синий",
+              "name": "Темно-синий- за доп.плату",
               "color": "rgb(41 107 217)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/91.jpg",
@@ -10849,7 +10847,7 @@
               ]
             },
             {
-              "name": "Розовый",
+              "name": "Фиолетовый - за доп.плату",
               "color": "rgb(177 67 214)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/109.jpg",
@@ -10920,7 +10918,7 @@
               ]
             },
             {
-              "name": "Коричневый",
+              "name": "Оранжевый- за доп.плату",
               "color": "rgb(255 55 31)",
               "images": [
                 "/assets/img/cars/xiaomi/car1/carcase/127.jpg",
@@ -11065,6 +11063,7 @@
         }
       ]
     },
+
     {
       "id": 12,
       "name": "Geely-Galaxy",
