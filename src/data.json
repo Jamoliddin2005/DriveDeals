@@ -1294,7 +1294,7 @@
         },
         {
           "id": "song-plus",
-          "name": "Song plus EV",
+          "name": "Song plus",
           "img": "/assets/img/cars/byd/songplusev.jpg",
           "docs": "/assets/docs/song_plus_ev.xlsx",
           "hover": "/assets/img/cars/byd/songplusev-hover.jpg"
