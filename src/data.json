@@ -6024,13 +6024,13 @@
     },
     {
       "id": 5,
-      "name": "li-auto",
+      "name": "li-Xiang",
       "img": "/assets/img/li-auto.webp",
       "logo": "/assets/img/li-auto.webp",
       "cars": [
         {
           "id": 0,
-          "name": "Lixiang L7",
+          "name": "Li Xiang L7",
           "img": "/assets/img/cars/lixiang/photo.jpg",
           "hover": "/assets/img/cars/lixiang/hover.webp",
           "docs": "/assets/docs/lixiangL7.xlsx",
@@ -6554,7 +6554,7 @@
         },
         {
           "id": 1,
-          "name": "Lixiang L8 Max",
+          "name": "Li Xiang L8 Max",
           "img": "/assets/img/cars/lixiang/photo2.jpg",
           "hover": "/assets/img/cars/lixiang/hover.webp",
           "docs": "/assets/docs/lixiangL8.xlsx",
@@ -6564,7 +6564,7 @@
               "name": "Lixiang L8 AIR"
             },
             {
-              "id": 0, 
+              "id": 0,
               "name": "Lixiang L8 PRO"
             },
             {
@@ -7060,7 +7060,7 @@
         },
         {
           "id": 2,
-          "name": "Lixiang L9 Max",
+          "name": "Li Xiang L9 Max",
           "img": "/assets/img/cars/lixiang/photo3.jpg",
           "hover": "/assets/img/cars/lixiang/hover3.jpg",
           "docs": "/assets/docs/lixiangL9.xlsx",
