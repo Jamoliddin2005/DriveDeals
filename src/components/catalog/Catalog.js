@@ -44,7 +44,8 @@ function Catalog({ GetUrl }) {
                   key={index}
                   className={classes.item}
                 >
-                  <Image image={item.img} />
+                  <img src={item.img} alt="" />
+                  {/* <Image image={item.img} /> */}
                 </Link>
               ))
             ) : (
