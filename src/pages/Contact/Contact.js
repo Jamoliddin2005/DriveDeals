@@ -52,7 +52,7 @@ function Contact({ GetUrl }) {
                     {" "}
                     <span>
                       {" "}
-                      <img src="/assets/icons/facebook.png" alt="" />
+                      <img src="/assets/icons/telegram.png" alt="" />
                     </span>
                     Telegram
                   </a>
@@ -62,7 +62,7 @@ function Contact({ GetUrl }) {
                     {" "}
                     <span>
                       {" "}
-                      <img src="/assets/icons/facebook.png" alt="" />
+                      <img src="/assets/icons/instagram.webp" alt="" />
                     </span>
                     Instagram
                   </a>

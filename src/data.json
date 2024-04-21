@@ -1702,14 +1702,14 @@
         },
         {
           "id": 7,
-          "name": "Vitality",
+          "name": "Seagull",
           "img": "/assets/img/cars/byd/photo.webp",
           "hover": "/assets/img/cars/byd/hover.jpg",
           "docs": "/assets/docs/byd_vitaly.xlsx",
           "collection": [
             {
               "id": 0,
-              "name": "Vitality"
+              "name": "Seagull"
             },
             {
               "id": 1,

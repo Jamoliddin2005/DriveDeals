@@ -17,7 +17,7 @@
   border-top-right-radius: 60px;
   padding-top: 150px;
 }
-.Foot_contact .left{
+.Foot_contact .left {
   width: 32%;
 }
 .Foot_contact .container {
@@ -92,6 +92,17 @@
 
 .Foot_contact .right .right_contact {
   margin-top: 50px;
+}
+
+.Foot_contact .telegram_icon {
+  position: relative;
+  width: 50%;
+}
+.Foot_contact .telegram_icon svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 5px;
 }
 .contact .contact_right img {
   width: 70%;
