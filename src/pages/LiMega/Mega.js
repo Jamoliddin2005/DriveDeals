@@ -303,15 +303,14 @@ function Mega() {
 
   return (
     <div className={classesMega.Mega}>
+      <Helmet>
+        <title>Li Xiang Mega ULTRA - Drive Deals</title>
+        <meta
+          name="description"
+          content={`Купите автомобиль Li Xiang Mega ULTRA на - Drive Deals`}
+        />
+      </Helmet>
       <Suspense fallback={<Loading />}>
-        <Helmet>
-          <title>Li Xiang Mega ULTRA - Drive Deals</title>
-          <meta
-            name="description"
-            content={`Купите автомобиль Li Xiang Mega ULTRA на - Drive Deals`}
-          />
-        </Helmet>
-
         <div className={`more ${classes.more}`}>
           <div className={classes.container}>
             <h2 className={classes.title}>Каталог автомобилей</h2>
