@@ -136,3 +136,8 @@
     width: 100%;
   }
 }
+
+.loading_car{
+  display: flex;
+  justify-content: center;
+}

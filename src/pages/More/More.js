@@ -193,7 +193,7 @@ function More({ GetUrl }) {
                   >
                     {select?.map((item, index) => (
                       <option
-                        value={item.linkSubmit ? item.linkSubmit : item.id}
+                        value={item.linkSubmit ? item.linkSubmit : car?.id}
                         key={index}
                       >
                         {item.name}

@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import Cars from "../../data.json";
 import Image from "../../components/lazyLoad/Image";
 import { Helmet } from "react-helmet";
+import Loading from "../../components/loading/Loading";
 
 function Car({ GetUrl }) {
   const location = window.location.pathname.split("/")[2];
@@ -87,7 +88,9 @@ function Car({ GetUrl }) {
             </div>
           </div>
         ) : (
-          <h1>Loading</h1>
+          <div className={classes.loading_car}>
+            <Loading/>
+          </div>
         )}
       </div>
     </>

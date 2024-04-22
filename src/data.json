@@ -2470,6 +2470,518 @@
           ]
         },
         {
+          "id": 13,
+          "name": "Han EV",
+          "img": "/assets/img/cars/byd/car13/byd.jpg",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "hover": "/assets/img/cars/byd/car13/byd-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD HAN 506KM Prestige"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN 605KM Prestige"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN 715KM Flagship"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN 610KM AWD"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/1.jpg",
+                "/assets/img/cars/byd/car13/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/2.jpg",
+                "/assets/img/cars/byd/car13/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/3.jpg",
+                "/assets/img/cars/byd/car13/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/4.jpg",
+                "/assets/img/cars/byd/car13/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "YUAN UP",
+          "img": "/assets/img/cars/byd/car14/byd.jpg",
+          "docs": "/assets/docs/byd_yuan_up.xlsx",
+          "hover": "/assets/img/cars/byd/car14/byd-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD Yuan UP 301KM Leading"
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP 401KM Leading"
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP 401KM Transcendental"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car14/carcase/1.png",
+                "/assets/img/cars/byd/car14/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car14/cabin/1.jpg",
+                    "/assets/img/cars/byd/car14/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car14/carcase/2.png",
+                "/assets/img/cars/byd/car14/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car14/cabin/1.jpg",
+                    "/assets/img/cars/byd/car14/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(225 163 178)",
+              "images": [
+                "/assets/img/cars/byd/car14/carcase/3.png",
+                "/assets/img/cars/byd/car14/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car14/cabin/1.jpg",
+                    "/assets/img/cars/byd/car14/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленный",
+              "color": "rgb(197 221 162)",
+              "images": [
+                "/assets/img/cars/byd/car14/carcase/4.png",
+                "/assets/img/cars/byd/car14/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car14/cabin/1.jpg",
+                    "/assets/img/cars/byd/car14/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "YUAN UP PLUS",
+          "img": "/assets/img/cars/byd/car15/byd.jpg",
+          "docs": "/assets/docs/byd_yuan_plus.xlsx",
+          "hover": "/assets/img/cars/byd/car15/byd-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 510 km Leading type"
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 430 km Transcendental",
+              "linkSubmit": 150
+              
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 430 km Leading type",
+              "linkSubmit": 150
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 510 km Transcendental"
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 510 km Excellent"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Синий",
+              "color": "rgb(104 158 213)",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/1.png",
+                "/assets/img/cars/byd/car15/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/2.png",
+                "/assets/img/cars/byd/car15/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Синий",
+              "color": "rgb(9 110 173)",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/3.png",
+                "/assets/img/cars/byd/car15/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленный",
+              "color": "rgb(144 164 129)",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/4.png",
+                "/assets/img/cars/byd/car15/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(121 127 140)",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/5.png",
+                "/assets/img/cars/byd/car15/carcase/5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Фиолетовый",
+              "color": "rgb(126 128 202)",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/6.png",
+                "/assets/img/cars/byd/car15/carcase/6.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car15/carcase/7.png",
+                "/assets/img/cars/byd/car15/carcase/7.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 150,
+          "name": "YUAN UP PLUS 430km",
+          "docs": "/assets/docs/byd_yuan_plus.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 430 km Transcendental"
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 510 km Leading type",
+              "linkSubmit": 15
+            },           
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 430 km Leading type"
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 510 km Transcendental",
+              "linkSubmit": 15
+            },
+            {
+              "id": 0,
+              "name": "BYD Yuan UP PLUS 510 km Excellent",
+              "linkSubmit": 15
+            }
+          ],
+          "colors": [
+            {
+              "name": "Синий",
+              "color": "rgb(104 158 213)",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/4.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/1.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Синий",
+              "color": "rgb(9 110 173)",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/5.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленный",
+              "color": "rgb(144 164 129)",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/3.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(121 127 140)",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/2.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Фиолетовый",
+              "color": "rgb(126 128 202)",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/7.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/7.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car15/ver2/carcase/6.png",
+                "/assets/img/cars/byd/car15/ver2/carcase/6.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car15/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car15/ver2/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": 300,
           "name": "Song Plus",
           "img": "/assets/img/cars/byd/songplus.jpeg",
@@ -8832,6 +9344,7 @@
           "name": "Xiaomi Su7",
           "img": "/assets/img/cars/xiaomi/car1/xiaomi.jpg",
           "hover": "/assets/img/cars/xiaomi/car1/xiaomi-hover.jpg",
+          "docs": "/assets/docs/Xiaomi.xlsx",
           "options": [
             {
               "name": "Холодильник 4.6 литра",
@@ -9510,6 +10023,7 @@
         {
           "id": 100,
           "name": "Xiaomi Su7 800km Max",
+          "docs": "/assets/docs/Xiaomi.xlsx",
           "img": "/assets/img/cars/xiaomi/car1/xiaomi.jpg",
           "hover": "/assets/img/cars/xiaomi/car1/xiaomi-hover.jpg",
           "options": [
@@ -10361,6 +10875,7 @@
         },
         {
           "id": 101,
+          "docs": "/assets/docs/Xiaomi.xlsx",
           "name": "Xiaomi Su7 800km Pro",
           "img": "/assets/img/cars/xiaomi/car1/xiaomi.jpg",
           "hover": "/assets/img/cars/xiaomi/car1/xiaomi-hover.jpg",
