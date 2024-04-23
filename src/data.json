@@ -2665,33 +2665,33 @@
         },
         {
           "id": 15,
-          "name": "YUAN UP PLUS",
+          "name": "Yuan Plus",
           "img": "/assets/img/cars/byd/car15/byd.jpg",
           "docs": "/assets/docs/byd_yuan_plus.xlsx",
           "hover": "/assets/img/cars/byd/car15/byd-hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 510 km Leading type"
+              "name": "BYD Yuan Plus 510 km Leading type"
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 430 km Transcendental",
+              "name": "BYD Yuan Plus 430 km Transcendental",
               "linkSubmit": 150
               
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 430 km Leading type",
+              "name": "BYD Yuan Plus 430 km Leading type",
               "linkSubmit": 150
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 510 km Transcendental"
+              "name": "BYD Yuan Plus 510 km Transcendental"
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 510 km Excellent"
+              "name": "BYD Yuan Plus 510 km Excellent"
             }
           ],
           "colors": [
@@ -2825,30 +2825,30 @@
         },
         {
           "id": 150,
-          "name": "YUAN UP PLUS 430km",
+          "name": "Yuan Plus 430km",
           "docs": "/assets/docs/byd_yuan_plus.xlsx",
           "collection": [
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 430 km Transcendental"
+              "name": "BYD Yuan Plus 430 km Transcendental"
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 510 km Leading type",
+              "name": "BYD Yuan Plus 510 km Leading type",
               "linkSubmit": 15
             },           
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 430 km Leading type"
+              "name": "BYD Yuan Plus 430 km Leading type"
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 510 km Transcendental",
+              "name": "BYD Yuan Plus 510 km Transcendental",
               "linkSubmit": 15
             },
             {
               "id": 0,
-              "name": "BYD Yuan UP PLUS 510 km Excellent",
+              "name": "BYD Yuan Plus 510 km Excellent",
               "linkSubmit": 15
             }
           ],
