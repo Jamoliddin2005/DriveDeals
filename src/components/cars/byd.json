@@ -37,6 +37,20 @@
           "name": "Qin plus",
           "img": "/assets/img/cars/byd/qin-hover.jpg",
           "hover": "/assets/img/cars/byd/qin.png"
+        },
+        {
+          "id": 305,
+          "name": "DM-i",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "img": "/assets/img/cars/byd/dmi.jpg",
+          "hover": "/assets/img/cars/byd/dmi2.jpg"
+        },
+        {
+          "id": 306,
+          "name": "Han EV",
+          "img": "/assets/img/cars/byd/car13/byd.jpg",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "hover": "/assets/img/cars/byd/car13/byd-hover.jpg"
         }
       ]
     }

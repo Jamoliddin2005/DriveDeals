@@ -1575,6 +1575,248 @@
           ]
         },
         {
+          "id": 305,
+          "name": "DM-i",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "img": "/assets/img/cars/byd/dmi.jpg",
+          "hover": "/assets/img/cars/byd/dmi2.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "DM-i 1.5 L 121 km Elite"
+            },
+            {
+              "id": 1,
+              "name": "DM-i 1.5 L 121 km Deluxe"
+            },
+            {
+              "id": 2,
+              "name": "DM-i 1.5 L 121 km Prestige"
+            },
+            {
+              "id": 3,
+              "name": "DM-i 1.5 T 121 km Honor"
+            },
+            {
+              "id": 4,
+              "name": "DM-i 1.5 T 121 km Flagship"
+            },
+            {
+              "id": 4,
+              "name": "DM-i 1.5 T 200 km Flagship"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Молочный",
+              "color": "rgb(209 198 168)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm11.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm11.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(76 89 119)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm12.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm12.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "rgb(26 35 42)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm13.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm13.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm14.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm14.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(121 149 173)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm15.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm15.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(110 69 75)",
+              "images": [
+                "/assets/img/cars/byd/car10/carcase/Rasm16.png",
+                "/assets/img/cars/byd/car10/carcase/Rasm16.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Голубой",
+                  "color": "rgb(175 180 186)",
+                  "images": [
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
+                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 306,
+          "name": "Han EV",
+          "img": "/assets/img/cars/byd/car13/byd.jpg",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "hover": "/assets/img/cars/byd/car13/byd-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD HAN 506KM Prestige"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN 605KM Prestige"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN 715KM Flagship"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN 610KM AWD"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/1.jpg",
+                "/assets/img/cars/byd/car13/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/2.jpg",
+                "/assets/img/cars/byd/car13/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/3.jpg",
+                "/assets/img/cars/byd/car13/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/4.jpg",
+                "/assets/img/cars/byd/car13/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": 6,
           "name": "Song L",
           "img": "/assets/img/cars/byd/songl.jpg",
@@ -2134,248 +2376,6 @@
                   "images": [
                     "/assets/img/cars/byd/car11/cabin/Rasm30.jpg",
                     "/assets/img/cars/byd/car11/cabin/Rasm30.jpg"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 11,
-          "name": "DM-i",
-          "docs": "/assets/docs/byd_han.xlsx",
-          "img": "/assets/img/cars/byd/dmi.jpg",
-          "hover": "/assets/img/cars/byd/dmi2.jpg",
-          "collection": [
-            {
-              "id": 0,
-              "name": "DM-i 1.5 L 121 km Elite"
-            },
-            {
-              "id": 1,
-              "name": "DM-i 1.5 L 121 km Deluxe"
-            },
-            {
-              "id": 2,
-              "name": "DM-i 1.5 L 121 km Prestige"
-            },
-            {
-              "id": 3,
-              "name": "DM-i 1.5 T 121 km Honor"
-            },
-            {
-              "id": 4,
-              "name": "DM-i 1.5 T 121 km Flagship"
-            },
-            {
-              "id": 4,
-              "name": "DM-i 1.5 T 200 km Flagship"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Молочный",
-              "color": "rgb(209 198 168)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm11.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm11.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Синий",
-              "color": "rgb(76 89 119)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm12.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm12.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "rgb(26 35 42)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm13.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm13.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm14.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm14.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Голубой",
-              "color": "rgb(121 149 173)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm15.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm15.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Розовый",
-              "color": "rgb(110 69 75)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm16.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm16.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 13,
-          "name": "Han EV",
-          "img": "/assets/img/cars/byd/car13/byd.jpg",
-          "docs": "/assets/docs/byd_han_ev.xlsx",
-          "hover": "/assets/img/cars/byd/car13/byd-hover.jpg",
-          "collection": [
-            {
-              "id": 0,
-              "name": "BYD HAN 506KM Prestige"
-            },
-            {
-              "id": 0,
-              "name": "BYD HAN 605KM Prestige"
-            },
-            {
-              "id": 0,
-              "name": "BYD HAN 715KM Flagship"
-            },
-            {
-              "id": 0,
-              "name": "BYD HAN 610KM AWD"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/byd/car13/carcase/1.jpg",
-                "/assets/img/cars/byd/car13/carcase/1.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/byd/car13/cabin/1.jpg",
-                    "/assets/img/cars/byd/car13/cabin/1.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Синий",
-              "color": "rgb(77 119 167)",
-              "images": [
-                "/assets/img/cars/byd/car13/carcase/2.jpg",
-                "/assets/img/cars/byd/car13/carcase/2.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/byd/car13/cabin/1.jpg",
-                    "/assets/img/cars/byd/car13/cabin/1.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серый",
-              "color": "rgb(90 96 110)",
-              "images": [
-                "/assets/img/cars/byd/car13/carcase/3.jpg",
-                "/assets/img/cars/byd/car13/carcase/3.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/byd/car13/cabin/1.jpg",
-                    "/assets/img/cars/byd/car13/cabin/1.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/byd/car13/carcase/4.jpg",
-                "/assets/img/cars/byd/car13/carcase/4.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Белый",
-                  "color": "#fff",
-                  "images": [
-                    "/assets/img/cars/byd/car13/cabin/1.jpg",
-                    "/assets/img/cars/byd/car13/cabin/1.jpg"
                   ]
                 }
               ]
@@ -9146,7 +9146,6 @@
         }
       ]
     },
-
     {
       "id": 11,
       "name": "Xiaomi",
@@ -11378,7 +11377,6 @@
         }
       ]
     },
-
     {
       "id": 12,
       "name": "Geely-Galaxy",
@@ -12013,23 +12011,35 @@
           "collection": [
             {
               "id": 0,
-              "name": "PHEV Comfort 200"
+              "name": "Leapmotor C11 PHEV Smart 200"
             },
             {
               "id": 0,
-              "name": "PHEV Comfort 300"
+              "name": "Leapmotor C 11 PHEV Smart 300"
             },
             {
               "id": 0,
-              "name": "EV Comfort 500"
+              "name": "Leapmotor C 11 PHEV Exclusive 300"
             },
             {
               "id": 0,
-              "name": "EV Intelligent 500"
+              "name": "Leapmotor C 11 PHEV smart driving version 300"
             },
             {
               "id": 0,
-              "name": "EV Intelligent 650"
+              "name": "Leapmotor C 11 EV 515 Smart"
+            },
+            {
+              "id": 0,
+              "name": "Leapmotor C 11 EV 580 Exclusive"
+            },
+            {
+              "id": 0,
+              "name": "Leapmotor C 11 EV 580 smart driving version"
+            },
+            {
+              "id": 0,
+              "name": "Leapmotor C 11 EV 580 4WD smart driving version"
             }
           ],
           "colors": [
@@ -19871,6 +19881,3264 @@
                     "/assets/img/cars/bmw/car2/variant2/carcase/blue/6.png",
                     "/assets/img/cars/bmw/car2/variant2/carcase/blue/3-2.png",
                     "/assets/img/cars/bmw/car2/variant2/carcase/blue/1-2.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "BMW I5 eDrive Luxury",
+          "docs": "/assets/docs/bmwi5.xlsx",
+          "img": "/assets/img/cars/bmw/car3/bmw5.jpg",
+          "hover": "/assets/img/cars/bmw/car3/bmw5-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Luxury"
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive M sports",
+              "linkSubmit": 301
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive Luxury",
+              "linkSubmit": 302
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive M Sports",
+              "linkSubmit": 303
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/white/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/white/2.png",
+                "/assets/img/cars/bmw/car3/carcase/white/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/white/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/white/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/white/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/white/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/white/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/white/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/white/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Синий",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/2.png",
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(13 68 123)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/blue/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/blue/2.png",
+                "/assets/img/cars/bmw/car3/carcase/blue/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/blue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/blue/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/blue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/blue/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/blue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/blue/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/blue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 131 129)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/grey/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/grey/2.png",
+                "/assets/img/cars/bmw/car3/carcase/grey/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/grey/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/grey/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/grey/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/grey/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/grey/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/grey/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/grey/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Синий",
+              "color": "rgb(127 136 161)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/apostle/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/apostle/2.png",
+                "/assets/img/cars/bmw/car3/carcase/apostle/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/apostle/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/apostle/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/apostle/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/apostle/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/apostle/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/apostle/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/apostle/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(179 15 20)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/red/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/red/2.png",
+                "/assets/img/cars/bmw/car3/carcase/red/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/red/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/red/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/red/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/red/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/red/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/red/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/red/3-3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 301,
+          "name": "BMW I5 eDrive M sports",
+          "docs": "/assets/docs/bmwi5.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive M sports"
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Luxury",
+              "linkSubmit": 3
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive Luxury",
+              "linkSubmit": 302
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive M Sports",
+              "linkSubmit": 303
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка M темно-серебристая цвета сс добавлением матового алюминия",
+                        "color": "rgb(114 109 109)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева с эффектом плавной золотой линии",
+                        "color": "rgb(77 77 75)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка M темно-серебристая цвета сс добавлением матового алюминия",
+                        "color": "rgb(114 109 109)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева с эффектом плавной золотой линии",
+                        "color": "rgb(77 77 75)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка M темно-серебристая цвета сс добавлением матового алюминия",
+                        "color": "rgb(114 109 109)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева с эффектом плавной золотой линии",
+                        "color": "rgb(77 77 75)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, спицы 936, черно-серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 939, черно-серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Синий",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(13 68 123)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 131 129)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Синий",
+              "color": "rgb(127 136 161)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(179 15 20)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza",
+                  "color": "rgb(110 71 71)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-коричневый из кожи Veganza",
+                  "color": "rgb(90 78 63)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver1/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png",
+                          "/assets/img/cars/bmw/car3/ver1/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/3-3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "name": "BMW I5 eDrive Exclusive Luxury",
+          "docs": "/assets/docs/bmwi5.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive Luxury"
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive M sports",
+              "linkSubmit": 301
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Luxury",
+              "linkSubmit": 3
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive M Sports",
+              "linkSubmit": 303
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/white/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/white/2.png",
+                "/assets/img/cars/bmw/car3/carcase/white/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/white/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/white/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/white/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/white/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/white/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/white/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/white/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Синий",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/2.png",
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/darkBlue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/darkBlue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(13 68 123)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/blue/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/blue/2.png",
+                "/assets/img/cars/bmw/car3/carcase/blue/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/blue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/blue/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/blue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/blue/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/blue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/blue/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/blue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 131 129)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/grey/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/grey/2.png",
+                "/assets/img/cars/bmw/car3/carcase/grey/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/grey/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/grey/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/grey/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/grey/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/grey/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/grey/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/grey/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Синий",
+              "color": "rgb(127 136 161)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/apostle/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/apostle/2.png",
+                "/assets/img/cars/bmw/car3/carcase/apostle/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/apostle/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/apostle/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/apostle/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/apostle/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/apostle/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/apostle/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/apostle/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(179 15 20)",
+              "images": [
+                "/assets/img/cars/bmw/car3/carcase/red/1-1.png",
+                "/assets/img/cars/bmw/car3/carcase/red/2.png",
+                "/assets/img/cars/bmw/car3/carcase/red/2-1.png",
+                "/assets/img/cars/bmw/car3/carcase/red/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/red/2-1.png",
+                    "/assets/img/cars/bmw/car3/carcase/red/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/red/2-2.png",
+                    "/assets/img/cars/bmw/car3/carcase/red/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/carcase/red/2-3.png",
+                    "/assets/img/cars/bmw/car3/carcase/red/3-3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "name": "BMW I5 eDrive Exclusive M Sports",
+          "docs": "/assets/docs/bmwi5.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive M Sports"
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Exclusive Luxury",
+              "linkSubmit": 302
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive M sports",
+              "linkSubmit": 301
+            },
+            {
+              "id": 0,
+              "name": "BMW I5 eDrive Luxury",
+              "linkSubmit": 3
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/white/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, спицы 936, черно-серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 939, черно-серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/white/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Темно-Синий",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/darkBlue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(13 68 123)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/blue/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/blue/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 131 129)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/grey/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/grey/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Светло-Синий",
+              "color": "rgb(127 136 161)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/apostle/3-3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(179 15 20)",
+              "images": [
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/1-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/2.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/2-1.png",
+                "/assets/img/cars/bmw/car3/ver1/carcase/red/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Медно-коричневый из кожи Veganza с добавлением серой строчки",
+                  "color": "rgb(119 96 77)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/1.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/2.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/3.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/4.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Бордовый из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(110 75 75)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/5.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/6.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/7.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/8.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Темно-синий из кожи Veganza  с добавлением черной строчки",
+                  "color": "rgb(82 120 137)",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver2/cabin/9.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/10.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/11.png",
+                    "/assets/img/cars/bmw/car3/ver2/cabin/12.png"
+                  ],
+                  "details": {
+                    "name": "Декоративные детали в салоне",
+                    "options": [
+                      {
+                        "name": "Отделка из дерева дымчато-синего цвета",
+                        "color": "rgb(69 76 81)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/1.png",
+                          "/assets/img/cars/bmw/car3/deko/1.png"
+                        ]
+                      },
+                      {
+                        "name": "Отделка из светлого дерева",
+                        "color": "rgb(141 132 121)",
+                        "images": [
+                          "/assets/img/cars/bmw/car3/deko/2.png",
+                          "/assets/img/cars/bmw/car3/deko/2.png"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, двухцветные серые",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/2-1.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/3-1.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые аэродинамические диски, спицы 937, серебристого цвета  - за доп.плату",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/2-2.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/3-2.png"
+                  ]
+                },
+                {
+                  "name": "19-дюймовые аэродинамические диски, 934 спицы, цвет Titan Gold",
+                  "img": "/assets/img/cars/bmw/car3/ver1/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/2-3.png",
+                    "/assets/img/cars/bmw/car3/ver1/carcase/red/3-3.png"
                   ]
                 }
               ]
