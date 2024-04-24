@@ -48,10 +48,8 @@ function Contact({ GetUrl }) {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                    {" "}
+                  <a href="https://t.me/DD_BHLX">
                     <span>
-                      {" "}
                       <img src="/assets/icons/telegram.png" alt="" />
                     </span>
                     Telegram

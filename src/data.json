@@ -2284,192 +2284,6 @@
           ]
         },
         {
-          "id": 12,
-          "name": "Champion edition",
-          "img": "/assets/img/cars/byd/champ.jpg",
-          "hover": "/assets/img/cars/byd/champ2.jpg",
-          "collection": [
-            {
-              "id": 0,
-              "name": "Champion Edition 550 km Elite"
-            },
-            {
-              "id": 1,
-              "name": "Champion Edition 550 km Prestige"
-            },
-            {
-              "id": 2,
-              "name": "Champion Edition 700 km Prestige"
-            },
-            {
-              "id": 3,
-              "name": "Champion Edition 700 km Performance"
-            },
-            {
-              "id": 4,
-              "name": "Champion Edition 650 km Performance 4WD"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Серый (за доп.плату)",
-              "color": "rgb(162 169 165)",
-              "images": [
-                "/assets/img/cars/byd/car12/carcase/Rasm1.jpg",
-                "/assets/img/cars/byd/car12/carcase/Rasm1.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(104 123 143)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
-                  ]
-                },
-                {
-                  "name": "Голубой",
-                  "color": "rgb(44 56 66)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Синий",
-              "color": "rgb(135 156 173)",
-              "images": [
-                "/assets/img/cars/byd/car12/carcase/Rasm2.jpg",
-                "/assets/img/cars/byd/car12/carcase/Rasm2.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(104 123 143)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
-                  ]
-                },
-                {
-                  "name": "Голубой",
-                  "color": "rgb(44 56 66)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/byd/car12/carcase/Rasm3.jpg",
-                "/assets/img/cars/byd/car12/carcase/Rasm3.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(104 123 143)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
-                  ]
-                },
-                {
-                  "name": "Голубой",
-                  "color": "rgb(44 56 66)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/byd/car12/carcase/Rasm4.jpg",
-                "/assets/img/cars/byd/car12/carcase/Rasm4.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(104 123 143)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
-                  ]
-                },
-                {
-                  "name": "Голубой",
-                  "color": "rgb(44 56 66)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Голубой",
-              "color": "rgb(156 173 191)",
-              "images": [
-                "/assets/img/cars/byd/car12/carcase/Rasm5.jpg",
-                "/assets/img/cars/byd/car12/carcase/Rasm5.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(104 123 143)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
-                  ]
-                },
-                {
-                  "name": "Голубой",
-                  "color": "rgb(44 56 66)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серебро (за доп.плату)",
-              "color": "rgb(209 211 213)",
-              "images": [
-                "/assets/img/cars/byd/car12/carcase/Rasm6.jpg",
-                "/assets/img/cars/byd/car12/carcase/Rasm6.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый",
-                  "color": "rgb(104 123 143)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm7.jpg"
-                  ]
-                },
-                {
-                  "name": "Голубой",
-                  "color": "rgb(44 56 66)",
-                  "images": [
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg",
-                    "/assets/img/cars/byd/car12/cabin/Rasm8.jpg"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": 13,
           "name": "Han EV",
           "img": "/assets/img/cars/byd/car13/byd.jpg",
@@ -2678,7 +2492,6 @@
               "id": 0,
               "name": "BYD Yuan Plus 430 km Transcendental",
               "linkSubmit": 150
-              
             },
             {
               "id": 0,
@@ -2836,7 +2649,7 @@
               "id": 0,
               "name": "BYD Yuan Plus 510 km Leading type",
               "linkSubmit": 15
-            },           
+            },
             {
               "id": 0,
               "name": "BYD Yuan Plus 430 km Leading type"
@@ -9064,7 +8877,7 @@
       "cars": [
         {
           "id": 0,
-          "name": "Arcfox",
+          "name": "Buick E4",
           "docs": "/assets/docs/buick.xlsx",
           "img": "/assets/img/cars/buick/car1/buick.jpg",
           "hover": "/assets/img/cars/buick/car1/buick-hover.jpg",
@@ -9190,7 +9003,7 @@
               ],
               "wheels": [
                 {
-                  "name": " R22",
+                  "name": "R22 Черные спортивные кованые диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/3-6.png",
@@ -9198,7 +9011,7 @@
                   ]
                 },
                 {
-                  "name": "R22",
+                  "name": "R22 Серебряные кованные диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/3-7.png",
@@ -9206,7 +9019,7 @@
                   ]
                 },
                 {
-                  "name": "R22 ",
+                  "name": "R20 Черные спортивные кованые диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/3-8.png",
@@ -9247,7 +9060,7 @@
               ],
               "wheels": [
                 {
-                  "name": " R22",
+                  "name": "R22 Черные спортивные кованые диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/2-6.png",
@@ -9255,7 +9068,7 @@
                   ]
                 },
                 {
-                  "name": "R22 ",
+                  "name": "R20 Черные спортивные кованые диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/2-7.png",
@@ -9263,7 +9076,7 @@
                   ]
                 },
                 {
-                  "name": "R22",
+                  "name": "R22 Серебряные кованные диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/2-8.png",
@@ -9304,7 +9117,7 @@
               ],
               "wheels": [
                 {
-                  "name": " R22",
+                  "name": "R22 Черные спортивные кованые диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-1.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/1-6.png",
@@ -9312,7 +9125,7 @@
                   ]
                 },
                 {
-                  "name": "R22",
+                  "name": "R22 Серебряные кованные диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-2.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/1-7.png",
@@ -9320,7 +9133,7 @@
                   ]
                 },
                 {
-                  "name": "R22 ",
+                  "name": "R20 Черные спортивные кованые диски",
                   "img": "/assets/img/cars/U8/car1/wheel/logo-3.png",
                   "images": [
                     "/assets/img/cars/U8/car1/wheel/1-8.png",
@@ -9333,6 +9146,7 @@
         }
       ]
     },
+
     {
       "id": 11,
       "name": "Xiaomi",
