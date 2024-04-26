@@ -17,12 +17,14 @@ function CategoryCar({ GetUrl }) {
   const getCategoryCars = () => {
     if (location === "song-plus") {
       setCar(Car?.songPlus[0]);
-    }else if(location === "han"){
+    }
+    else if (location === "qin-plus") {
+      setCar(Car?.qinPlus[0]);
+    }
+     else if (location === "han") {
       setCar(Car?.han[0]);
     }
   };
-
-  console.log(car);
 
   useEffect(() => {
     getCategoryCars();

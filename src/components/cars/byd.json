@@ -28,20 +28,7 @@
       "catalog": [
         {
           "id": 303,
-          "name": "Han",
-          "img": "/assets/img/cars/byd/han.jpg",
-          "hover": "/assets/img/cars/byd/han-hover.webp"
-        },
-        {
-          "id": 304,
-          "name": "Qin plus",
-          "img": "/assets/img/cars/byd/qin-hover.jpg",
-          "hover": "/assets/img/cars/byd/qin.png"
-        },
-        {
-          "id": 305,
-          "name": "DM-i",
-          "docs": "/assets/docs/byd_han.xlsx",
+          "name": "HAN DM-i",
           "img": "/assets/img/cars/byd/dmi.jpg",
           "hover": "/assets/img/cars/byd/dmi2.jpg"
         },
@@ -51,6 +38,27 @@
           "img": "/assets/img/cars/byd/car13/byd.jpg",
           "docs": "/assets/docs/byd_han_ev.xlsx",
           "hover": "/assets/img/cars/byd/car13/byd-hover.jpg"
+        }
+      ]
+    }
+  ],
+  "qinPlus": [
+    {
+      "id": "qin-plus",
+      "name": "Qin Plus",
+      "logo": "/assets/img/byd.png",
+      "catalog": [
+        {
+          "id": 304,
+          "name": "BYD Qin Plus DM-i",
+          "img": "/assets/img/cars/byd/car6/qin-plus.jpg",
+          "hover": "/assets/img/cars/byd/car6/hover.jpg"
+        },
+        {
+          "id": 304,
+          "name": "BYD Qin Plus EV",
+          "img": "/assets/img/cars/byd/car6/ver2/qin-plus.jpg",
+          "hover": "/assets/img/cars/byd/car6/ver2/hover.jpg"
         }
       ]
     }

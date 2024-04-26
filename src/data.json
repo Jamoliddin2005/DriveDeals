@@ -1300,220 +1300,107 @@
           "hover": "/assets/img/cars/byd/songplusev-hover.jpg"
         },
         {
-          "id": "han",
-          "name": "Han",
-          "img": "/assets/img/cars/byd/han.jpg",
-          "docs": "/assets/docs/byd_han.xlsx",
-          "hover": "/assets/img/cars/byd/han-hover.webp"
+          "id": "qin-plus",
+          "name": "Qin plus",
+          "img": "/assets/img/cars/byd/qin-hover.jpg",
+          "docs": "/assets/docs/song_plus_ev.xlsx",
+          "hover": "/assets/img/cars/byd/qin.png"
         },
         {
-          "id": 303,
-          "name": "Han",
-          "img": "/assets/img/cars/byd/han.jpg",
-          "docs": "/assets/docs/byd_han.xlsx",
-          "hover": "/assets/img/cars/byd/han-hover.webp",
+          "id": 304,
+          "name": "BYD QIN PLUS DM-i",
+          "docs": "/assets/docs/byd_qin_plus.xlsx",
           "collection": [
             {
               "id": 0,
-              "name": "Champion Edition DM-i  121 km Elite"
+              "name": "BYD Qin plus DM-i 55km Leading"
             },
             {
               "id": 1,
-              "name": "Champion Edition DM-i  121 km Prestige"
+              "name": "BYD Qin plus DM-i 55km transcendental"
             },
             {
               "id": 2,
-              "name": "Champion Edition DM-i  121 km Honor"
+              "name": "BYD Qin plus DM-i 120km Leading"
             },
             {
               "id": 3,
-              "name": "Champion Edition DM-i  121 km Premium"
+              "name": "BYD Qin plus DM-i 120km transcendental"
             },
             {
               "id": 4,
-              "name": "Champion Edition DM-i 200 km Premium"
-            },
-            {
-              "id": 5,
-              "name": "Champion Edition DM-i 200 km Flagman"
-            },
-            {
-              "id": 6,
-              "name": "DM-p  God of War Edition"
+              "name": "BYD Qin plus DM-i 120KM Excellent"
             }
           ],
           "colors": [
             {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car6/carcase/1.png",
+                "/assets/img/cars/byd/car6/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
+                  "images": [
+                    "/assets/img/cars/byd/car6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Серый",
-              "color": "#A9A9A9",
+              "color": "rgb(123 136 149)",
               "images": [
-                "/assets/img/cars/byd/car5/carcase/Rasm31.jpg",
-                "/assets/img/cars/byd/car5/carcase/Rasm31.jpg"
+                "/assets/img/cars/byd/car6/carcase/2.png",
+                "/assets/img/cars/byd/car6/carcase/2.png"
               ],
               "cabins": [
                 {
-                  "name": "Бежевый",
-                  "color": "rgb(114 65 65)",
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Серебро",
-              "color": "#c0c0c0",
-              "images": [
-                "/assets/img/cars/byd/car5/carcase/Rasm32.jpg",
-                "/assets/img/cars/byd/car5/carcase/Rasm32.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "rgb(114 65 65)",
-                  "images": [
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "#000",
-              "images": [
-                "/assets/img/cars/byd/car5/carcase/Rasm33.jpg",
-                "/assets/img/cars/byd/car5/carcase/Rasm33.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "rgb(114 65 65)",
-                  "images": [
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
+                    "/assets/img/cars/byd/car6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/cabin/1.jpg"
                   ]
                 }
               ]
             },
             {
               "name": "Голубой",
-              "color": "#00BFFF",
+              "color": "rgb(108 132 164)",
               "images": [
-                "/assets/img/cars/byd/car5/carcase/Rasm34.jpg",
-                "/assets/img/cars/byd/car5/carcase/Rasm34.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "rgb(114 65 65)",
-                  "images": [
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Красный",
-              "color": "red",
-              "images": [
-                "/assets/img/cars/byd/car5/carcase/Rasm35.jpg",
-                "/assets/img/cars/byd/car5/carcase/Rasm35.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "rgb(114 65 65)",
-                  "images": [
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Синий",
-              "color": "blue",
-              "images": [
-                "/assets/img/cars/byd/car5/carcase/Rasm36.jpg",
-                "/assets/img/cars/byd/car5/carcase/Rasm36.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Бежевый",
-                  "color": "rgb(114 65 65)",
-                  "images": [
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg",
-                    "/assets/img/cars/byd/car5/cabin/Rasm37.jpg"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 304,
-          "name": "Qin plus",
-          "img": "/assets/img/cars/byd/qin-hover.jpg",
-          "docs": "/assets/docs/byd_qin_plus.xlsx",
-          "hover": "/assets/img/cars/byd/qin.png",
-          "collection": [
-            {
-              "id": 0,
-              "name": "Champion Edition DM-i 55km Leading"
-            },
-            {
-              "id": 1,
-              "name": "Champion Edition DM-i 55km transcendental"
-            },
-            {
-              "id": 2,
-              "name": "Champion Edition DM-i 120km Leading"
-            },
-            {
-              "id": 3,
-              "name": "Champion Edition DM-i 120km transcendental"
-            },
-            {
-              "id": 4,
-              "name": "Champion Edition DM-i 120KM Excellent"
-            }
-          ],
-          "colors": [
-            {
-              "name": "Серый",
-              "color": "#A9A9A9",
-              "images": [
-                "/assets/img/cars/byd/car6/carcase/Rasm38.jpg",
-                "/assets/img/cars/byd/car6/carcase/Rasm38.jpg"
+                "/assets/img/cars/byd/car6/carcase/3.png",
+                "/assets/img/cars/byd/car6/carcase/3.png"
               ],
               "cabins": [
                 {
                   "name": "Беж+молочный",
                   "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                    "/assets/img/cars/byd/car6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/cabin/1.jpg"
                   ]
                 }
               ]
             },
             {
               "name": "Синий",
-              "color": "#4b6798",
+              "color": "rgb(41 74 115)",
               "images": [
-                "/assets/img/cars/byd/car6/carcase/Rasm39.jpg",
-                "/assets/img/cars/byd/car6/carcase/Rasm39.jpg"
+                "/assets/img/cars/byd/car6/carcase/4.png",
+                "/assets/img/cars/byd/car6/carcase/4.png"
               ],
               "cabins": [
                 {
                   "name": "Беж+молочный",
                   "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                    "/assets/img/cars/byd/car6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/cabin/1.jpg"
                   ]
                 }
               ]
@@ -1522,52 +1409,16 @@
               "name": "Черный",
               "color": "#000",
               "images": [
-                "/assets/img/cars/byd/car6/carcase/Rasm40.jpg",
-                "/assets/img/cars/byd/car6/carcase/Rasm40.jpg"
+                "/assets/img/cars/byd/car6/carcase/5.png",
+                "/assets/img/cars/byd/car6/carcase/5.png"
               ],
               "cabins": [
                 {
                   "name": "Беж+молочный",
                   "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Белый",
-              "color": "#fff",
-              "images": [
-                "/assets/img/cars/byd/car6/carcase/Rasm41.jpg",
-                "/assets/img/cars/byd/car6/carcase/Rasm41.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Беж+молочный",
-                  "color": "rgb(143 132 127)",
-                  "images": [
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Красный",
-              "color": "rgb(191 17 44)",
-              "images": [
-                "/assets/img/cars/byd/car6/carcase/Rasm42.jpg",
-                "/assets/img/cars/byd/car6/carcase/Rasm42.jpg"
-              ],
-              "cabins": [
-                {
-                  "name": "Беж+молочный",
-                  "color": "rgb(143 132 127)",
-                  "images": [
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg",
-                    "/assets/img/cars/byd/car6/cabin/Rasm43.jpg"
+                    "/assets/img/cars/byd/car6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/cabin/1.jpg"
                   ]
                 }
               ]
@@ -1576,141 +1427,117 @@
         },
         {
           "id": 305,
-          "name": "DM-i",
-          "docs": "/assets/docs/byd_han.xlsx",
-          "img": "/assets/img/cars/byd/dmi.jpg",
-          "hover": "/assets/img/cars/byd/dmi2.jpg",
+          "name": "BYD QIN PLUS EV",
+          "docs": "/assets/docs/byd_qin_plus_ev.xlsx",
           "collection": [
             {
               "id": 0,
-              "name": "DM-i 1.5 L 121 km Elite"
+              "name": "Byd Qin Plus EV 420km Leading"
             },
             {
               "id": 1,
-              "name": "DM-i 1.5 L 121 km Deluxe"
+              "name": "Byd Qin Plus EV 420km transcendental"
             },
             {
               "id": 2,
-              "name": "DM-i 1.5 L 121 km Prestige"
+              "name": "Byd Qin Plus EV 510km Leading"
             },
             {
               "id": 3,
-              "name": "DM-i 1.5 T 121 km Honor"
+              "name": "Byd Qin Plus EV 510km transcendental"
             },
             {
               "id": 4,
-              "name": "DM-i 1.5 T 121 km Flagship"
-            },
-            {
-              "id": 4,
-              "name": "DM-i 1.5 T 200 km Flagship"
+              "name": "Byd Qin Plus EV 510km Excellent"
             }
           ],
           "colors": [
             {
-              "name": "Молочный",
-              "color": "rgb(209 198 168)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm11.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm11.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Синий",
-              "color": "rgb(76 89 119)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm12.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm12.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Черный",
-              "color": "rgb(26 35 42)",
-              "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm13.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm13.png"
-              ],
-              "cabins": [
-                {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
-                  "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Белый",
               "color": "#fff",
               "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm14.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm14.png"
+                "/assets/img/cars/byd/car6/ver2/carcase/1.jpg",
+                "/assets/img/cars/byd/car6/ver2/carcase/1.jpg"
               ],
               "cabins": [
                 {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(123 136 149)",
+              "images": [
+                "/assets/img/cars/byd/car6/ver2/carcase/2.jpg",
+                "/assets/img/cars/byd/car6/ver2/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
+                  "images": [
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg"
                   ]
                 }
               ]
             },
             {
               "name": "Голубой",
-              "color": "rgb(121 149 173)",
+              "color": "rgb(108 132 164)",
               "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm15.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm15.png"
+                "/assets/img/cars/byd/car6/ver2/carcase/3.jpg",
+                "/assets/img/cars/byd/car6/ver2/carcase/3.jpg"
               ],
               "cabins": [
                 {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg"
                   ]
                 }
               ]
             },
             {
-              "name": "Розовый",
-              "color": "rgb(110 69 75)",
+              "name": "Синий",
+              "color": "rgb(41 74 115)",
               "images": [
-                "/assets/img/cars/byd/car10/carcase/Rasm16.png",
-                "/assets/img/cars/byd/car10/carcase/Rasm16.png"
+                "/assets/img/cars/byd/car6/ver2/carcase/4.jpg",
+                "/assets/img/cars/byd/car6/ver2/carcase/4.jpg"
               ],
               "cabins": [
                 {
-                  "name": "Серый+Голубой",
-                  "color": "rgb(175 180 186)",
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
                   "images": [
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg",
-                    "/assets/img/cars/byd/car10/cabin/Rasm17.jpg"
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car6/ver2/carcase/5.jpg",
+                "/assets/img/cars/byd/car6/ver2/carcase/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Беж+молочный",
+                  "color": "rgb(143 132 127)",
+                  "images": [
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car6/ver2/cabin/1.jpg"
                   ]
                 }
               ]
@@ -1718,27 +1545,48 @@
           ]
         },
         {
-          "id": 306,
-          "name": "Han EV",
-          "img": "/assets/img/cars/byd/car13/byd.jpg",
-          "docs": "/assets/docs/byd_han_ev.xlsx",
-          "hover": "/assets/img/cars/byd/car13/byd-hover.jpg",
+          "id": "han",
+          "name": "Han",
+          "img": "/assets/img/cars/byd/han.jpg",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "hover": "/assets/img/cars/byd/han-hover.webp"
+        },
+        {
+          "id": 303,
+          "name": "Champion Edition DM-i  121 km Elite",
+          "img": "/assets/img/cars/byd/han.jpg",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "hover": "/assets/img/cars/byd/han-hover.webp",
           "collection": [
             {
               "id": 0,
-              "name": "BYD HAN 506KM Prestige"
+              "name": "Champion Edition DM-i  121 km Elite",
+              "linkSubmit": 303
             },
             {
-              "id": 0,
-              "name": "BYD HAN 605KM Prestige"
+              "id": 1,
+              "name": "Champion Edition DM-i  121 km Prestige",
+              "linkSubmit": 401
             },
             {
-              "id": 0,
-              "name": "BYD HAN 715KM Flagship"
+              "id": 2,
+              "name": "Champion Edition DM-i  121 km Honor",
+              "linkSubmit": 402
             },
             {
-              "id": 0,
-              "name": "BYD HAN 610KM AWD"
+              "id": 2,
+              "name": "Champion Edition DM-i 121 km Exclusive",
+              "linkSubmit": 403
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 200KM Flagship",
+              "linkSubmit": 404
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i DM-p God of War",
+              "linkSubmit": 405
             }
           ],
           "colors": [
@@ -1746,13 +1594,676 @@
               "name": "Белый",
               "color": "#fff",
               "images": [
-                "/assets/img/cars/byd/car13/carcase/1.jpg",
-                "/assets/img/cars/byd/car13/carcase/1.jpg"
+                "/assets/img/cars/byd/car5/carcase/1.png",
+                "/assets/img/cars/byd/car5/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car5/carcase/2.png",
+                "/assets/img/cars/byd/car5/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car5/carcase/3.png",
+                "/assets/img/cars/byd/car5/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car5/carcase/4.png",
+                "/assets/img/cars/byd/car5/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 401,
+          "name": "Champion Edition DM-i  121 km Prestige",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "collection": [
+            {
+              "id": 1,
+              "name": "Champion Edition DM-i  121 km Prestige"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i  121 km Honor",
+              "linkSubmit": 402
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 121 km Exclusive",
+              "linkSubmit": 403
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 200KM Flagship",
+              "linkSubmit": 404
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i DM-p God of War",
+              "linkSubmit": 405
+            },
+            {
+              "id": 0,
+              "name": "Champion Edition DM-i  121 km Elite",
+              "linkSubmit": 303
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car5/ver2/carcase/1.png",
+                "/assets/img/cars/byd/car5/ver2/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver2/carcase/2.png",
+                "/assets/img/cars/byd/car5/ver2/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver2/carcase/3.png",
+                "/assets/img/cars/byd/car5/ver2/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car5/ver2/carcase/4.png",
+                "/assets/img/cars/byd/car5/ver2/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "name": "Champion Edition DM-i  121 km Honor",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "collection": [
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i  121 km Honor"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 121 km Exclusive",
+              "linkSubmit": 403
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 200KM Flagship",
+              "linkSubmit": 404
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i DM-p God of War",
+              "linkSubmit": 405
+            },
+            {
+              "id": 0,
+              "name": "Champion Edition DM-i  121 km Elite",
+              "linkSubmit": 303
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition DM-i  121 km Prestige",
+              "linkSubmit": 401
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car5/ver3/carcase/1.png",
+                "/assets/img/cars/byd/car5/ver3/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver3/carcase/2.png",
+                "/assets/img/cars/byd/car5/ver3/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver3/carcase/3.png",
+                "/assets/img/cars/byd/car5/ver3/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car5/ver3/carcase/4.png",
+                "/assets/img/cars/byd/car5/ver3/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "name": "Champion Edition DM-i 121 km Exclusive",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "collection": [
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 121 km Exclusive"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 200KM Flagship",
+              "linkSubmit": 404
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i DM-p God of War",
+              "linkSubmit": 405
+            },
+            {
+              "id": 0,
+              "name": "Champion Edition DM-i  121 km Elite",
+              "linkSubmit": 303
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition DM-i  121 km Prestige",
+              "linkSubmit": 401
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i  121 km Honor",
+              "linkSubmit": 402
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car5/ver4/carcase/1.png",
+                "/assets/img/cars/byd/car5/ver4/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver4/carcase/2.png",
+                "/assets/img/cars/byd/car5/ver4/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver4/carcase/3.png",
+                "/assets/img/cars/byd/car5/ver4/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car5/ver4/carcase/4.png",
+                "/assets/img/cars/byd/car5/ver4/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Мокко (Коричневый)",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver4/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg",
+                    "/assets/img/cars/byd/car5/ver3/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 404,
+          "name": "Champion Edition DM-i 200KM Flagship",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "collection": [
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 200KM Flagship"
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i DM-p God of War",
+              "linkSubmit": 405
+            },
+            {
+              "id": 0,
+              "name": "Champion Edition DM-i  121 km Elite",
+              "linkSubmit": 303
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition DM-i  121 km Prestige",
+              "linkSubmit": 401
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i  121 km Honor",
+              "linkSubmit": 402
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 121 km Exclusive",
+              "linkSubmit": 403
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car5/ver5/carcase/1.png",
+                "/assets/img/cars/byd/car5/ver5/carcase/1.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver5/carcase/2.png",
+                "/assets/img/cars/byd/car5/ver5/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car5/ver5/carcase/3.png",
+                "/assets/img/cars/byd/car5/ver5/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car5/ver5/carcase/4.png",
+                "/assets/img/cars/byd/car5/ver5/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "name": "Champion Edition DM-i DM-p God of War",
+          "docs": "/assets/docs/byd_han.xlsx",
+          "collection": [
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i DM-p God of War"
+            },
+            {
+              "id": 0,
+              "name": "Champion Edition DM-i  121 km Elite",
+              "linkSubmit": 303
+            },
+            {
+              "id": 1,
+              "name": "Champion Edition DM-i  121 km Prestige",
+              "linkSubmit": 401
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i  121 km Honor",
+              "linkSubmit": 402
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 121 km Exclusive",
+              "linkSubmit": 403
+            },
+            {
+              "id": 2,
+              "name": "Champion Edition DM-i 200KM Flagship",
+              "linkSubmit": 404
+            }
+          ],
+          "colors": [
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car5/ver6/carcase/1.png",
+                "/assets/img/cars/byd/car5/ver6/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/byd/car5/ver6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car5/ver6/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "id": 306,
+          "name": "BYD HAN EV 506KM Prestige",
+          "img": "/assets/img/cars/byd/car13/byd.jpg",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "hover": "/assets/img/cars/byd/car13/byd-hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD HAN EV 605KM Prestige"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 506KM Prestige",
+              "linkSubmit": 307
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 715KM Flagship",
+              "linkSubmit": 308
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 610KM AWD",
+              "linkSubmit": 309
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car13/carcase/1.png",
+                "/assets/img/cars/byd/car13/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(133 113 102)",
                   "images": [
                     "/assets/img/cars/byd/car13/cabin/1.jpg",
                     "/assets/img/cars/byd/car13/cabin/1.jpg"
@@ -1761,16 +2272,16 @@
               ]
             },
             {
-              "name": "Синий",
+              "name": "Голубой",
               "color": "rgb(77 119 167)",
               "images": [
-                "/assets/img/cars/byd/car13/carcase/2.jpg",
-                "/assets/img/cars/byd/car13/carcase/2.jpg"
+                "/assets/img/cars/byd/car13/carcase/2.png",
+                "/assets/img/cars/byd/car13/carcase/2.png"
               ],
               "cabins": [
                 {
-                  "name": "Белый",
-                  "color": "#fff",
+                  "name": "Коричневый",
+                  "color": "rgb(133 113 102)",
                   "images": [
                     "/assets/img/cars/byd/car13/cabin/1.jpg",
                     "/assets/img/cars/byd/car13/cabin/1.jpg"
@@ -1782,13 +2293,13 @@
               "name": "Серый",
               "color": "rgb(90 96 110)",
               "images": [
-                "/assets/img/cars/byd/car13/carcase/3.jpg",
-                "/assets/img/cars/byd/car13/carcase/3.jpg"
+                "/assets/img/cars/byd/car13/carcase/3.png",
+                "/assets/img/cars/byd/car13/carcase/3.png"
               ],
               "cabins": [
                 {
-                  "name": "Белый",
-                  "color": "#fff",
+                  "name": "Коричневый",
+                  "color": "rgb(133 113 102)",
                   "images": [
                     "/assets/img/cars/byd/car13/cabin/1.jpg",
                     "/assets/img/cars/byd/car13/cabin/1.jpg"
@@ -1800,16 +2311,334 @@
               "name": "Черный",
               "color": "#000",
               "images": [
-                "/assets/img/cars/byd/car13/carcase/4.jpg",
-                "/assets/img/cars/byd/car13/carcase/4.jpg"
+                "/assets/img/cars/byd/car13/carcase/4.png",
+                "/assets/img/cars/byd/car13/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(133 113 102)",
+                  "images": [
+                    "/assets/img/cars/byd/car13/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "name": "BYD HAN EV 605KM Prestige",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD HAN EV 506KM Prestige"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 605KM Prestige",
+              "linkSubmit": 306
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 715KM Flagship",
+              "linkSubmit": 308
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 610KM AWD",
+              "linkSubmit": 309
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car13/ver2/carcase/1.png",
+                "/assets/img/cars/byd/car13/ver2/carcase/1.png"
               ],
               "cabins": [
                 {
                   "name": "Белый",
                   "color": "#fff",
                   "images": [
-                    "/assets/img/cars/byd/car13/cabin/1.jpg",
-                    "/assets/img/cars/byd/car13/cabin/1.jpg"
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver2/carcase/2.png",
+                "/assets/img/cars/byd/car13/ver2/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver2/carcase/3.png",
+                "/assets/img/cars/byd/car13/ver2/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car13/ver2/carcase/4.png",
+                "/assets/img/cars/byd/car13/ver2/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Сиреневый - за доп.плату",
+              "color": "rgb(143 143 218)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver2/carcase/5.png",
+                "/assets/img/cars/byd/car13/ver2/carcase/5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 308,
+          "name": "BYD HAN EV 715KM Flagship",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD HAN EV 715KM Flagship"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 605KM Prestige",
+              "linkSubmit": 306
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 506KM Prestige",
+              "linkSubmit": 307
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 610KM AWD",
+              "linkSubmit": 309
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car13/ver3/carcase/1.png",
+                "/assets/img/cars/byd/car13/ver3/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(77 119 167)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver3/carcase/2.png",
+                "/assets/img/cars/byd/car13/ver3/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver3/carcase/3.png",
+                "/assets/img/cars/byd/car13/ver3/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car13/ver3/carcase/4.png",
+                "/assets/img/cars/byd/car13/ver3/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Сиреневый - за доп.плату",
+              "color": "rgb(143 143 218)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver3/carcase/5.png",
+                "/assets/img/cars/byd/car13/ver3/carcase/5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 309,
+          "name": "BYD HAN EV 610KM AWD",
+          "docs": "/assets/docs/byd_han_ev.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "BYD HAN EV 610KM AWD"
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 605KM Prestige",
+              "linkSubmit": 306
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 506KM Prestige",
+              "linkSubmit": 307
+            },
+            {
+              "id": 0,
+              "name": "BYD HAN EV 715KM Flagship",
+              "linkSubmit": 308
+            }
+          ],
+          "colors": [
+            {
+              "name": "Серый",
+              "color": "rgb(90 96 110)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver4/carcase/3.png",
+                "/assets/img/cars/byd/car13/ver4/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car13/ver4/carcase/4.png",
+                "/assets/img/cars/byd/car13/ver4/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Сиреневый - за доп.плату",
+              "color": "rgb(143 143 218)",
+              "images": [
+                "/assets/img/cars/byd/car13/ver4/carcase/5.png",
+                "/assets/img/cars/byd/car13/ver4/carcase/5.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car13/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car13/ver4/cabin/1.jpg"
                   ]
                 }
               ]
@@ -7891,9 +8720,930 @@
           "img": "/assets/img/cars/lixiang/mega.jpg",
           "hover": "/assets/img/cars/lixiang/mega.jpg",
           "mega": true
+        },
+        {
+          "id": 4,
+          "name": "Li Xiang L6 Max",
+          "img": "/assets/img/cars/lixiang/car1/car_ver_4/1.jpg",
+          "hover": "/assets/img/cars/lixiang/car1/car_ver_4/2.jpg",
+          "docs": "/assets/docs/lixiangL6.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Lixiang L6 Max"
+            },
+            {
+              "id": 0,
+              "name": "Lixiang L6 PRO",
+              "linkSubmit": 401
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/white/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(67 151 117)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/green/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "rgb(158 158 158)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/silver/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(100 100 100)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/grey/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Цвет слоновой кожи (Спец.цвет - серо-бежевый)",
+              "color": "rgb(201 196 193)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/1.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/2.jpg",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Серо-бежевый",
+                  "color": "rgb(201, 196, 193)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/4.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/6.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/4.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/3.jpg"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/24.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/23.jpg"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/beige/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/carcase/black/33.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 401,
+          "name": "Li Xiang L6 PRO",
+          "img": "/assets/img/cars/lixiang/car1/car_ver_4/1.jpg",
+          "hover": "/assets/img/cars/lixiang/car1/car_ver_4/2.jpg",
+          "docs": "/assets/docs/lixiangL6.xlsx",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Lixiang L6 PRO"
+            },
+            {
+              "id": 0,
+              "name": "Lixiang L6 Max",
+              "linkSubmit": 4
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/white/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(67 151 117)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/green/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "rgb(158 158 158)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/silver/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(100 100 100)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/grey/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Цвет слоновой кожи (Спец.цвет - серо-бежевый)",
+              "color": "rgb(201 196 193)",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Серо-бежевый",
+                  "color": "rgb(201, 196, 193)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/4.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/6.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/beige/33.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/1.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/2.png",
+                "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/white/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(242 110 59)",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/red/3.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/1.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/2.jpg",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/cabin/black/3.jpg"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/4.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/3.png"
+                  ]
+                },
+                {
+                  "name": "20-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/2.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/14.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/13.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые серебристо-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/3.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/24.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/23.png"
+                  ]
+                },
+                {
+                  "name": "21-дюймовые черно-серые двухцветные диски",
+                  "img": "/assets/img/cars/lixiang/car1/car_ver_4/wheel/4.png",
+                  "images": [
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/34.png",
+                    "/assets/img/cars/lixiang/car1/car_ver_4/ver2/carcase/black/33.png"
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
+
     {
       "id": 7,
       "name": "voyah",

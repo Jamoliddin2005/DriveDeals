@@ -54,7 +54,8 @@ function Car({ GetUrl }) {
                   if (
                     element.id < 100 ||
                     element.id === "song-plus" ||
-                    element.id === "han"
+                    element.id === "han" ||
+                    element.id === "qin-plus"
                   ) {
                     return (
                       <div className={classes.category} key={element.id}>
@@ -67,7 +68,7 @@ function Car({ GetUrl }) {
                         <div className={classes.hover}>
                           <img src={element.hover} alt="" />
                         </div>
-                        {element.id === "song-plus" || element.id === "han" ? (
+                        {element.id === "song-plus" || element.id === "han" || element.id === "qin-plus" ? (
                           <Link to={`/byd/${element.id}`}>Узнать больше</Link>
                         ) : (
                           <Link
