@@ -28,6 +28,7 @@ function Car({ GetUrl }) {
     getCategoryCars();
   }, []);
 
+  
   return (
     <>
       {car?.name && (
@@ -68,7 +69,9 @@ function Car({ GetUrl }) {
                         <div className={classes.hover}>
                           <img src={element.hover} alt="" />
                         </div>
-                        {element.id === "song-plus" || element.id === "han" || element.id === "qin-plus" ? (
+                        {element.id === "song-plus" ||
+                        element.id === "han" ||
+                        element.id === "qin-plus" ? (
                           <Link to={`/byd/${element.id}`}>Узнать больше</Link>
                         ) : (
                           <Link
@@ -90,7 +93,7 @@ function Car({ GetUrl }) {
           </div>
         ) : (
           <div className={classes.loading_car}>
-            <Loading/>
+            <Loading />
           </div>
         )}
       </div>

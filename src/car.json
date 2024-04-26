@@ -101,6 +101,18 @@
       "name": "NIO",
       "img": "/assets/img/nio.png",
       "logo": "/assets/img/nio.png"
+    },
+    {
+      "id": 18,
+      "name": "Porsche",
+      "img": "/assets/img/porsche.png",
+      "logo": "/assets/img/porsche.png"
+    },
+    {
+      "id": 19,
+      "name": "Toyota",
+      "img": "/assets/img/toyota.png",
+      "logo": "/assets/img/toyota.png"
     }
   ]
 }
