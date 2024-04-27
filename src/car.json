@@ -113,6 +113,24 @@
       "name": "Toyota",
       "img": "/assets/img/toyota.png",
       "logo": "/assets/img/toyota.png"
+    },
+    {
+      "id": 20,
+      "name": "Changan",
+      "img": "/assets/img/changan.png",
+      "logo": "/assets/img/changan.png"
+    },
+    {
+      "id": 21,
+      "name": "Deepal",
+      "img": "/assets/img/deepal.png",
+      "logo": "/assets/img/deepal.png"
+    },
+    {
+      "id": 22,
+      "name": "Zhiji",
+      "img": "/assets/img/zhiji.png",
+      "logo": "/assets/img/zhiji.png"
     }
   ]
 }

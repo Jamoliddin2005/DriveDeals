@@ -10618,6 +10618,7 @@
         }
       ]
     },
+
     {
       "id": 9,
       "name": "Buick",
@@ -10698,9 +10699,61 @@
               ]
             }
           ]
+        },
+        {
+          "id": 1,
+          "name": "Buick E5",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car1/carcase/1.png",
+                "/assets/img/cars/buick/car1/carcase/1.png"
+              ]
+            }
+          ]
         }
       ]
     },
+
     {
       "id": 10,
       "name": "YangWang-U8",
@@ -13399,7 +13452,7 @@
       "cars": [
         {
           "id": 0,
-          "name": "HongQi",
+          "name": "HongQi E-HS9",
           "docs": "/assets/docs/hongqi.xlsx",
           "img": "/assets/img/cars/hongqi/car1/img.png",
           "hover": "/assets/img/cars/hongqi/car1/hover.png",
@@ -13482,6 +13535,222 @@
                     "/assets/img/cars/hongqi/car1/cabin/1.png",
                     "/assets/img/cars/hongqi/car1/cabin/2.png",
                     "/assets/img/cars/hongqi/car1/cabin/3.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "HongQi E-QM5",
+          "docs": "/assets/docs/honqi_e_qm5.xlsx",
+          "hover": "/assets/img/cars/hongqi/car2/img.jpg",
+          "img": "/assets/img/cars/hongqi/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 620 km PLUS"
+            },
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 2024 560 km PLUS"
+            },
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 445 км Travel version"
+            },
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 450km Travel version"
+            },
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 500km Travel version"
+            },
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 610km PLUS"
+            },
+            {
+              "id": 0,
+              "name": "HongQi E-QM5 2023 560km PLUS"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/hongqi/car2/carcase/1/1.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/1/2.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/1/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(185 123 119)",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(130 134 143)",
+              "images": [
+                "/assets/img/cars/hongqi/car2/carcase/2/1.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/2/2.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/2/3.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/2/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(185 123 119)",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/hongqi/car2/carcase/3/1.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/3/2.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/3/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(185 123 119)",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Золото",
+              "color": "rgb(197 194 182)",
+              "images": [
+                "/assets/img/cars/hongqi/car2/carcase/4/1.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/4/2.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/4/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(185 123 119)",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Красный",
+              "color": "rgb(239 15 26)",
+              "images": [
+                "/assets/img/cars/hongqi/car2/carcase/5/1.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/5/2.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/5/3.jpg",
+                "/assets/img/cars/hongqi/car2/carcase/5/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/1.webp"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(185 123 119)",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/2.webp"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp",
+                    "/assets/img/cars/hongqi/car2/cabin/3.webp"
                   ]
                 }
               ]
@@ -27496,7 +27765,6 @@
         }
       ]
     },
-
     {
       "id": 19,
       "name": "Toyota",
@@ -27837,6 +28105,1652 @@
                   "images": [
                     "/assets/img/cars/toyota/car1/ver1/cabin/18.jpg",
                     "/assets/img/cars/toyota/car1/ver1/cabin/18.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Changan",
+      "img": "/assets/img/changan.png",
+      "logo": "/assets/img/changan.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Chang An  CS75 PLUS",
+          "img": "/assets/img/cars/changan/car1/changan.jpg",
+          "docs": "/assets/docs/toyota_camry.xlsx",
+          "hover": "/assets/img/cars/changan/car1/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Chang An  CS75 PLUS"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/changan/car1/ver1/carcase/white/1.png",
+                "/assets/img/cars/changan/car1/ver1/carcase/white/2.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/white/3.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/white/4.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/white/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бардовый",
+                  "color": "rgb(185 73 86)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/4.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/5.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(227 143 119)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серебро",
+              "color": "rgb(151 161 176)",
+              "images": [
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/1.png",
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/2.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/3.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/4.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/5.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/6.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/silver/7.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бардовый",
+                  "color": "rgb(185 73 86)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/4.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/5.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(227 143 119)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(107 119 136)",
+              "images": [
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/1.png",
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/2.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/3.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/4.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/5.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/6.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/grey/7.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бардовый",
+                  "color": "rgb(185 73 86)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/4.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/5.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(227 143 119)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/changan/car1/ver1/carcase/black/1.png",
+                "/assets/img/cars/changan/car1/ver1/carcase/black/2.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/black/3.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/black/4.jpg",
+                "/assets/img/cars/changan/car1/ver1/carcase/black/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бардовый",
+                  "color": "rgb(185 73 86)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/4.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/5.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(227 143 119)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(149 182 210)",
+              "images": [
+                "/assets/img/cars/changan/car1/ver1/carcase/blue/1.png",
+                "/assets/img/cars/changan/car1/ver1/carcase/blue/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бардовый",
+                  "color": "rgb(185 73 86)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/4.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/5.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(227 143 119)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "синий",
+              "color": "rgb(52 114 219)",
+              "images": [
+                "/assets/img/cars/changan/car1/ver1/carcase/darkBlue/1.png",
+                "/assets/img/cars/changan/car1/ver1/carcase/darkBlue/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Бардовый",
+                  "color": "rgb(185 73 86)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/4.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/1/5.jpg"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(227 143 119)",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/2/2.jpg"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg",
+                    "/assets/img/cars/changan/car1/ver1/cabin/3/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Changan Qiyuan A07",
+          "img": "/assets/img/cars/changan/car2/changan.png",
+          "docs": "/assets/docs/toyota_camry.xlsx",
+          "hover": "/assets/img/cars/changan/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Changan Qiyuan A07"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/white/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/2.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/2-2.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/3.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/3.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/4.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/5.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/white/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Желтый",
+              "color": "rgb(229 209 150)",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/yellow/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/yellow/2.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/yellow/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(63 121 135)",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/green/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/green/2.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/green/3.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/green/4.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/green/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый -матовый",
+              "color": "rgb(107 148 155)",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/green_mate/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/green_mate/2.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/green_mate/2-2.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/green_mate/3.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/green_mate/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(209 138 209)",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/pink/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/pink/2.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/pink/2-2.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/pink/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(108 108 108)",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/grey/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/grey/2.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/grey/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/changan/car2/ver1/carcase/black/1.png",
+                "/assets/img/cars/changan/car2/ver1/carcase/black/2.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/black/3.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/black/4.jpg",
+                "/assets/img/cars/changan/car2/ver1/carcase/black/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/4.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/1/5.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Коричневый",
+                  "color": "rgb(223 136 116)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/2.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/2/3.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Зеленый",
+                  "color": "rgb(135 135 135)",
+                  "images": [
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/1.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/2.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/3/3.jpg",
+                    "/assets/img/cars/changan/car2/ver1/cabin/6.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/7.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/8.png",
+                    "/assets/img/cars/changan/car2/ver1/cabin/9.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Deepal",
+      "img": "/assets/img/deepal.png",
+      "logo": "/assets/img/deepal.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Deepal S7",
+          "img": "/assets/img/cars/deepal/car1/deepal.jpg",
+          "docs": "/assets/docs/deepalS7.xlsx",
+          "hover": "/assets/img/cars/deepal/car1/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Deepal S7 PRO"
+            },
+            {
+              "id": 0,
+              "name": "Deepal S7 MAX"
+            }
+          ],
+          "options": [
+            {
+              "name": "20-дюймовые диски Moon White Edge + шины Dunlop",
+              "click": false,
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/options/1.png",
+                "/assets/img/cars/deepal/car1/ver1/options/1.png"
+              ]
+            },
+            {
+              "name": "21-дюймовые колеса Energy Wind Blade + шины Continental + спортивная крышка суппорта",
+              "click": false,
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/options/2.png",
+                "/assets/img/cars/deepal/car1/ver1/options/2.png"
+              ]
+            },
+            {
+              "name": "Смарт-ключ",
+              "click": false,
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/options/3.png",
+                "/assets/img/cars/deepal/car1/ver1/options/3.png"
+              ]
+            },
+            {
+              "name": "Смарт-пакет Super sense (Массажное сиденье + 12,3-дюймовый экран для переднего пассажира)",
+              "click": false,
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/options/4.jpg",
+                "/assets/img/cars/deepal/car1/ver1/options/4.jpg"
+              ]
+            },
+            {
+              "name": "Интеллектуальный интерактивный пакет фар",
+              "click": false,
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/options/5.png",
+                "/assets/img/cars/deepal/car1/ver1/options/5.png"
+              ]
+            }
+          ],
+          "colors": [
+            {
+              "name": "Оранжевый",
+              "color": "rgb(254 123 100)",
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/1.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/2.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/3.png",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/4.png",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/5.png",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/6.png",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1/7.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(190 107 70)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/2.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/3.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/4.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/5.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "rgb(56 56 56)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(94 94 94)",
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/carcase/1.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(190 107 70)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/2.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/3.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/4.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/5.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "rgb(56 56 56)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(127 163 172)",
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/carcase/2.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(190 107 70)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/2.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/3.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/4.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/5.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "rgb(56 56 56)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/carcase/3.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(190 107 70)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/2.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/3.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/4.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/5.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "rgb(56 56 56)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/carcase/4.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(190 107 70)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/2.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/3.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/4.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/5.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "rgb(56 56 56)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Желтый",
+              "color": "rgb(231 255 125)",
+              "images": [
+                "/assets/img/cars/deepal/car1/ver1/carcase/5.jpg",
+                "/assets/img/cars/deepal/car1/ver1/carcase/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Оранжевый",
+                  "color": "rgb(190 107 70)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/2.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/3.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/4.png",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/1/5.png"
+                  ]
+                },
+                {
+                  "name": "Черный",
+                  "color": "rgb(56 56 56)",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg",
+                    "/assets/img/cars/deepal/car1/ver1/cabin/2/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Zhiji",
+      "img": "/assets/img/zhiji.png",
+      "logo": "/assets/img/zhiji.png",
+      "cars": [
+        {
+          "id": 0,
+          "name": "Zhiji LS6",
+          "docs": "/assets/docs/zhijiLS6.xlsx",
+          "img": "/assets/img/cars/zhiji/car1/zhiji.png",
+          "hover": "/assets/img/cars/zhiji/car1/hover.png",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Zhiji LS6 Max Standard Edition"
+            },
+            {
+              "id": 0,
+              "name": "Zhiji LS6 Max Long Endurance"
+            },
+            {
+              "id": 0,
+              "name": "Zhiji LS6 Max Ultra Long Endurance"
+            },
+            {
+              "id": 0,
+              "name": "Zhiji LS6 Max Extreme Performance Edition"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/1/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/1/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/1/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Желтый",
+              "color": "rgb(227 196 123)",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/2/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/2/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/2/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Зеленый",
+              "color": "rgb(143 197 194)",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/3/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/3/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/3/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Молочный",
+              "color": "rgb(181 178 175)",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/4/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/4/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/4/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(223 196 190)",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/5/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/5/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/5/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(150 150 150)",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/6/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/6/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/6/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/6/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "rgb(46 46 46)",
+              "images": [
+                "/assets/img/cars/zhiji/car1/carcase/7/1.png",
+                "/assets/img/cars/zhiji/car1/carcase/7/2.png",
+                "/assets/img/cars/zhiji/car1/carcase/7/3.png",
+                "/assets/img/cars/zhiji/car1/carcase/7/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/1/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car1/cabin/1/8.png",
+                    "/assets/img/cars/zhiji/car1/cabin/1/9.png"
+                  ]
+                },
+                {
+                  "name": "Зеленый",
+                  "color": "rgb(170 196 160)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/2/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/2/3.png"
+                  ]
+                },
+                {
+                  "name": "Серый",
+                  "color": "rgb(188 188 188)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car1/cabin/3/1.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/2.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/3.png",
+                    "/assets/img/cars/zhiji/car1/cabin/3/4.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Zhiji L6",
+          "docs": "/assets/docs/zhijiL6.xlsx",
+          "img": "/assets/img/cars/zhiji/car2/zhiji.png",
+          "hover": "/assets/img/cars/zhiji/car2/hover.png",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Zhiji L6 MAX 75 kWh"
+            },
+            {
+              "id": 0,
+              "name": "Zhiji L6 100 kWh"
+            },
+            {
+              "id": 0,
+              "name": "Zhiji L6 MAX 133 kWh"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/zhiji/car2/carcase/1/1.png",
+                "/assets/img/cars/zhiji/car2/carcase/1/2.png",
+                "/assets/img/cars/zhiji/car2/carcase/1/3.png",
+                "/assets/img/cars/zhiji/car2/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/1/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/15.jpg"
+                  ]
+                },
+                {
+                  "name": "Серый + черный",
+                  "color": "rgb(147 147 147)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/2/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/15.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Желтый",
+              "color": "rgb(216 197 135)",
+              "images": [
+                "/assets/img/cars/zhiji/car2/carcase/2/1.png",
+                "/assets/img/cars/zhiji/car2/carcase/2/2.png",
+                "/assets/img/cars/zhiji/car2/carcase/2/3.png",
+                "/assets/img/cars/zhiji/car2/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/1/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/15.jpg"
+                  ]
+                },
+                {
+                  "name": "Серый + черный",
+                  "color": "rgb(147 147 147)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/2/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/15.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Молочный",
+              "color": "rgb(195 188 179)",
+              "images": [
+                "/assets/img/cars/zhiji/car2/carcase/3/1.png",
+                "/assets/img/cars/zhiji/car2/carcase/3/2.png",
+                "/assets/img/cars/zhiji/car2/carcase/3/3.png",
+                "/assets/img/cars/zhiji/car2/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/1/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/15.jpg"
+                  ]
+                },
+                {
+                  "name": "Серый + черный",
+                  "color": "rgb(147 147 147)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/2/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/15.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(194 177 156)",
+              "images": [
+                "/assets/img/cars/zhiji/car2/carcase/4/1.png",
+                "/assets/img/cars/zhiji/car2/carcase/4/2.png",
+                "/assets/img/cars/zhiji/car2/carcase/4/3.png",
+                "/assets/img/cars/zhiji/car2/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/1/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/15.jpg"
+                  ]
+                },
+                {
+                  "name": "Серый + черный",
+                  "color": "rgb(147 147 147)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/2/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/15.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(147 147 147)",
+              "images": [
+                "/assets/img/cars/zhiji/car2/carcase/5/1.png",
+                "/assets/img/cars/zhiji/car2/carcase/5/2.png",
+                "/assets/img/cars/zhiji/car2/carcase/5/3.png",
+                "/assets/img/cars/zhiji/car2/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/1/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/15.jpg"
+                  ]
+                },
+                {
+                  "name": "Серый + черный",
+                  "color": "rgb(147 147 147)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/2/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/15.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/zhiji/car2/carcase/6/1.png",
+                "/assets/img/cars/zhiji/car2/carcase/6/2.png",
+                "/assets/img/cars/zhiji/car2/carcase/6/3.png",
+                "/assets/img/cars/zhiji/car2/carcase/6/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/1/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/1/15.jpg"
+                  ]
+                },
+                {
+                  "name": "Серый + черный",
+                  "color": "rgb(147 147 147)",
+                  "images": [
+                    "/assets/img/cars/zhiji/car2/cabin/2/1.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/2.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/3.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/4.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/5.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/6.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/7.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/8.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/9.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/10.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/11.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/12.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/13.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/14.jpg",
+                    "/assets/img/cars/zhiji/car2/cabin/2/15.jpg"
                   ]
                 }
               ]
