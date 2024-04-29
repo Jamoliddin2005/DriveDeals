@@ -1054,6 +1054,7 @@
         }
       ]
     },
+
     {
       "id": 1,
       "name": "byd",
@@ -2224,7 +2225,6 @@
             }
           ]
         },
-
         {
           "id": 306,
           "name": "BYD HAN EV 506KM Prestige",
@@ -3893,6 +3893,1022 @@
                   "images": [
                     "/assets/img/cars/byd/car4/cabin/Rasm26.jpg",
                     "/assets/img/cars/byd/car4/cabin/Rasm26.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "byd-tang",
+          "name": "BYD Tang",
+          "hover": "/assets/img/cars/byd/car16/hover.jpeg",
+          "img": "/assets/img/cars/byd/car16/hover.jpeg"
+        },
+        {
+          "id": 130,
+          "name": "BYD Tang EV",
+          "hover": "/assets/img/cars/byd/car16/hover.jpeg",
+          "docs": "/assets/docs/byd_tang.xlsx",
+          "img": "/assets/img/cars/byd/car16/hover.jpeg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Tang EV 600KM Exclusive"
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang EV 730KM Exclusive",
+              "linkSubmit": 132
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang EV 635KM AWD Flagship",
+              "linkSubmit": 131
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car16/ver1/carcase/1.jpg",
+                "/assets/img/cars/byd/car16/ver1/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car16/ver1/carcase/2.jpg",
+                "/assets/img/cars/byd/car16/ver1/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синый",
+              "color": "rgb(53 133 209)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver1/carcase/3.jpg",
+                "/assets/img/cars/byd/car16/ver1/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(102 111 125)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver1/carcase/4.jpg",
+                "/assets/img/cars/byd/car16/ver1/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/1.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "name": "BYD Tang EV",
+          "hover": "/assets/img/cars/byd/car16/hover.jpeg",
+          "docs": "/assets/docs/byd_tang.xlsx",
+          "img": "/assets/img/cars/byd/car16/hover.jpeg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Tang EV 635KM AWD Flagship"
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang EV 600KM Exclusive",
+              "linkSubmit": 130
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang EV 730KM Exclusive",
+              "linkSubmit": 132
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car16/ver2/carcase/1.jpg",
+                "/assets/img/cars/byd/car16/ver2/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car16/ver2/carcase/2.jpg",
+                "/assets/img/cars/byd/car16/ver2/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синый",
+              "color": "rgb(53 133 209)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver2/carcase/3.jpg",
+                "/assets/img/cars/byd/car16/ver2/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(102 111 125)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver2/carcase/4.jpg",
+                "/assets/img/cars/byd/car16/ver2/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "name": "BYD Tang EV",
+          "hover": "/assets/img/cars/byd/car16/hover.jpeg",
+          "docs": "/assets/docs/byd_tang.xlsx",
+          "img": "/assets/img/cars/byd/car16/hover.jpeg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Tang EV 730KM Exclusive"
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang EV 635KM AWD Flagship",
+              "linkSubmit": 131
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang EV 600KM Exclusive",
+              "linkSubmit": 130
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car16/ver3/carcase/1.jpg",
+                "/assets/img/cars/byd/car16/ver3/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car16/ver3/carcase/2.jpg",
+                "/assets/img/cars/byd/car16/ver3/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синый",
+              "color": "rgb(53 133 209)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver3/carcase/3.jpg",
+                "/assets/img/cars/byd/car16/ver3/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(102 111 125)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver3/carcase/4.jpg",
+                "/assets/img/cars/byd/car16/ver3/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/4.jpg"
+                  ]
+                },
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg",
+                    "/assets/img/cars/byd/car16/ver1/cabin/2.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "name": "BYD Tang DM-i 200KM",
+          "hover": "/assets/img/cars/byd/car16/dmi-hover.jpeg",
+          "docs": "/assets/docs/byd_tang.xlsx",
+          "img": "/assets/img/cars/byd/car16/dmi-hover.jpeg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "DM-i 200KM Exclusive"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car16/ver4/carcase/1.png",
+                "/assets/img/cars/byd/car16/ver4/carcase/1.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car16/ver4/carcase/2.png",
+                "/assets/img/cars/byd/car16/ver4/carcase/2.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синый",
+              "color": "rgb(98 157 204)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver4/carcase/3.png",
+                "/assets/img/cars/byd/car16/ver4/carcase/3.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(111 123 134)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver4/carcase/4.png",
+                "/assets/img/cars/byd/car16/ver4/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 134,
+          "name": "BYD Tang DM-p",
+          "hover": "/assets/img/cars/byd/car16/tang-dmp.jpg",
+          "docs": "/assets/docs/byd_tang.xlsx",
+          "img": "/assets/img/cars/byd/car16/tang-dmp.jpg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "DM-p 215KM AWD Exclusive"
+            },
+            {
+              "id": 3,
+              "name": "DM-p 215KM AWD Flagship"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/byd/car16/ver5/carcase/1.jpg",
+                "/assets/img/cars/byd/car16/ver5/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car16/ver5/carcase/2.jpg",
+                "/assets/img/cars/byd/car16/ver5/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синый",
+              "color": "rgb(98 157 204)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver5/carcase/3.jpg",
+                "/assets/img/cars/byd/car16/ver5/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(111 123 134)",
+              "images": [
+                "/assets/img/cars/byd/car16/ver5/carcase/4.jpg",
+                "/assets/img/cars/byd/car16/ver5/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver5/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "name": "BYD Tang DM-p God of War",
+          "hover": "/assets/img/cars/byd/car16/dmip-hover.jpeg",
+          "docs": "/assets/docs/byd_tang.xlsx",
+          "img": "/assets/img/cars/byd/car16/dmip-hover.jpeg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Tang DM-p God of War"
+            },
+            {
+              "id": 3,
+              "name": "BYD Tang DM-p God of War"
+            }
+          ],
+          "colors": [
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/byd/car16/ver6/carcase/1.jpg",
+                "/assets/img/cars/byd/car16/ver6/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(169, 169, 169)",
+                  "images": [
+                    "/assets/img/cars/byd/car16/ver6/cabin/1.jpg",
+                    "/assets/img/cars/byd/car16/ver6/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "BYD Dolphin",
+          "hover": "/assets/img/cars/byd/car17/hover.jpg",
+          "docs": "/assets/docs/byd_dolphin.xlsx",
+          "img": "/assets/img/cars/byd/car17/dolphin.jpg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Dolphin 302 km Vitality"
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Freedom",
+              "linkSubmit":203
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Fashion",
+              "linkSubmit":202
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin Knight",
+              "linkSubmit":201
+            }
+          ],
+          "colors": [
+            {
+              "name": "Бежевый",
+              "color": "rgb(218 218 180)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver1/carcase/1.jpg",
+                "/assets/img/cars/byd/car17/ver1/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(218 218 180)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver1/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver1/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(101 144 202)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver1/carcase/2.jpg",
+                "/assets/img/cars/byd/car17/ver1/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Бежевый",
+                  "color": "rgb(218 218 180)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver1/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver1/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "name": "BYD Dolphin Knight",
+          "hover": "/assets/img/cars/byd/car17/hover.jpg",
+          "docs": "/assets/docs/byd_dolphin.xlsx",
+          "img": "/assets/img/cars/byd/car17/dolphin.jpg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Dolphin Knight"
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 302 km Vitality",
+              "linkSubmit":20
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Freedom",
+              "linkSubmit":203
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Fashion",
+              "linkSubmit":202
+            }
+          ],
+          "colors": [
+            {
+              "name": "Розовый",
+              "color": "rgb(249 177 209)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver2/carcase/1.jpg",
+                "/assets/img/cars/byd/car17/ver2/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(116 129 137)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(93 128 178)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver2/carcase/2.jpg",
+                "/assets/img/cars/byd/car17/ver2/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(116 129 137)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver2/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver2/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "name": "BYD Dolphin 420 km Fashion",
+          "hover": "/assets/img/cars/byd/car17/hover.jpg",
+          "docs": "/assets/docs/byd_dolphin.xlsx",
+          "img": "/assets/img/cars/byd/car17/dolphin.jpg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Fashion"
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin Knight",
+              "linkSubmit":201
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 302 km Vitality",
+              "linkSubmit":20
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Freedom",
+              "linkSubmit":203
+            }
+          ],
+          "colors": [
+            {
+              "name": "Бежевый",
+              "color": "rgb(255 238 198)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver3/carcase/1.jpg",
+                "/assets/img/cars/byd/car17/ver3/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Малиновый (Красный)",
+              "color": "rgb(187 38 80)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver3/carcase/2.jpg",
+                "/assets/img/cars/byd/car17/ver3/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(207 150 178)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver3/carcase/3.jpg",
+                "/assets/img/cars/byd/car17/ver3/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(145 155 168)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver3/carcase/4.jpg",
+                "/assets/img/cars/byd/car17/ver3/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(104 143 204)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver3/carcase/5.jpg",
+                "/assets/img/cars/byd/car17/ver3/carcase/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Фиолетовый",
+              "color": "rgb(145 130 209)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver3/carcase/6.jpg",
+                "/assets/img/cars/byd/car17/ver3/carcase/6.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver3/cabin/1.jpg"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "name": "BYD Dolphin 420 km Freedom",
+          "hover": "/assets/img/cars/byd/car17/hover.jpg",
+          "docs": "/assets/docs/byd_dolphin.xlsx",
+          "img": "/assets/img/cars/byd/car17/dolphin.jpg",
+          "collection": [
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Freedom"
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 420 km Fashion",
+              "linkSubmit":202
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin Knight",
+              "linkSubmit":201
+            },
+            {
+              "id": 3,
+              "name": "BYD Dolphin 302 km Vitality",
+              "linkSubmit":20
+            }
+          ],
+          "colors": [
+            {
+              "name": "Бежевый",
+              "color": "rgb(255 238 198)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver4/carcase/1.jpg",
+                "/assets/img/cars/byd/car17/ver4/carcase/1.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Малиновый (Красный)",
+              "color": "rgb(187 38 80)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver4/carcase/2.jpg",
+                "/assets/img/cars/byd/car17/ver4/carcase/2.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(207 150 178)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver4/carcase/3.jpg",
+                "/assets/img/cars/byd/car17/ver4/carcase/3.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(145 155 168)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver4/carcase/4.jpg",
+                "/assets/img/cars/byd/car17/ver4/carcase/4.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(104 143 204)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver4/carcase/5.jpg",
+                "/assets/img/cars/byd/car17/ver4/carcase/5.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Фиолетовый",
+              "color": "rgb(145 130 209)",
+              "images": [
+                "/assets/img/cars/byd/car17/ver4/carcase/6.jpg",
+                "/assets/img/cars/byd/car17/ver4/carcase/6.jpg"
+              ],
+              "cabins": [
+                {
+                  "name": "Розовый",
+                  "color": "rgb(202 156 209)",
+                  "images": [
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg",
+                    "/assets/img/cars/byd/car17/ver4/cabin/1.jpg"
                   ]
                 }
               ]
@@ -10702,7 +11718,7 @@
         },
         {
           "id": 1,
-          "name": "Buick E5",
+          "name": "Buick E5 Pioneer Edition",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
@@ -10713,31 +11729,198 @@
             },
             {
               "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
+            }
+          ],
+          "colors": [
+            {
+              "name": "Серый",
+              "color": "rgb(203 207 212)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver1/carcase/1.png",
+                "/assets/img/cars/buick/car2/ver1/carcase/2.png",
+                "/assets/img/cars/buick/car2/ver1/carcase/3.png",
+                "/assets/img/cars/buick/car2/ver1/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver1/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver1/cabin/2.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver1/carcase/3.png",
+                    "/assets/img/cars/buick/car2/ver1/carcase/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
               "name": "Buick E5 Smart Enjoy Standard Battery Life Version"
             },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
+            }
+          ],
+          "colors": [
+            {
+              "name": "Серый",
+              "color": "rgb(203 207 212)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver1/carcase/1.png",
+                "/assets/img/cars/buick/car2/ver1/carcase/2.png",
+                "/assets/img/cars/buick/car2/ver1/carcase/3.png",
+                "/assets/img/cars/buick/car2/ver1/carcase/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Черный",
+                  "color": "#000",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver1/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver1/cabin/2.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver1/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver1/carcase/3.png",
+                    "/assets/img/cars/buick/car2/ver1/carcase/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
             {
               "id": 0,
               "name": "Buick E5 Smart Enjoy Long Battery Life Version"
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version"
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version"
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version"
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition"
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition"
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
             }
           ],
           "colors": [
@@ -10745,8 +11928,1316 @@
               "name": "Белый",
               "color": "#fff",
               "images": [
-                "/assets/img/cars/buick/car1/carcase/1.png",
-                "/assets/img/cars/buick/car1/carcase/1.png"
+                "/assets/img/cars/buick/car2/ver2/carcase/1/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/1/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/1/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(143 199 237)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/2/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/2/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/2/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(97 72 121)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/3/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/3/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/3/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 140 146)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/4/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/4/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/4/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/5/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/5/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/5/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "Buick E5 Enjoy the standard battery life version",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
+            },
+
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/1/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/1/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/1/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(143 199 237)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/2/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/2/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/2/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(97 72 121)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/3/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/3/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/3/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 140 146)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/4/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/4/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/4/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/5/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/5/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/5/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "name": "Buick E5 Enjoy the long battery life version",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/1/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/1/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/1/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(143 199 237)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/2/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/2/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/2/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(97 72 121)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/3/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/3/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/3/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 140 146)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/4/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/4/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/4/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/buick/car2/ver2/carcase/5/1.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/2.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/3.png",
+                "/assets/img/cars/buick/car2/ver2/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver2/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "18-дюймовые колеса с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver2/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver2/carcase/5/3.png",
+                    "/assets/img/cars/buick/car2/ver2/carcase/5/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name": "Buick E5 Avia four-wheel drive version",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/1/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/1/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/1/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/1/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/1/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(143 199 237)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/2/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/2/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/2/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/2/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/2/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(97 72 121)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/3/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/3/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/3/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/3/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/3/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 140 146)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/4/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/4/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/4/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/4/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/4/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/5/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/5/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/5/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/5/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/5/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Buick E5 Pioneer Pro Edition",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition",
+              "linkSubmit": 107
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/1/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/1/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/1/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/1/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/1/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Голубой",
+              "color": "rgb(143 199 237)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/2/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/2/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/2/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/2/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/2/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(97 72 121)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/3/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/3/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/3/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/3/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/3/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Серый",
+              "color": "rgb(134 140 146)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/4/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/4/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/4/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/4/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/4/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/4/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Черный",
+              "color": "#000",
+              "images": [
+                "/assets/img/cars/buick/car2/ver3/carcase/5/1.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/5/2.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/5/3.png",
+                "/assets/img/cars/buick/car2/ver3/carcase/5/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Серый",
+                  "color": "rgb(99 102 109)",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/2.png"
+                  ]
+                },
+                {
+                  "name": "Серый+Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/cabin/3.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/4.png",
+                    "/assets/img/cars/buick/car2/ver3/cabin/5.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса Ruifeng с низким сопротивлением",
+                  "img": "/assets/img/cars/buick/car2/ver3/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver3/carcase/5/3.png",
+                    "/assets/img/cars/buick/car2/ver3/carcase/5/3.png"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "Buick E5 Zhixiang Pro Edition",
+          "docs": "/assets/docs/buickE5.xlsx",
+          "img": "/assets/img/cars/buick/car2/buick.jpg",
+          "hover": "/assets/img/cars/buick/car2/hover.jpg",
+          "collection": [
+            {
+              "id": 0,
+              "name": "Buick E5 Zhixiang Pro Edition"
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Pro Edition",
+              "linkSubmit": 106
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Avia four-wheel drive version",
+              "linkSubmit": 105
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the long battery life version",
+              "linkSubmit": 104
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Enjoy the standard battery life version",
+              "linkSubmit": 103
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "linkSubmit": 102
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "linkSubmit": 101
+            },
+            {
+              "id": 0,
+              "name": "Buick E5 Pioneer Edition",
+              "linkSubmit": 1
+            }
+          ],
+          "colors": [
+            {
+              "name": "Белый",
+              "color": "#fff",
+              "images": [
+                "/assets/img/cars/buick/car2/ver4/carcase/1/1.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/1/2.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/1/3.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/1/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver4/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver4/cabin/2.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса с низким сопротивлением в форме крыла бабочки",
+                  "img": "/assets/img/cars/buick/car2/ver4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver4/carcase/1/3.png",
+                    "/assets/img/cars/buick/car2/ver4/carcase/1/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Розовый",
+              "color": "rgb(94 63 116)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver4/carcase/2/1.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/2/2.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/2/3.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/2/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver4/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver4/cabin/2.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса с низким сопротивлением в форме крыла бабочки",
+                  "img": "/assets/img/cars/buick/car2/ver4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver4/carcase/2/3.png",
+                    "/assets/img/cars/buick/car2/ver4/carcase/2/3.png"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Синий",
+              "color": "rgb(65 102 218)",
+              "images": [
+                "/assets/img/cars/buick/car2/ver4/carcase/3/1.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/3/2.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/3/3.png",
+                "/assets/img/cars/buick/car2/ver4/carcase/3/4.png"
+              ],
+              "cabins": [
+                {
+                  "name": "Белый",
+                  "color": "#fff",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver4/cabin/1.png",
+                    "/assets/img/cars/buick/car2/ver4/cabin/2.png"
+                  ]
+                }
+              ],
+              "wheels": [
+                {
+                  "name": "20-дюймовые колеса с низким сопротивлением в форме крыла бабочки",
+                  "img": "/assets/img/cars/buick/car2/ver4/wheel/1.png",
+                  "images": [
+                    "/assets/img/cars/buick/car2/ver4/carcase/3/3.png",
+                    "/assets/img/cars/buick/car2/ver4/carcase/3/3.png"
+                  ]
+                }
               ]
             }
           ]

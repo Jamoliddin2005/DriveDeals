@@ -56,6 +56,7 @@ function Car({ GetUrl }) {
                     element.id < 100 ||
                     element.id === "song-plus" ||
                     element.id === "han" ||
+                    element.id === "byd-tang" ||
                     element.id === "qin-plus"
                   ) {
                     return (
@@ -71,6 +72,7 @@ function Car({ GetUrl }) {
                         </div>
                         {element.id === "song-plus" ||
                         element.id === "han" ||
+                        element.id === "byd-tang" ||
                         element.id === "qin-plus" ? (
                           <Link to={`/byd/${element.id}`}>Узнать больше</Link>
                         ) : (

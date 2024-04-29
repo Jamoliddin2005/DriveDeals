@@ -62,5 +62,38 @@
         }
       ]
     }
+  ],
+  "tang":[
+    {
+      "id": "byd-tang",
+      "name": "BYD Tang",
+      "logo": "/assets/img/byd.png",
+      "catalog": [
+        {
+          "id": 130,
+          "name": "BYD Tang EV",
+          "hover": "/assets/img/cars/byd/car16/hover.jpeg",
+          "img": "/assets/img/cars/byd/car16/hover.jpeg"
+        },
+        {
+          "id": 133,
+          "name": "BYD Tang DM-i",
+          "hover": "/assets/img/cars/byd/car16/dmi-hover.jpeg",
+          "img": "/assets/img/cars/byd/car16/dmi-hover.jpeg"
+        },
+        {
+          "id": 134,
+          "name": "BYD Tang DM-p",
+          "hover": "/assets/img/cars/byd/car16/tang-dmp.jpg",
+          "img": "/assets/img/cars/byd/car16/tang-dmp.jpg"
+        },
+        {
+          "id": 135,
+          "name": "BYD Tang DM-p God of War",
+          "hover": "/assets/img/cars/byd/car16/dmip-hover.jpeg",
+          "img": "/assets/img/cars/byd/car16/dmip-hover.jpeg"
+        }
+      ]
+    }
   ]
 }

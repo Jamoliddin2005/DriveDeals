@@ -21,6 +21,9 @@ function CategoryCar({ GetUrl }) {
     else if (location === "qin-plus") {
       setCar(Car?.qinPlus[0]);
     }
+    else if (location === "byd-tang") {
+      setCar(Car?.tang[0]);
+    }
      else if (location === "han") {
       setCar(Car?.han[0]);
     }
