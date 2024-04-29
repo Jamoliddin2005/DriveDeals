@@ -11725,41 +11725,41 @@
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition"
+              "name": "Buick Electra E5 Pioneer"
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -11775,8 +11775,8 @@
               ],
               "cabins": [
                 {
-                  "name": "Черный",
-                  "color": "#000",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(120 123 130)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver1/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver1/cabin/2.png"
@@ -11798,48 +11798,48 @@
         },
         {
           "id": 101,
-          "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+          "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version"
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version"
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -11855,8 +11855,8 @@
               ],
               "cabins": [
                 {
-                  "name": "Черный",
-                  "color": "#000",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(120 123 130)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver1/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver1/cabin/2.png"
@@ -11878,48 +11878,48 @@
         },
         {
           "id": 102,
-          "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+          "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version"
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version"
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -11935,15 +11935,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -11974,15 +11974,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12013,15 +12013,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12052,15 +12052,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12091,15 +12091,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12123,49 +12123,49 @@
         },
         {
           "id": 103,
-          "name": "Buick E5 Enjoy the standard battery life version",
+          "name": "Buick Electra E5 Enjoy the standard battery",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version"
+              "name": "Buick Electra E5 Enjoy the standard battery"
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             },
 
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -12181,15 +12181,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12220,15 +12220,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12259,15 +12259,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12298,15 +12298,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12337,15 +12337,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12369,48 +12369,48 @@
         },
         {
           "id": 104,
-          "name": "Buick E5 Enjoy the long battery life version",
+          "name": "Buick Electra E5 Enjoy the long battery",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version"
+              "name": "Buick Electra E5 Enjoy the long battery"
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -12426,15 +12426,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12465,15 +12465,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12504,15 +12504,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12543,15 +12543,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12582,15 +12582,15 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
-                  "color": "rgb(99 102 109)",
+                  "name": "Комбинация черный+серый",
+                  "color": "rgb(123 126 131)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver2/cabin/2.png"
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver2/cabin/3.png",
@@ -12614,48 +12614,48 @@
         },
         {
           "id": 105,
-          "name": "Buick E5 Avia four-wheel drive version",
+          "name": "Buick Electra E5 Avia AWD",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version"
+              "name": "Buick Electra E5 Avia AWD"
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -12671,7 +12671,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12679,7 +12679,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12710,7 +12710,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12718,7 +12718,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12749,7 +12749,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12757,7 +12757,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12788,7 +12788,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12796,7 +12796,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12827,7 +12827,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12835,7 +12835,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12859,48 +12859,48 @@
         },
         {
           "id": 106,
-          "name": "Buick E5 Pioneer Pro Edition",
+          "name": "Buick Electra E5 Pioneer Pro",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition"
+              "name": "Buick Electra E5 Pioneer Pro"
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             },
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition",
+              "name": "Buick Electra E5 Zhixiang Pro",
               "linkSubmit": 107
             }
           ],
@@ -12916,7 +12916,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12924,7 +12924,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12955,7 +12955,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -12963,7 +12963,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -12994,7 +12994,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -13002,7 +13002,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -13033,7 +13033,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -13041,7 +13041,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -13072,7 +13072,7 @@
               ],
               "cabins": [
                 {
-                  "name": "Серый",
+                  "name": "Комбинация черный+серый",
                   "color": "rgb(99 102 109)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/1.png",
@@ -13080,7 +13080,7 @@
                   ]
                 },
                 {
-                  "name": "Серый+Белый",
+                  "name": "Белый",
                   "color": "#fff",
                   "images": [
                     "/assets/img/cars/buick/car2/ver3/cabin/3.png",
@@ -13104,48 +13104,48 @@
         },
         {
           "id": 107,
-          "name": "Buick E5 Zhixiang Pro Edition",
+          "name": "Buick Electra E5 Zhixiang Pro",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Buick E5 Zhixiang Pro Edition"
+              "name": "Buick Electra E5 Zhixiang Pro"
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Pro Edition",
+              "name": "Buick Electra E5 Pioneer Pro",
               "linkSubmit": 106
             },
             {
               "id": 0,
-              "name": "Buick E5 Avia four-wheel drive version",
+              "name": "Buick Electra E5 Avia AWD",
               "linkSubmit": 105
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the long battery life version",
+              "name": "Buick Electra E5 Enjoy the long battery",
               "linkSubmit": 104
             },
             {
               "id": 0,
-              "name": "Buick E5 Enjoy the standard battery life version",
+              "name": "Buick Electra E5 Enjoy the standard battery",
               "linkSubmit": 103
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Long Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Long Battery Life Version",
               "linkSubmit": 102
             },
             {
               "id": 0,
-              "name": "Buick E5 Smart Enjoy Standard Battery Life Version",
+              "name": "Buick Electra E5 Smart Enjoy Standard Battery Life Version",
               "linkSubmit": 101
             },
             {
               "id": 0,
-              "name": "Buick E5 Pioneer Edition",
+              "name": "Buick Electra E5 Pioneer",
               "linkSubmit": 1
             }
           ],
@@ -13161,8 +13161,8 @@
               ],
               "cabins": [
                 {
-                  "name": "Белый",
-                  "color": "#fff",
+                  "name": "Комбинация синий+белый",
+                  "color": "rgb(131 132 134)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver4/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver4/cabin/2.png"
@@ -13191,8 +13191,8 @@
               ],
               "cabins": [
                 {
-                  "name": "Белый",
-                  "color": "#fff",
+                  "name": "Комбинация синий+белый",
+                  "color": "rgb(131 132 134)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver4/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver4/cabin/2.png"
@@ -13221,8 +13221,8 @@
               ],
               "cabins": [
                 {
-                  "name": "Белый",
-                  "color": "#fff",
+                  "name": "Комбинация синий+белый",
+                  "color": "rgb(131 132 134)",
                   "images": [
                     "/assets/img/cars/buick/car2/ver4/cabin/1.png",
                     "/assets/img/cars/buick/car2/ver4/cabin/2.png"
