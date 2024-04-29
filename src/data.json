@@ -30614,12 +30614,36 @@
           "id": 0,
           "name": "Chang An  CS75 PLUS",
           "img": "/assets/img/cars/changan/car1/changan.jpg",
-          "docs": "/assets/docs/toyota_camry.xlsx",
+          "docs": "/assets/docs/changan_075.xlsx",
           "hover": "/assets/img/cars/changan/car1/hover.jpg",
           "collection": [
             {
               "id": 0,
-              "name": "Chang An  CS75 PLUS"
+              "name": "Changan CS75 PLUS"
+            },
+            {
+              "id": 0,
+              "name": "Changan CS75 PLUS 1.5T Deluxe"
+            },
+            {
+              "id": 0,
+              "name": "Changan CS75 PLUS 1.5T Premium"
+            },
+            {
+              "id": 0,
+              "name": "Changan CS75 PLUS 1.5T Pilot"
+            },
+            {
+              "id": 0,
+              "name": "Changan CS75 PLUS 2.0T Premium"
+            },
+            {
+              "id": 0,
+              "name": "Changan CS75 PLUS 2.0T Flagship"
+            },
+            {
+              "id": 0,
+              "name": "Changan CS75 PLUS Smart IDD"
             }
           ],
           "colors": [
@@ -30861,12 +30885,24 @@
           "id": 1,
           "name": "Changan Qiyuan A07",
           "img": "/assets/img/cars/changan/car2/changan.png",
-          "docs": "/assets/docs/toyota_camry.xlsx",
+          "docs": "/assets/docs/changan_07.xlsx",
           "hover": "/assets/img/cars/changan/car2/hover.jpg",
           "collection": [
             {
               "id": 0,
               "name": "Changan Qiyuan A07"
+            },
+            {
+              "id": 0,
+              "name": "Changan Qiyuan A07 515 Elite"
+            },
+            {
+              "id": 0,
+              "name": "Changan Qiyuan A07 515 Premium"
+            },
+            {
+              "id": 0,
+              "name": "Changan Qiyuan A07 710 Flagship"
             }
           ],
           "colors": [
