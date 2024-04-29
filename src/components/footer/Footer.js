@@ -19,7 +19,7 @@ function Footer() {
               <h3>Drive Deals CO., LTD.</h3>
               <ul>
                 <li>
-                  <span>Телефон:</span> <a href="#">+13910671550</a>
+                  <span>Телефон:</span> <a href="tel:+8613910671550">+8613910671550</a>
                 </li>
                 <li>
                   <span>Адрес:</span>

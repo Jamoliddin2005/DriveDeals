@@ -8,7 +8,7 @@
       "cars": [
         {
           "id": 0,
-          "name": "AVATR 11 90 RWD+",
+          "name": "AVATR 11",
           "img": "/assets/img/cars/avatr/photo1.jpg",
           "hover": "/assets/img/cars/avatr/hover.jpg",
           "options": [
@@ -389,7 +389,7 @@
         },
         {
           "id": 1,
-          "name": "AVATR 12 RWD luxury",
+          "name": "AVATR 12",
           "img": "/assets/img/cars/avatr/photo2.jpg",
           "hover": "/assets/img/cars/avatr/hover2.jpg",
           "options": [
@@ -8724,7 +8724,7 @@
         },
         {
           "id": 1,
-          "name": "Li Xiang L8 Max",
+          "name": "Li Xiang L8",
           "img": "/assets/img/cars/lixiang/photo2.jpg",
           "hover": "/assets/img/cars/lixiang/hover.webp",
           "docs": "/assets/docs/lixiangL8.xlsx",
@@ -9230,7 +9230,7 @@
         },
         {
           "id": 2,
-          "name": "Li Xiang L9 Max",
+          "name": "Li Xiang L9",
           "img": "/assets/img/cars/lixiang/photo3.jpg",
           "hover": "/assets/img/cars/lixiang/hover3.jpg",
           "docs": "/assets/docs/lixiangL9.xlsx",
@@ -9739,14 +9739,14 @@
         },
         {
           "id": 4,
-          "name": "Li Xiang L6 Max",
+          "name": "Li Xiang L6",
           "img": "/assets/img/cars/lixiang/car1/car_ver_4/1.jpg",
           "hover": "/assets/img/cars/lixiang/car1/car_ver_4/2.jpg",
           "docs": "/assets/docs/lixiangL6.xlsx",
           "collection": [
             {
               "id": 0,
-              "name": "Lixiang L6 Max"
+              "name": "Lixiang L6"
             },
             {
               "id": 0,
@@ -11718,7 +11718,7 @@
         },
         {
           "id": 1,
-          "name": "Buick E5 Pioneer Edition",
+          "name": "Buick E5",
           "docs": "/assets/docs/buickE5.xlsx",
           "img": "/assets/img/cars/buick/car2/buick.jpg",
           "hover": "/assets/img/cars/buick/car2/hover.jpg",

@@ -26,7 +26,7 @@ function Contact({ GetUrl }) {
               <div className={classes.contact_left}>
                 <li>
                   Телефонный номер
-                  <a href="tel:+13910671550">+13910671550</a>
+                  <a href="tel:+8613910671550">+8613910671550</a>
                 </li>
                 <li>
                   Электронный адрес

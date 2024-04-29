@@ -42,7 +42,11 @@ function Home({ GetUrl }) {
           </a>
         </li>
         <li>
-          <a href="https://t.me/DD_BHLX" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://t.me/DD_BHLX"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
@@ -66,7 +70,11 @@ function Home({ GetUrl }) {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a
+            href="https://wa.me/8613910671550"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
