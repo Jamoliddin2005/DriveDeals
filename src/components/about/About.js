@@ -65,7 +65,7 @@ function About({ GetUrl, url }) {
             </div>
             <div className={classes.right} data-aos="zoom-in-left">
               <div className={classes.about_pc_image}>
-                <Image image={"/assets/img/about.jfif"} />
+                <Image image={"/assets/img/about/about.jfif"} />
               </div>
             </div>
           </div>

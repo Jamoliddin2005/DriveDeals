@@ -25,15 +25,15 @@ function Contact({ GetUrl }) {
             <div className="row">
               <div className={classes.contact_left}>
                 <li>
-                  Телефонный номер
+                  Телефонный номер:
                   <a href="tel:+8613910671550">+8613910671550</a>
                 </li>
                 <li>
-                  Электронный адрес
+                  Электронный адрес:
                   <a href="mailto: drive.deals@mail.ru">drive.deals@mail.ru</a>
                 </li>
                 <li>
-                  Сайт
+                  Сайт:
                   <a href="http://drive-deals.ru/">drive-deals.ru</a>
                 </li>
               </div>
@@ -88,7 +88,11 @@ function Contact({ GetUrl }) {
               <Link to={"/"}>Заказать авто</Link>
             </div>
 
-            <img src="/assets/img/phone.svg" alt="" className={classes.phone} />
+            <img
+              src="/assets/img/contact/phone.svg"
+              alt=""
+              className={classes.phone}
+            />
           </div>
         </div>
       </div>

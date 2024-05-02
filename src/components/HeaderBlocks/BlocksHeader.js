@@ -8,12 +8,12 @@ function BlocksHeader() {
   }, []);
 
   const [blockImages] = useState([
-    "/assets/img/about-block-6.jpg",
-    "/assets/img/about1.jpg",
-    "/assets/img/about-block-4.jpg",
-    "/assets/img/about-block-5.jpg",
-    "/assets/img/block-2.jfif",
-    "/assets/img/about-block-3.jpg",
+    "/assets/img/home/about-block-6.jpg",
+    "/assets/img/home/about1.jpg",
+    "/assets/img/home/about-block-4.jpg",
+    "/assets/img/home/about-block-5.jpg",
+    "/assets/img/home/block-2.jfif",
+    "/assets/img/home/about-block-3.jpg",
   ]);
 
   return (

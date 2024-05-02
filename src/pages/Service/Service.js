@@ -98,7 +98,7 @@ function Service({ GetUrl }) {
               data-aos="fade-left"
               data-aos-duration="1000"
             >
-              <img src="/assets/img/service.png" alt="" />
+              <img src="/assets/img/service/service.png" alt="" />
             </div>
           </div>
         </div>

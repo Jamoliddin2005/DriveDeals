@@ -28,10 +28,10 @@ function Header() {
   };
 
   const images = [
-    "/assets/img/header-bg-1.png",
-    "/assets/img/header-bg-2.png.jpg",
-    "/assets/img/header-bg-3.png",
-    "/assets/img/header-bg-4.png.jpg",
+    "/assets/img/home/header-bg-1.png",
+    "/assets/img/home/header-bg-2.png.jpg",
+    "/assets/img/home/header-bg-3.png",
+    "/assets/img/home/header-bg-4.png.jpg",
   ];
 
   return (
