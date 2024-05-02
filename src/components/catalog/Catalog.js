@@ -44,7 +44,6 @@ function Catalog({ GetUrl }) {
                   className={classes.item}
                 >
                   <img src={item.img} alt="" />
-                  {/* <Image image={item.img} /> */}
                 </Link>
               ))
             ) : (

@@ -3,134 +3,134 @@
     {
       "id": 0,
       "name": "avatr",
-      "img": "/assets/img/avatr.png",
-      "logo": "/assets/img/cars/avatr/logo.png"
+      "img": "/assets/brands/avatr.png",
+      "logo": "/assets/brands/avatr.png"
     },
     {
       "id": 1,
       "name": "byd",
-      "img": "/assets/img/byd.png",
-      "logo": "/assets/img/byd.png"
+      "img": "/assets/brands/byd.png",
+      "logo": "/assets/brands/byd.png"
     },
     {
       "id": 2,
       "name": "aito",
-      "img": "/assets/img/aito.png",
-      "logo": "/assets/img/aito.png"
+      "img": "/assets/brands/aito.png",
+      "logo": "/assets/brands/aito.png"
     },
     {
       "id": 3,
       "name": "aion",
-      "img": "/assets/img/aion.jpg",
-      "logo": "/assets/img/aion.jpg"
+      "img": "/assets/brands/aion.jpg",
+      "logo": "/assets/brands/aion.jpg"
     },
     {
       "id": 4,
       "name": "zeekr",
-      "img": "/assets/img/zeekr.png",
-      "logo": "/assets/img/zeekr.png"
+      "img": "/assets/brands/zeekr.png",
+      "logo": "/assets/brands/zeekr.png"
     },
     {
       "id": 5,
       "name": "li-Xiang",
-      "img": "/assets/img/li-auto.webp",
-      "logo": "/assets/img/li-auto.webp"
+      "img": "/assets/brands/li-auto.webp",
+      "logo": "/assets/brands/li-auto.webp"
     },
     {
       "id": 7,
       "name": "voyah",
-      "img": "/assets/img/voyah.png",
-      "logo": "/assets/img/voyah.png"
+      "img": "/assets/brands/voyah.png",
+      "logo": "/assets/brands/voyah.png"
     },
     {
       "id": 8,
       "name": "Arcfox",
-      "img": "/assets/img/Arcfox-logo.png",
-      "logo": "/assets/img/Arcfox-logo.png"
+      "img": "/assets/brands/Arcfox-logo.png",
+      "logo": "/assets/brands/Arcfox-logo.png"
     },
     {
       "id": 9,
       "name": "Buick",
-      "img": "/assets/img/Buick-Logo.png",
-      "logo": "/assets/img/Buick-Logo.png"
+      "img": "/assets/brands/Buick-Logo.png",
+      "logo": "/assets/brands/Buick-Logo.png"
     },
     {
       "id": 10,
       "name": "YangWang-U8",
-      "img": "/assets/img/u8.png",
-      "logo": "/assets/img/u8.png"
+      "img": "/assets/brands/u8.png",
+      "logo": "/assets/brands/u8.png"
     },
     {
       "id": 11,
       "name": "Xiaomi",
-      "img": "/assets/img/xiaomi.png",
-      "logo": "/assets/img/xiaomi.png"
+      "img": "/assets/brands/xiaomi.png",
+      "logo": "/assets/brands/xiaomi.png"
     },
     {
       "id": 12,
       "name": "Geely-Galaxy",
-      "img": "/assets/img/geely.jpg",
-      "logo": "/assets/img/geely.jpg"
+      "img": "/assets/brands/geely.jpg",
+      "logo": "/assets/brands/geely.jpg"
     },
     {
       "id": 13,
       "name": "HongQi",
-      "img": "/assets/img/hongQi.png",
-      "logo": "/assets/img/hongQi.png"
+      "img": "/assets/brands/hongQi.png",
+      "logo": "/assets/brands/hongQi.png"
     },
     {
       "id": 14,
       "name": "Leapmotor",
-      "img": "/assets/img/leapmotors.png",
-      "logo": "/assets/img/leapmotors.png"
+      "img": "/assets/brands/leapmotors.png",
+      "logo": "/assets/brands/leapmotors.png"
     },
     {
       "id": 15,
       "name": "Leopard",
-      "img": "/assets/img/leopard.jpg",
-      "logo": "/assets/img/leopard.jpg"
+      "img": "/assets/brands/leopard.jpg",
+      "logo": "/assets/brands/leopard.jpg"
     },
     {
       "id": 16,
       "name": "BMW",
-      "img": "/assets/img/bmw.png",
-      "logo": "/assets/img/bmw.png"
+      "img": "/assets/brands/bmw.png",
+      "logo": "/assets/brands/bmw.png"
     },
     {
       "id": 17,
       "name": "NIO",
-      "img": "/assets/img/nio.png",
-      "logo": "/assets/img/nio.png"
+      "img": "/assets/brands/nio.png",
+      "logo": "/assets/brands/nio.png"
     },
     {
       "id": 18,
       "name": "Porsche",
-      "img": "/assets/img/porsche.png",
-      "logo": "/assets/img/porsche.png"
+      "img": "/assets/brands/porsche.png",
+      "logo": "/assets/brands/porsche.png"
     },
     {
       "id": 19,
       "name": "Toyota",
-      "img": "/assets/img/toyota.png",
-      "logo": "/assets/img/toyota.png"
+      "img": "/assets/brands/toyota.png",
+      "logo": "/assets/brands/toyota.png"
     },
     {
       "id": 20,
       "name": "Changan",
-      "img": "/assets/img/changan.png",
-      "logo": "/assets/img/changan.png"
+      "img": "/assets/brands/changan.png",
+      "logo": "/assets/brands/changan.png"
     },
     {
       "id": 21,
       "name": "Deepal",
-      "img": "/assets/img/deepal.png",
-      "logo": "/assets/img/deepal.png"
+      "img": "/assets/brands/deepal.png",
+      "logo": "/assets/brands/deepal.png"
     },
     {
       "id": 22,
       "name": "Zhiji",
-      "img": "/assets/img/zhiji.png",
-      "logo": "/assets/img/zhiji.png"
+      "img": "/assets/brands/zhiji.png",
+      "logo": "/assets/brands/zhiji.png"
     }
   ]
 }

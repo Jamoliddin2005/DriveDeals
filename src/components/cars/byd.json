@@ -3,7 +3,7 @@
     {
       "id": "song-plus",
       "name": "song-plus",
-      "logo": "/assets/img/byd.png",
+      "logo": "/assets/brands/byd.png",
       "catalog": [
         {
           "id": 300,
@@ -24,7 +24,7 @@
     {
       "id": "han",
       "name": "han",
-      "logo": "/assets/img/byd.png",
+      "logo": "/assets/brands/byd.png",
       "catalog": [
         {
           "id": 303,
@@ -46,7 +46,7 @@
     {
       "id": "qin-plus",
       "name": "Qin Plus",
-      "logo": "/assets/img/byd.png",
+      "logo": "/assets/brands/byd.png",
       "catalog": [
         {
           "id": 304,
@@ -67,7 +67,7 @@
     {
       "id": "byd-tang",
       "name": "BYD Tang",
-      "logo": "/assets/img/byd.png",
+      "logo": "/assets/brands/byd.png",
       "catalog": [
         {
           "id": 130,
