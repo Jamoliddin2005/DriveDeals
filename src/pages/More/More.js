@@ -435,7 +435,12 @@ function More({ GetUrl }) {
                   </>
                 )}
 
-                <button onClick={() => setBuyBtn(true)} className={classes.buyBtn}>Купить</button>
+                <button
+                  onClick={() => setBuyBtn(true)}
+                  className={classes.buyBtn}
+                >
+                  Купить
+                </button>
               </div>
             </main>
 
@@ -457,7 +462,7 @@ function More({ GetUrl }) {
             onClick={() => setBuyBtn(false)}
           ></div>
           <Buy
-          setBuyBtn={setBuyBtn}
+            setBuyBtn={setBuyBtn}
             name={car?.name}
             color={color?.name}
             cabin={cabin?.name}
