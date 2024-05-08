@@ -1,0 +1,53 @@
+.Buy {
+  position: fixed;
+  z-index: 6;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  padding: 30px 40px;
+  width: 700px;
+  border-radius: 5px;
+}
+
+.Buy form input,
+.Buy textarea {
+  resize: vertical;
+  width: 100%;
+  display: block;
+  margin-bottom: 20px !important;
+  padding: 20px !important;
+  border-radius: 3px;
+  border: 1px solid var(--dark) !important;
+  outline: none !important;
+  color: var(--dark) !important;
+  font-family: var(--montserrat) !important;
+  font-size: 16px !important;
+}
+
+.Buy form button {
+  padding: 20px 15px !important;
+  border: 1px solid var(--dark) !important;
+}
+
+.Buy form .btn {
+    background-color: var(--green);
+    font-family: var(--rufina);
+    color: rgb(17, 24, 39);
+    padding: 0.75rem 2rem !important;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    transition: 0.1s;
+    border: 1px solid var(--green);
+    cursor: pointer;
+}
+
+.Buy h2 {
+  font-family: var(--montserrat);
+  margin-bottom: 20px;
+  color: var(--grey3);
+}
+
+.Buy h2 span {
+  color: var(--dark);
+}

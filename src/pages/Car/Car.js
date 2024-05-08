@@ -33,7 +33,7 @@ function Car({ GetUrl }) {
     <>
       {car?.name && (
         <Helmet>
-          <title>{car?.name.toUpperCase()} | Drive Deals</title>
+          <title>{car?.name.toUpperCase()} - Drive Deals</title>
           <meta
             name="description"
             content={`${car?.name} - самые новые автомобили на Drive Deals`}

@@ -27,7 +27,7 @@ function About({ GetUrl, url }) {
     <>
       {search && (
         <Helmet>
-          <title>О компании - Drive Deals | Drive Your Dreams Today</title>
+          <title>О компании - Drive Deals</title>
           <meta
             name="description"
             content="About - Drive Deals, Drive Your Dreams Today"

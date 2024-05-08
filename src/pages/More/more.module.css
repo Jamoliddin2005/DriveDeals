@@ -128,7 +128,7 @@
   margin-bottom: 50px !important;
 }
 
-.main .right .pos_circle .item .nameCar ,
+.main .right .pos_circle .item .nameCar,
 .main .right .calone .item .nameCar,
 .main .right .calon .item .nameCar {
   transform: none !important;
@@ -204,7 +204,7 @@
   cursor: pointer;
 }
 
-.calonOptImg{
+.calonOptImg {
   width: 35px !important;
   height: 35px !important;
 }
@@ -229,6 +229,29 @@
   margin-bottom: 50px;
 }
 
+.backgroundDark {
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 1);
+  transition: 0.3s;
+  opacity: 0.4;
+}
+.buyBtn {
+  background-color: var(--green);
+  font-family: var(--rufina);
+  color: rgb(17, 24, 39);
+  padding: 0.75rem 2rem;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  transition: 0.1s;
+  border: 1px solid var(--green);
+  cursor: pointer;
+  margin-top: 20px;
+}
 @media (max-width: 1010px) {
   .title {
     font-size: 55px;

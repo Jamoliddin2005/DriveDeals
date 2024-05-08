@@ -13,6 +13,7 @@ import LoadingCar from "../../components/LoadingCar/LoadingCar";
 import PDFViewer from "./PDFF";
 import { Helmet } from "react-helmet";
 import { useNavigate } from "react-router-dom";
+import Buy from "../../components/Buy/buy";
 
 const sliderSettings = {
   dots: true,
@@ -36,6 +37,7 @@ function More({ GetUrl }) {
   const [car, setCar] = useState(null);
 
   // SEO
+  const [buyBtn, setBuyBtn] = useState(false);
 
   const [color, setColor] = useState(0);
   const [cabin, setCabin] = useState(0);
@@ -230,7 +232,6 @@ function More({ GetUrl }) {
                 </div>
                 <div className={classes.calon}>
                   {color?.cabins && <h3>Цвет салона</h3>}
-
                   <div className={classes.colors}>
                     {color
                       ? color?.cabins?.map((cbn, index) => (
@@ -348,7 +349,6 @@ function More({ GetUrl }) {
                 )}
                 {color && color?.opt && (
                   <div className={`${classes.calon} ${classes.calone}`}>
-                    <h3>{color?.opt.name}</h3>
                     <div className={classes.colors}>
                       {color
                         ? color?.opt?.options?.map((whl, index) => (
@@ -358,10 +358,10 @@ function More({ GetUrl }) {
                               className={classes.item}
                             >
                               <span
-                                className={`${classes.span} 
-                                
+                                className={`${
+                                  classes.span
+                                }                                 
                                 ${whl.img && classes.calonOptImg}
-
                                 ${
                                   whl.name === calon.name
                                     ? `${classes.active}`
@@ -382,7 +382,6 @@ function More({ GetUrl }) {
                     </div>
                   </div>
                 )}
-
                 <div className={`${classes.circle} ${classes.pos_circle}`}>
                   {color?.wheels && <h3>Колеса</h3>}
                   <div className={classes.colors}>
@@ -435,6 +434,8 @@ function More({ GetUrl }) {
                     ))}
                   </>
                 )}
+
+                <button onClick={() => setBuyBtn(true)} className={classes.buyBtn}>Купить</button>
               </div>
             </main>
 
@@ -448,6 +449,28 @@ function More({ GetUrl }) {
           </div>
         )}
       </div>
+
+      {buyBtn && (
+        <>
+          <div
+            className={classes.backgroundDark}
+            onClick={() => setBuyBtn(false)}
+          ></div>
+          <Buy
+          setBuyBtn={setBuyBtn}
+            name={car?.name}
+            color={color?.name}
+            cabin={cabin?.name}
+            wheel={wheel?.name}
+            salon={color?.opt}
+            calon={calon?.name}
+            details={cabin?.details?.name}
+            options={car?.options}
+            insert={insert}
+            protection={protection?.name}
+          />
+        </>
+      )}
     </Suspense>
   );
 }
