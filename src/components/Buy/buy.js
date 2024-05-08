@@ -70,6 +70,13 @@ function Buy({
 
     message += `\n<b>Время: </b> ${new Date().toLocaleDateString()}`;
 
+    let config = {
+      headers: {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+      },
+    };
+
     axios
       .post(URI_API, {
         chat_id: process.env.REACT_APP_CHAT_ID,
@@ -86,7 +93,7 @@ function Buy({
         setTimeout(() => {
           setBuyBtn(false);
         }, 500);
-      })
+      }, config)
       .catch((err) => {})
       .finally(() => {
         setInputName("");
