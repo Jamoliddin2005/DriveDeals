@@ -5,11 +5,21 @@
   left: 50%;
   transform: translate(-50%, -50%);
   background: #fff;
-  padding: 30px 40px;
+  padding: 40px 40px;
   width: 700px;
   border-radius: 5px;
 }
+.close {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 30px;
+  cursor: pointer;
+}
 
+.close img {
+  width: 100%;
+}
 .Buy form {
   margin-top: 40px;
 }
@@ -58,4 +68,48 @@
 .Buy .buyTextP {
   font-family: var(--montserrat);
   margin-bottom: 12px;
+}
+
+@media (max-width: 800px) {
+  .Buy {
+    width: 90%;
+  }
+
+  .Buy h2 {
+    font-size: 20px;
+  }
+
+  .Buy .buyTextP {
+    font-family: var(--montserrat);
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+
+  .Buy form input,
+  .Buy textarea {
+    padding: 15px !important;
+  }
+
+  .Buy form button {
+    padding: 15px !important;
+  }
+}
+
+@media (max-width: 950px) {
+  .Buy {
+    padding: 40px 20px;
+  }
+  .Buy form {
+    margin-top: 20px;
+  }
+
+  .Buy form .btn {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 500px) {
+  .Buy {
+    width: 100%;
+  }
 }

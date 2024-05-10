@@ -36,7 +36,7 @@ function Buy({
     let message = `<b>drive-deals.ru</b>\n\n`;
     if (buyBtnText === "buy") {
       message += `<b>Клиент нажал кнопку: </b>Сделать заказ\n`;
-    }else{
+    } else {
       message += `<b>Клиент нажал кнопку: </b>Оставить заявку\n`;
     }
     message += `<b>Клиент: ${inputName}</b>\n`;
@@ -158,6 +158,15 @@ function Buy({
           )}
         </>
       )}
+
+      <div
+        className={classes.close}
+        onClick={() => {
+          setBuyBtn(false);
+        }}
+      >
+        <img src="/assets/icons/close.png" alt="" />
+      </div>
 
       <form
         onSubmit={(e) => {

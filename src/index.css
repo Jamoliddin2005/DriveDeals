@@ -37,8 +37,14 @@
   align-items: center;
   justify-content: space-between;
 }
+::-webkit-scrollbar {
+  height: 1px;
+}
 
-.slick-dots {
+::-webkit-scrollbar-thumb {
+  background: var(--grey2);
+}
+​ .slick-dots {
   bottom: 20px;
 }
 
