@@ -16,6 +16,7 @@ function Buy({
   insert,
   protection,
   setBuyBtn,
+  buyBtnText,
 }) {
   const [inputName, setInputName] = useState("");
   const [comment, setComment] = useState("");
@@ -33,6 +34,11 @@ function Buy({
 
   const SubmitHandler = (e) => {
     let message = `<b>drive-deals.ru</b>\n\n`;
+    if (buyBtnText === "buy") {
+      message += `<b>Клиент нажал кнопку: </b>Сделать заказ\n`;
+    }else{
+      message += `<b>Клиент нажал кнопку: </b>Оставить заявку\n`;
+    }
     message += `<b>Клиент: ${inputName}</b>\n`;
     message += `<b>Номер телефона: </b> ${phone}\n`;
     message += `<b>Комментарий: </b> ${comment}\n\n`;
@@ -103,9 +109,56 @@ function Buy({
 
   return (
     <div className={classes.Buy}>
-      <h2>
-        Заказать <span>{name}</span>
-      </h2>
+      {buyBtnText === "buy" && (
+        <>
+          <h2>
+            Заказать <span>{name}</span>
+          </h2>
+          {color && (
+            <p className={classes.buyTextP}>
+              Цвет кузова: <span>{color}</span>
+            </p>
+          )}
+          {cabin && (
+            <p className={classes.buyTextP}>
+              Цвет салона: <span>{cabin}</span>
+            </p>
+          )}
+          {salon && (
+            <p className={classes.buyTextP}>
+              {salon?.name}: <span>{calon}</span>
+            </p>
+          )}
+          {details && (
+            <p className={classes.buyTextP}>
+              {details}: <span>{calon}</span>
+            </p>
+          )}
+          {insert > 0 && (
+            <p className={classes.buyTextP}>
+              Цвет вставок: <span>{insert?.name}</span>
+            </p>
+          )}
+          {protection && (
+            <p className={classes.buyTextP}>
+              Хромированная решетка: <span>{protection}</span>
+            </p>
+          )}
+          {opt?.length >= 1 && (
+            <p className={classes.buyTextP}>
+              Дополнительные опции:{" "}
+              <span>{opt.join().replace(/,/g, ", ")}</span>
+            </p>
+          )}
+
+          {wheel > 0 && (
+            <p className={classes.buyTextP}>
+              Колеса: <span>{wheel}</span>
+            </p>
+          )}
+        </>
+      )}
+
       <form
         onSubmit={(e) => {
           e.preventDefault();

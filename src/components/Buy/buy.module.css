@@ -10,6 +10,9 @@
   border-radius: 5px;
 }
 
+.Buy form {
+  margin-top: 40px;
+}
 .Buy form input,
 .Buy textarea {
   resize: vertical;
@@ -31,15 +34,15 @@
 }
 
 .Buy form .btn {
-    background-color: var(--green);
-    font-family: var(--rufina);
-    color: rgb(17, 24, 39);
-    padding: 0.75rem 2rem !important;
-    font-size: 1.25rem;
-    border-radius: 8px;
-    transition: 0.1s;
-    border: 1px solid var(--green);
-    cursor: pointer;
+  background-color: var(--green);
+  font-family: var(--rufina);
+  color: rgb(17, 24, 39);
+  padding: 0.75rem 2rem !important;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  transition: 0.1s;
+  border: 1px solid var(--green);
+  cursor: pointer;
 }
 
 .Buy h2 {
@@ -50,4 +53,9 @@
 
 .Buy h2 span {
   color: var(--dark);
+}
+
+.Buy .buyTextP {
+  font-family: var(--montserrat);
+  margin-bottom: 12px;
 }

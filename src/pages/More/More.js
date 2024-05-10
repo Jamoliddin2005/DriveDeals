@@ -24,11 +24,6 @@ const sliderSettings = {
 };
 
 function More({ GetUrl }) {
-  useEffect(() => {
-    GetUrl();
-    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
-  });
-
   const location = window.location.pathname.split("/")[2];
   const carId = window.location.pathname.split("/")[3];
   const sliderContainer = useRef(null);
@@ -38,6 +33,7 @@ function More({ GetUrl }) {
 
   // SEO
   const [buyBtn, setBuyBtn] = useState(false);
+  const [buyBtnText, setBuyBtnText] = useState("");
 
   const [color, setColor] = useState(0);
   const [cabin, setCabin] = useState(0);
@@ -45,6 +41,17 @@ function More({ GetUrl }) {
   const [insert, setInsert] = useState(0);
   const [wheel, setWheel] = useState(0);
   const [calon, setCalon] = useState(0);
+
+  useEffect(() => {
+    GetUrl();
+    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+    setColor("");
+    setCabin("");
+    setProtection("");
+    setInsert("");
+    setWheel("");
+    setCalon("");
+  }, [0]);
 
   const [imgContainerWidth, setImgContainerWidth] = useState(0);
   const [currentImgs, setCurrentImgs] = useState("");
@@ -435,12 +442,26 @@ function More({ GetUrl }) {
                   </>
                 )}
 
-                <button
-                  onClick={() => setBuyBtn(true)}
-                  className={classes.buyBtn}
-                >
-                  Купить
-                </button>
+                <div className={classes.btn_Buys}>
+                  <button
+                    onClick={() => {
+                      setBuyBtn(true);
+                      setBuyBtnText("buy");
+                    }}
+                    className={classes.buyBtn}
+                  >
+                    Сделать заказ
+                  </button>
+                  <button
+                    onClick={() => {
+                      setBuyBtn(true);
+                      setBuyBtnText("application");
+                    }}
+                    className={`${classes.buyBtn} ${classes.buyBtn2}`}
+                  >
+                    Оставить заявку
+                  </button>
+                </div>
               </div>
             </main>
 
@@ -462,6 +483,7 @@ function More({ GetUrl }) {
             onClick={() => setBuyBtn(false)}
           ></div>
           <Buy
+            buyBtnText={buyBtnText}
             setBuyBtn={setBuyBtn}
             name={car?.name}
             color={color?.name}
